@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 17:19\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -375,7 +375,7 @@ msgstr "[_ly_] En tout cas, euh ... eh bien, si c'est le cas ... "
 
 # game/Room_Showers.rpy:358 #-#-# translate crowdin A_GoShower_menu1_3c0ffe4c:
 msgid "[_ly_] [name], you tell me:"
-msgstr "[_ly_] [ nom ], vous me dites:"
+msgstr "[_ly_] [name], vous me dites:"
 
 # game/Room_Showers.rpy:361 #-#-# translate crowdin A_GoShower_menu1_a57b2b65:
 msgid "[_ly_] You want to do stuff with me when you see me naked? "
@@ -535,7 +535,7 @@ msgstr "[_ly_] Holy moly ...."
 
 # game/Room_Showers.rpy:509 #-#-# translate crowdin A_GoShower2_d2e5b26d:
 msgid "[_ly_] Oh yeah... [name]..."
-msgstr "[_ly_] Oh oui ... [ nom ] ..."
+msgstr "[_ly_] Oh oui ... [name] ..."
 
 # game/Room_Showers.rpy:511 #-#-# translate crowdin A_GoShower2_0df7be0d:
 msgid "[_ly_] Shove it down my throat... mmhhhw..."
@@ -555,11 +555,11 @@ msgstr "[_ly_] Amandine ... oh merde Amandine ... "
 
 # game/Room_Showers.rpy:524 #-#-# translate crowdin A_GoShower2_8b1f399f:
 msgid "[_ly_] I... oh fuck... [name]..."
-msgstr "[_ly_] I. .. oh merde ... [ nom ] ..."
+msgstr "[_ly_] I. .. oh merde ... [name] ..."
 
 # game/Room_Showers.rpy:527 #-#-# translate crowdin A_GoShower2_b70a0619:
 msgid "[_ly_] Oh fuck! [name]!!!"
-msgstr "[_ly_] Oh merde ! [ nom ] !!!"
+msgstr "[_ly_] Oh merde ! [name] !!!"
 
 # game/Room_Showers.rpy:529 #-#-# translate crowdin A_GoShower2_ea5706a6:
 msgid "[_ly_] Why are you... aaaww..."
@@ -587,7 +587,7 @@ msgstr "[_ly_] Je vais venir ... "
 
 # game/Room_Showers.rpy:541 #-#-# translate crowdin A_GoShower2_d0a933f6:
 msgid "[_ly_] Look at me [name]... fuck... I'm coming to look at you..."
-msgstr "[_ly_] Regarde-moi [ nom ] ... baise ... Je viens te regarder ..."
+msgstr "[_ly_] Regarde-moi [name] ... baise ... Je viens te regarder ..."
 
 # game/Room_Showers.rpy:550 #-#-# translate crowdin A_GoShower2_0494c16b:
 msgid "[_ly_] Damn, that was good..."
