@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 17:19\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -22,7 +22,7 @@ msgstr "[_sz_] Oh, pas toi encore ..."
 
 # game/Cell01_SZ.rpy:96 #-#-# translate crowdin CHARA_SZ_Menu01_82105a03:
 msgid "[_sz_] Greetings [name]. "
-msgstr "[_sz_] Salutations [ nom ]. "
+msgstr "[_sz_] Salutations [name]. "
 
 # game/Cell01_SZ.rpy:119 #-#-# translate crowdin CHARA_SZ_MenuChoice_9473acf7:
 msgid "[_sz_] No [u_EL_name], thank you."
@@ -58,7 +58,7 @@ msgstr "[_sz_] ..."
 
 # game/Cell01_SZ.rpy:215 #-#-# translate crowdin CHARA_SZ_MenuChoice_FAVORS_32347cfa:
 msgid "[_sz_] Have a nice day, [name]. "
-msgstr "[_sz_] Bonne journée, [ nom ]. "
+msgstr "[_sz_] Bonne journée, [name]. "
 
 # game/Cell01_SZ.rpy:233 #-#-# translate crowdin Quest_SZ_Favor_Cape_5d55c620:
 msgid "[_sz_] I have considered this... proposal that you have made."
@@ -406,11 +406,11 @@ msgstr "[_ly_] As you wish, your highness !"
 
 # game/Cell01_SZ.rpy:462 #-#-# translate crowdin Quest_SZ_Favor_Cape03_6d7bfc5e:
 msgid "[_ly_] Perhaps another time, [name] eheh..."
-msgstr "[_ly_] Peut-être un autre temps, [ nom ] eheh ..."
+msgstr "[_ly_] Peut-être un autre temps, [name] eheh ..."
 
 # game/Cell01_SZ.rpy:467 #-#-# translate crowdin Quest_SZ_Favor_Cape03_7af31c90:
 msgid "[_sz_] Come back tomorrow, [name]. "
-msgstr "[_sz_] Revenez demain, [ nom ]. "
+msgstr "[_sz_] Revenez demain, [name]. "
 
 # game/Cell01_SZ.rpy:472 #-#-# translate crowdin Quest_SZ_Favor_Cape04_49602176:
 msgid "[_sz_] You really have a way of presenting things..."
@@ -954,7 +954,7 @@ msgstr "[_sz_] Et ne le poussez-le pas ! Je ne veux pas qu'elle se termine compl
 
 # game/Cell01_SZ.rpy:767 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_74869997:
 msgid "[_sz_] I'll see you tomorrow, Grand Vizier [name]!"
-msgstr "[_sz_] Je te verrai demain, Grand Vizier [ nom ] !"
+msgstr "[_sz_] Je te verrai demain, Grand Vizier [name] !"
 
 # game/Cell01_SZ.rpy:771 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_6b6a6f7c:
 msgid "[_u_] Ok... I feel like I'm going to have fun... "
@@ -1610,7 +1610,7 @@ msgstr "[_e_] Y a-t-il une raison particulière?"
 
 # game/Cell01_SZ.rpy:1207 #-#-# translate crowdin Quest2_A_Talk03_4f2b2715:
 msgid "[_a_] I just wanted to prove to [name] that all you had to do was ask to see boobs."
-msgstr "[_a_] Je voulais juste prouver à [ nom ] que tout ce que vous aviez à faire était de demander à voir des seins."
+msgstr "[_a_] Je voulais juste prouver à [name] que tout ce que vous aviez à faire était de demander à voir des seins."
 
 # game/Cell01_SZ.rpy:1210 #-#-# translate crowdin Quest2_A_Talk03_9e2db2e6:
 msgid "[_a_] Nice boobs, by the way."
@@ -2130,7 +2130,7 @@ msgstr "[_sz_] Mh ... on verra ça plus tard. "
 
 # game/Cell01_SZ.rpy:1528 #-#-# translate crowdin Quest_SZ_Favor_Dress_02_c615ccab:
 msgid "[_sz_] Until tomorrow [name]. "
-msgstr "[_sz_] Jusqu'à demain [ nom ]. "
+msgstr "[_sz_] Jusqu'à demain [name]. "
 
 # game/Cell01_SZ.rpy:1533 #-#-# translate crowdin Quest_SZ_Favor_Boobs_01_7166c2b0:
 msgid "[_sz_] ?!!?"
@@ -2374,7 +2374,7 @@ msgstr "[_sz_] Très bien. Je vais y réfléchir. "
 
 # game/Cell01_SZ.rpy:1645 #-#-# translate crowdin Quest_SZ_Favor_Boobs_01_menu1_dc967327:
 msgid "[_sz_] We'll meet again tomorrow, [name]."
-msgstr "[_sz_] Nous nous reverrons demain, [ nom ]."
+msgstr "[_sz_] Nous nous reverrons demain, [name]."
 
 # game/Cell01_SZ.rpy:1648 #-#-# translate crowdin Quest_SZ_Favor_Boobs_01_menu1_25e6b9a6:
 msgid "[_u_] Wow, I've never had so much trouble seeing boobs!"
@@ -2654,7 +2654,7 @@ msgstr "[_sz_] Eh bien, je pense que c'est assez pour aujourd'hui. "
 
 # game/Cell01_SZ.rpy:1825 #-#-# translate crowdin Quest_SZ_Favor_Boobs_02_menu1_P2_86851e36:
 msgid "[_sz_] Good day to you, [name]."
-msgstr "[_sz_] Bonjour à vous, [ nom ]."
+msgstr "[_sz_] Bonjour à vous, [name]."
 
 # game/Cell01_SZ.rpy:1846 #-#-# translate crowdin Quest_SZ_App01_1df7fd9a:
 msgid "[_u_] Your Highness?"
@@ -2666,7 +2666,7 @@ msgstr "[_u_] Lyco?"
 
 # game/Cell01_SZ.rpy:1849 #-#-# translate crowdin Quest_SZ_App01_4ffeaf6d:
 msgid "[_sz_] [name]! Nice to see you again!"
-msgstr "[_sz_] [ nom ] ! Ravi de vous revoir !"
+msgstr "[_sz_] [name] ! Ravi de vous revoir !"
 
 # game/Cell01_SZ.rpy:1850 #-#-# translate crowdin Quest_SZ_App01_06b4dbc0:
 msgid "[_sz_] I can't wait to get this... soul problem solved."
@@ -2866,7 +2866,7 @@ msgstr "[_u_] Allô ?"
 
 # game/Cell01_SZ.rpy:1950 #-#-# translate crowdin Quest_SZ_Favor_Cape02_f13bff51:
 msgid "[_ly_] [name]!!!"
-msgstr "[_ly_] [ nom ] !!!"
+msgstr "[_ly_] [name] !!!"
 
 # game/Cell01_SZ.rpy:1953 #-#-# translate crowdin Quest_SZ_Favor_Cape02_9346ec7c:
 msgid "[_ly_] I am so happy to see you again!"
@@ -2958,7 +2958,7 @@ msgstr "[_ly_] Bonne chance avec cette lampe !"
 
 # game/Cell01_SZ.rpy:2019 #-#-# translate crowdin Quest_SZ_Favor_Cape02_menu1_P2_7fa9ded6:
 msgid "[_sz_] [name]! Glad to see you back!"
-msgstr "[_sz_] [ nom ] ! Glad de te revoir !"
+msgstr "[_sz_] [name] ! Glad de te revoir !"
 
 # game/Cell01_SZ.rpy:2021 #-#-# translate crowdin Quest_SZ_Favor_Cape02_menu1_P2_4af12f4e:
 msgid "[_sz_] I really hope that we will be able to formulate this wish soon!"
@@ -2970,7 +2970,7 @@ msgstr "[_sz_] Que vous avez prévu aujourd'hui? "
 
 # game/Cell01_SZ.rpy:2034 #-#-# translate crowdin Quest_SZ_Favor_Dos01_e71bd4a1:
 msgid "[_sz_] [name]!! Finally you are here!"
-msgstr "[_sz_] [ nom ] ! ! Enfin vous êtes là !"
+msgstr "[_sz_] [name] ! ! Enfin vous êtes là !"
 
 # game/Cell01_SZ.rpy:2036 #-#-# translate crowdin Quest_SZ_Favor_Dos01_ad5ca360:
 msgid "[_sz_] It still doesn't work."
@@ -3022,7 +3022,7 @@ msgstr "[_sz_] Mrrf ..."
 
 # game/Cell01_SZ.rpy:2071 #-#-# translate crowdin Quest_SZ_Favor_Dos03_c832e4d8:
 msgid "[_sz_] [name]!"
-msgstr "[_sz_] [ nom ] !"
+msgstr "[_sz_] [name] !"
 
 # game/Cell01_SZ.rpy:2073 #-#-# translate crowdin Quest_SZ_Favor_Dos03_c03c2c1f:
 msgid "[_sz_] I found the solution!"
@@ -3094,7 +3094,7 @@ msgstr "[_sz_] Ramenez-le-moi bientôt !"
 
 # game/Cell01_SZ.rpy:2109 #-#-# translate crowdin Quest_SZ_Favor_Dos03_8e7fec1e:
 msgid "[_sz_] Good luck, [name]."
-msgstr "[_sz_] Bonne chance, [ nom ]."
+msgstr "[_sz_] Bonne chance, [name]."
 
 # game/Cell01_SZ.rpy:2126 #-#-# translate crowdin Quest_SZ_Favor_Dos03_640bd5cd:
 msgid "[_tb_] Hey!"
@@ -3166,7 +3166,7 @@ msgstr "[_tb_] Exactement !"
 
 # game/Cell01_SZ.rpy:2153 #-#-# translate crowdin Quest_SZ_Favor_Dos03_b6e97478:
 msgid "[_tb_] Anyway, good luck [name]!"
-msgstr "[_tb_] Bref, bonne chance [ nom ] !"
+msgstr "[_tb_] Bref, bonne chance [name] !"
 
 # game/Cell01_SZ.rpy:2161 #-#-# translate crowdin Quest_SZ_Favor_Dos04_3a86b83c:
 msgid "[_sz_] Finally! I can't wait to finally get rid of this sultana!"
@@ -5098,7 +5098,7 @@ msgstr "[_u_] Yep, c'est ce que j'attendais. "
 
 # game/Cell01_SZ.rpy:3535 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu1_P2_980cac0b:
 msgid "[_e_] [name]!!"
-msgstr "[_e_] [ nom ] ! !"
+msgstr "[_e_] [name] ! !"
 
 # game/Cell01_SZ.rpy:3542 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu1_P2_c14a74f6:
 msgid "[_e_] Finally you're here!"
@@ -6150,7 +6150,7 @@ msgstr "[_u_] Juste parfait !"
 
 # game/Cell01_SZ.rpy:4219 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu2_P3_bf68b404:
 msgid "[_u_] ''Grand Vizier [name]''."
-msgstr "[_u_] '' Grand Vizier [ nom ] ''."
+msgstr "[_u_] '' Grand Vizier [name] ''."
 
 # game/Cell01_SZ.rpy:4221 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu2_P3_9b275e95:
 msgid "[_sz_] If it makes you happy. "
@@ -6174,11 +6174,11 @@ msgstr "[_sz_] Jusqu'à demain ... '' Grand Vizir''. "
 
 # game/Cell01_SZ.rpy:4244 #-#-# translate crowdin Quest_SZ_AskReputation_02_82105a03:
 msgid "[_sz_] Greetings [name]. "
-msgstr "[_sz_] Salutations [ nom ]. "
+msgstr "[_sz_] Salutations [name]. "
 
 # game/Cell01_SZ.rpy:4246 #-#-# translate crowdin Quest_SZ_AskReputation_02_34956ed2:
 msgid "[_sz_] Well... I mean... ''Grand Vizier [name]''."
-msgstr "[_sz_] Eh bien ... Je veux dire ... '' Grand Vizier [ nom ] ''."
+msgstr "[_sz_] Eh bien ... Je veux dire ... '' Grand Vizier [name] ''."
 
 # game/Cell01_SZ.rpy:4248 #-#-# translate crowdin Quest_SZ_AskReputation_02_bf754a83:
 msgid "[_sz_] I've been thinking about our problem and I think there are two possible solutions. "
@@ -6250,7 +6250,7 @@ msgstr "[_sz_] Et puis vous m'avez aidé à récupérer mon trône ..."
 
 # game/Cell01_SZ.rpy:4277 #-#-# translate crowdin Quest_SZ_AskReputation_02_e7dc4ba1:
 msgid "[_sz_] Well... Grand Vizier [name], tell me, what do you think I should do? "
-msgstr "[_sz_] Eh bien ... Grand Vizier [ nom ], dis-moi, qu'est-ce que tu penses que je devrais faire? "
+msgstr "[_sz_] Eh bien ... Grand Vizier [name], dis-moi, qu'est-ce que tu penses que je devrais faire? "
 
 # game/Cell01_SZ.rpy:4278 #-#-# translate crowdin Quest_SZ_AskReputation_02_d337807a:
 msgid "[_u_] Mh..."
