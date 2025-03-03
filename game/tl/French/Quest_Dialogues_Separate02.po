@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 17:19\n"
+"PO-Revision-Date: 2025-03-03 14:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2762,7 +2762,7 @@ msgstr "[_am_] Grand ! À plus tard !"
 
 # game/Quest_Dialogues_Separate02.rpy:2129 #-#-# translate crowdin QuestChap2_Jasmine01_13_c5690791:
 msgid "[_am_] {size=21}{font=joystix.ttf}Hi it's Amelia, I'm not available right now! Please come back later!{/size}{/font}"
-msgstr "[_am_] { size=21 } { font= joystix.ttf } Salut c'est Amelia, je ne suis pas disponible dès maintenant ! Veuillez revenir plus tard ! { /size } { /font }"
+msgstr "[_am_] {size=21}{font= joystix.ttf} Salut c'est Amelia, je ne suis pas disponible dès maintenant ! Veuillez revenir plus tard ! {/size}{/font}"
 
 # game/Quest_Dialogues_Separate02.rpy:2130 #-#-# translate crowdin QuestChap2_Jasmine01_13_7b1c1392:
 msgid "[_u_] ..."
