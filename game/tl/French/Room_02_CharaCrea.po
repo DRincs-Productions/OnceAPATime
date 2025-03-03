@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-04 14:27\n"
+"PO-Revision-Date: 2025-03-03 14:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
-msgstr "[ _u_ ] Pas besoin de créer quoi que ce soit. "
+msgstr "[_u_] Pas besoin de créer quoi que ce soit. "
 
 # game/Room_02_CharaCrea.rpy:28 #-#-# translate crowdin Room_02_CharaCreamenu_e22217e3:
 msgid "This option is locked for now, continue the main quest to unlock it !"
@@ -442,15 +442,15 @@ msgstr "[_u_]..."
 
 # game/Room_02_CharaCrea.rpy:722 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_e8f96d6c:
 msgid "[_u_] What the hell are those numbers?"
-msgstr "[ _u_ ] Quel est ce nombre?"
+msgstr "[_u_] Quel est ce nombre?"
 
 # game/Room_02_CharaCrea.rpy:723 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1f26caaa:
 msgid "[_u_] Did she really put our annual clothes budget into one outfit?"
-msgstr "[ _u_ ] Elle a vraiment mis notre budget annuel en vêtements en une seule tenue?"
+msgstr "[_u_] Elle a vraiment mis notre budget annuel en vêtements en une seule tenue?"
 
 # game/Room_02_CharaCrea.rpy:724 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1d986b85:
 msgid "[_u_] I should go back and see Lyco."
-msgstr "[ _u_ ] Je devrais retourner voir Lyco."
+msgstr "[_u_] Je devrais retourner voir Lyco."
 
 # game/Room_02_CharaCrea.rpy:728 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_16:
 msgid " You have the elements to create this object "
@@ -462,11 +462,11 @@ msgstr "ERREUR: L'objet ne peut pas être créé."
 
 # game/Room_02_CharaCrea.rpy:731 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_27b566c8:
 msgid "[_u_] Even with all the objects, the blueprint still doesn't work???"
-msgstr "[ _u_ ] Même avec tous les objets, le plan ne fonctionne toujours pas???"
+msgstr "[_u_] Même avec tous les objets, le plan ne fonctionne toujours pas???"
 
 # game/Room_02_CharaCrea.rpy:732 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c61165c4:
 msgid "[_u_] Goddamn Lyco..."
-msgstr "[ _u_ ] Goddamn Lyco ..."
+msgstr "[_u_] Goddamn Lyco ..."
 
 # game/Room_02_CharaCrea.rpy:738 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
