@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -436,11 +436,11 @@ msgstr "Attributs d'image"
 
 # game/screens.rpy:1714
 msgid "[name] [attributes] (hidden)"
-msgstr "[ nom ] [ attributs ] (masqué)"
+msgstr "[name] [ attributs ] (masqué)"
 
 # game/screens.rpy:1718
 msgid "[name] [attributes]"
-msgstr "[ nom ] [ attributs ]"
+msgstr "[name] [ attributs ]"
 
 # game/screens.rpy:1767
 msgid "Nothing to inspect."
