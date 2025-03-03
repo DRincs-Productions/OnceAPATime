@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Books01.rpy:27 #-#-# translate crowdin room01_books01_In_46239f59:
 msgid "You've already chosen a book for tonight."
@@ -46,7 +46,7 @@ msgstr "Tu as fini ce livre ! "
 
 # game/Room_01_Books01.rpy:120 #-#-# translate crowdin room01_books01_ReadingSforI_41df3522:
 msgid "[_u_] I'll take this one!"
-msgstr "[ _u_ ] Je vais en prendre un !"
+msgstr "[_u_] Je vais en prendre un !"
 
 # §translate crowdin strings: #|#|# # game/Room_01_Books01.rpy:43
 msgid "Choose a book to read tonight."
