@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
 msgid "[_u_] I don't need this drone at the moment. "
-msgstr "[ _u_ ] Je n'ai pas besoin de ce drone pour le moment. "
+msgstr "[_u_] Je n'ai pas besoin de ce drone pour le moment. "
 
 # game/expedition_02.rpy:609 #-#-# translate crowdin expedition_02_lvl1fouille_88b7fe5b:
 msgid "---------"
