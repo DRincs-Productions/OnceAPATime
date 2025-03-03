@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
@@ -62,7 +62,7 @@ msgstr "Vous avez déjà visité ce personnage ce soir "
 
 # game/Room_02.rpy:153 #-#-# translate crowdin room02_diretcell_9a2f3415:
 msgid "[_u_] It's late, there must be no one there."
-msgstr "[ _u_ ] Il est tard, il ne doit y avoir personne là."
+msgstr "[_u_] Il est tard, il ne doit y avoir personne là."
 
 # game/Room_02.rpy:166 #-#-# translate crowdin room02_diretcell_cd938b39:
 msgid "It's useless to go out for the moment. "
