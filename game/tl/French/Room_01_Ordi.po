@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2025-03-03 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
-msgstr "[ _u_ ] Essayons d'ouvrir cette porte en premier."
+msgstr "[_u_] Essayons d'ouvrir cette porte en premier."
 
 # game/Room_01_Ordi.rpy:110 #-#-# translate crowdin room01_ordi01_In_ComputerMainMenu_ca788b67:
 msgid "Empty your mailbox before buying new items"
@@ -346,7 +346,7 @@ msgstr "{ color=#f2923c} == + 2 caractères de caractères ajoutés ! == { /colo
 
 # game/Room_01_Ordi.rpy:911 #-#-# translate crowdin room01_ordi01_Cheats_75f93969:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [ nom ] { /color }."
+msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [name] { /color }."
 
 # game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
 msgid "You don't have any Cheat Points left. "
@@ -354,7 +354,7 @@ msgstr "Vous n'avez plus aucun Cheat Points. "
 
 # game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [ nom ] { /color }."
+msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [name] { /color }."
 
 # §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
 msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
