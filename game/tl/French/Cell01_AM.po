@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-12 22:08\n"
+"PO-Revision-Date: 2025-03-03 14:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1530,7 +1530,7 @@ msgstr "[Amelia ? Vous vous moquez de moi ? "
 
 # game/Cell01_AM.rpy:1409 #-#-# translate crowdin GalleryImageQuest_Amelia01_03d572b2:
 msgid "[_am_] [name]?!?"
-msgstr "[_am_] [nom] ?!?"
+msgstr "[_am_] [name] ?!?"
 
 # game/Cell01_AM.rpy:1411 #-#-# translate crowdin GalleryImageQuest_Amelia01_375ceb6f:
 msgid "[_am_] You came back faster than I thought!"
@@ -1574,7 +1574,7 @@ msgstr "[Je reviens dans une seconde !"
 
 # game/Cell01_AM.rpy:1463 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_f0eaf5fa:
 msgid "[_am_] Absolutely perfect!"
-msgstr "[Absolument parfait !"
+msgstr "[_am_] Absolument parfait !"
 
 # game/Cell01_AM.rpy:1467 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_3616e869:
 msgid "[_am_] These colors are perfect!"
@@ -1634,7 +1634,7 @@ msgstr "[Oui ! C'est bien cela !"
 
 # game/Cell01_AM.rpy:1496 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_79b8122a:
 msgid "[_am_] A fairy, but like... very cool and badass."
-msgstr "[Une fée, mais... très cool et méchante."
+msgstr "[_am_] Une fée, mais... très cool et méchante."
 
 # game/Cell01_AM.rpy:1498 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_33e41ea0:
 msgid "[_am_] Yeah... that'd be great..."
