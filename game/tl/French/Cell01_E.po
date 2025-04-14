@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 17:19\n"
+"PO-Revision-Date: 2025-04-14 18:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
-msgstr "[À qui appartient ce navire ? "
+msgstr "[_u_] À qui appartient ce navire ? "
 
 # game/Cell01_E.rpy:72 #-#-# translate crowdin Cell01_E_QuestActivations_63256cda:
 msgid "[_u_] Well, I'll ask Tinker about that."
-msgstr "[Je demanderai à Tinker ce qu'il en est."
+msgstr "[_u_] Je demanderai à Tinker ce qu'il en est."
 
 # game/Cell01_E.rpy:107 #-#-# translate crowdin CHARA_E_Menu01_77f08ee8:
 msgid "[_e_] ¡Hola [name]!"
-msgstr "[¡Hola [nom] !]"
+msgstr "[¡Hola [name]!"
 
 # game/Cell01_E.rpy:145 #-#-# translate crowdin CHARA_E_MenuChoice_71a6b8b6:
 msgid "[_u_] Can you show me what you have to sell ?"
-msgstr "[Pouvez-vous me montrer ce que vous avez à vendre ?"
+msgstr "[_u_] Pouvez-vous me montrer ce que vous avez à vendre ?"
 
 # game/Cell01_E.rpy:147 #-#-# translate crowdin CHARA_E_MenuChoice_10d95adb:
 msgid "[_e_] ¡Claro que sí!"
@@ -38,11 +38,11 @@ msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:225 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_29bf4e0a:
 msgid "[_u_] I think I have everything."
-msgstr "[Je crois que j'ai tout."
+msgstr "[_u_] Je crois que j'ai tout."
 
 # game/Cell01_E.rpy:226 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1b29416e:
 msgid "[_u_] Let's go see Amandine."
-msgstr "[Allons voir Amandine."
+msgstr "[_u_] Allons voir Amandine."
 
 # game/Cell01_E.rpy:230 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2:
 msgid "== SALE COMPLETED ! =="
@@ -62,7 +62,7 @@ msgstr "[Pourquoi ? Vous avez perdu vos affaires ?"
 
 # game/Cell01_E.rpy:264 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_ae7e8b4d:
 msgid "[_u_] Tinker lost my stuff."
-msgstr "[Tinker a perdu mes affaires."
+msgstr "[_u_] Tinker a perdu mes affaires."
 
 # game/Cell01_E.rpy:266 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_350501ab:
 msgid "[_e_] Oh... "
@@ -78,7 +78,7 @@ msgstr "[Honnêtement, il s'agit surtout de mobilier de bureau et de ce genre de
 
 # game/Cell01_E.rpy:272 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_8725bd68:
 msgid "[_u_] Oh... are you sure you don't have some leather sofas, silk curtains and nude paintings of yourself? "
-msgstr "[Oh... vous êtes sûr de ne pas avoir des canapés en cuir, des rideaux en soie et des peintures de vous nus ? "
+msgstr "[_u_] Oh... vous êtes sûr de ne pas avoir des canapés en cuir, des rideaux en soie et des peintures de vous nus ? "
 
 # game/Cell01_E.rpy:274 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_420a29b4:
 msgid "[_e_] Of course, I store this in my ballroom. "
@@ -90,7 +90,7 @@ msgstr "[Juste à côté de ma chambre de 5m2."
 
 # game/Cell01_E.rpy:277 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_10d62f95:
 msgid "[_u_] Mfh..."
-msgstr "[Mfh..."
+msgstr "[_u_] Mfh..."
 
 # game/Cell01_E.rpy:279 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_9e484993:
 msgid "[_e_] Yeah, I know. I really need a bigger ship."
@@ -102,7 +102,7 @@ msgstr "[Je vous vends toujours le matériel de bureau ?"
 
 # game/Cell01_E.rpy:282 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_85981c1f:
 msgid "[_u_] Yep. That'd be nice. "
-msgstr "[Oui. Ce serait bien. "
+msgstr "[_u_] Oui. Ce serait bien. "
 
 # game/Cell01_E.rpy:290 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
@@ -186,7 +186,7 @@ msgstr "[_e_] Oui, bien sûr ! Ça sera avec plaisir !"
 
 # game/Cell01_E.rpy:515 #-#-# translate crowdin Emee_Change_HAIRS_eeffea44:
 msgid "[_u_] Goodbye, ma'am!"
-msgstr "[Au revoir, madame !"
+msgstr "[_u_] Au revoir, madame !"
 
 # game/Cell01_E.rpy:518 #-#-# translate crowdin Emee_Change_HAIRS_3574349b:
 msgid "[_e_]  Yeah, Yeah ..."
@@ -202,7 +202,7 @@ msgstr "[_u_] Bonjour ?"
 
 # game/Cell01_E.rpy:546 #-#-# translate crowdin E_RandomBasicDials_D01_f446d2cf:
 msgid "[_u_] Anybody home? "
-msgstr "[Il y a quelqu'un ? "
+msgstr "[_u_] Il y a quelqu'un ? "
 
 # game/Cell01_E.rpy:547 #-#-# translate crowdin E_RandomBasicDials_D01_5aafca21:
 msgid "[_eia_] Excuse me, sir, but madame is currently on the planet... "
@@ -210,7 +210,7 @@ msgstr "[Excusez-moi, monsieur, mais madame est actuellement sur la planète... 
 
 # game/Cell01_E.rpy:548 #-#-# translate crowdin E_RandomBasicDials_D01_22c0164d:
 msgid "[_u_] Oh, I see."
-msgstr "[Oh, je vois."
+msgstr "[_u_] Oh, je vois."
 
 # game/Cell01_E.rpy:549 #-#-# translate crowdin E_RandomBasicDials_D01_fc8470d4:
 msgid "[_u_] Scavenging through scrap heaps and stuff, I'm assuming."
@@ -234,7 +234,7 @@ msgstr "[_u_] Ou du moins très cher. "
 
 # game/Cell01_E.rpy:558 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_ae0beb2e:
 msgid "[_u_] And I somehow can't picture la señora buying you off at a high-class auction."
-msgstr "[Et je n'arrive pas à imaginer la señora en train de vous acheter lors d'une vente aux enchères de luxe."
+msgstr "[_u_] Et je n'arrive pas à imaginer la señora en train de vous acheter lors d'une vente aux enchères de luxe."
 
 # game/Cell01_E.rpy:559 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_383f286e:
 msgid "[_eia_] You are correct. It was through inheritance."
@@ -262,7 +262,7 @@ msgstr "[Je ne suis pas autorisé à vous dire ce que nous avons trouvé sur la 
 
 # game/Cell01_E.rpy:568 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_328184a8:
 msgid "[_u_] Ah, I understand... but have you encountered any androids or other humans? "
-msgstr "[Ah, je comprends... mais avez-vous rencontré des androïdes ou d'autres humains ? "
+msgstr "[_u_] Ah, je comprends... mais avez-vous rencontré des androïdes ou d'autres humains ? "
 
 # game/Cell01_E.rpy:569 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_363dee6f_1:
 msgid "[_eia_] I'm not authorized to tell you the things we found on the planet."
@@ -270,11 +270,11 @@ msgstr "[Je ne suis pas autorisé à vous dire ce que nous avons trouvé sur la 
 
 # game/Cell01_E.rpy:570 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_3d4820c2:
 msgid "[_u_] Oh! Come on! "
-msgstr "[Oh ! Allez ! "
+msgstr "[_u_] Oh ! Allez ! "
 
 # game/Cell01_E.rpy:571 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_4296ed13:
 msgid "[_u_] You're a clever AI, tell me things Emee would allow you to tell me!"
-msgstr "[Tu es une IA intelligente, dis-moi des choses qu'Emee te permettrait de me dire !"
+msgstr "[_u_] Tu es une IA intelligente, dis-moi des choses qu'Emee te permettrait de me dire !"
 
 # game/Cell01_E.rpy:572 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_71085377:
 msgid "[_eia_] Well... As she's already told you, Mrs. Tinkerbell and you are the only living beings she's encountered in months."
@@ -294,7 +294,7 @@ msgstr "[_u_] ''son véritable amour'' ? "
 
 # game/Cell01_E.rpy:579 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_51bcafe2:
 msgid "[_u_] Like... her boyfriend? "
-msgstr "[Comme... son petit ami ? "
+msgstr "[_u_] Comme... son petit ami ? "
 
 # game/Cell01_E.rpy:580 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_b74f2ebb:
 msgid "[_eia_] ..."
@@ -306,7 +306,7 @@ msgstr "[Êtes-vous jaloux, monsieur ? "
 
 # game/Cell01_E.rpy:582 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_332add56:
 msgid "[_u_] Pfff what? No. Never."
-msgstr "[Pfff quoi ? Non. Jamais."
+msgstr "[_u_] Pfff quoi ? Non. Jamais."
 
 # game/Cell01_E.rpy:583 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_1c350d24:
 msgid "[_eia_] In fact, her true love is..."
@@ -322,7 +322,7 @@ msgstr "[_e_] Le charognage."
 
 # game/Cell01_E.rpy:592 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_d560bcfc:
 msgid "[_u_] Have you been listening to our whole conversation? "
-msgstr "[Avez-vous écouté toute notre conversation ? "
+msgstr "[_u_] Avez-vous écouté toute notre conversation ? "
 
 # game/Cell01_E.rpy:594 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_5155f5ae:
 msgid "[_e_] Just the end."
@@ -330,7 +330,7 @@ msgstr "[_e_] Juste la fin."
 
 # game/Cell01_E.rpy:595 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_ff958e23:
 msgid "[_u_] What part of the end? "
-msgstr "[Quelle partie de la fin ? "
+msgstr "[_u_] Quelle partie de la fin ? "
 
 # game/Cell01_E.rpy:597 #-#-# translate crowdin E_RandomBasicDials_D01_menu01_c21758f2:
 msgid "[_e_] It doesn't matter"
@@ -358,7 +358,7 @@ msgstr "[Oui, pour pouvoir aller dans la zone orientale sans se faire remarquer.
 
 # game/Cell01_E.rpy:652 #-#-# translate crowdin Quest2_E_Talk01_8201feda:
 msgid "[_u_] That's so nice of her!"
-msgstr "[C'est très gentil de sa part !"
+msgstr "[_u_] C'est très gentil de sa part !"
 
 # game/Cell01_E.rpy:654 #-#-# translate crowdin Quest2_E_Talk01_65dea50a:
 msgid "[_e_] So I have a blueprint, but not the outfit yet... "
@@ -366,7 +366,7 @@ msgstr "[J'ai donc un plan, mais pas encore la tenue... "
 
 # game/Cell01_E.rpy:655 #-#-# translate crowdin Quest2_E_Talk01_ae338038:
 msgid "[_u_] I can take care of it if you want."
-msgstr "[Je peux m'en occuper si vous voulez."
+msgstr "[_u_] Je peux m'en occuper si vous voulez."
 
 # game/Cell01_E.rpy:657 #-#-# translate crowdin Quest2_E_Talk01_5b375206:
 msgid "[_e_] That would be very nice."
@@ -414,7 +414,7 @@ msgstr "[Je pense que nous avons dépassé la phase de flirt."
 
 # game/Cell01_E.rpy:698 #-#-# translate crowdin Quest2_E_Talk02_7fa5a452:
 msgid "[_u_] Do you know that you are the best Emee? "
-msgstr "[Sais-tu que tu es la meilleure Emee ? "
+msgstr "[_u_] Sais-tu que tu es la meilleure Emee ? "
 
 # game/Cell01_E.rpy:700 #-#-# translate crowdin Quest2_E_Talk02_cd5a6ad7:
 msgid "[_e_] I know. "
@@ -426,7 +426,7 @@ msgstr "[Cet endroit vous convient-il ?"
 
 # game/Cell01_E.rpy:723 #-#-# translate crowdin Quest2_E_Talk02_F1_f336d72d:
 msgid "[_u_] Perfect to fuck your pretty face... "
-msgstr "[Parfait pour baiser ton joli visage... "
+msgstr "[_u_] Parfait pour baiser ton joli visage... "
 
 # game/Cell01_E.rpy:725 #-#-# translate crowdin Quest2_E_Talk02_F1_a77476dd:
 msgid "[_e_] Eheh..."
@@ -446,7 +446,7 @@ msgstr "[_e_] Hmmmmh !! "
 
 # game/Cell01_E.rpy:734 #-#-# translate crowdin Quest2_E_Talk02_F1_d14d556a:
 msgid "[_u_] Did you miss that cock?"
-msgstr "[Vous avez raté cette bite ?"
+msgstr "[_u_] Vous avez raté cette bite ?"
 
 # game/Cell01_E.rpy:735 #-#-# translate crowdin Quest2_E_Talk02_F1_d4ea0f96:
 msgid "[_e_] Not as much as you, my little oriental prince."
@@ -454,7 +454,7 @@ msgstr "[_e_] Pas autant que vous, mon petit prince oriental."
 
 # game/Cell01_E.rpy:737 #-#-# translate crowdin Quest2_E_Talk02_F1_44ad7213:
 msgid "[_u_] My little oriental prince? That's new."
-msgstr "[Mon petit prince oriental ? C'est nouveau."
+msgstr "[_u_] Mon petit prince oriental ? C'est nouveau."
 
 # game/Cell01_E.rpy:739 #-#-# translate crowdin Quest2_E_Talk02_F1_dc7d3d55:
 msgid "[_e_] Maybe you have another nickname in mind? "
@@ -462,7 +462,7 @@ msgstr "[Peut-être avez-vous un autre surnom en tête ? "
 
 # game/Cell01_E.rpy:740 #-#-# translate crowdin Quest2_E_Talk02_F1_716faae5:
 msgid "[_u_] Yeah call me..."
-msgstr "[Oui, appelez-moi..."
+msgstr "[_u_] Oui, appelez-moi..."
 
 # game/Cell01_E.rpy:745 #-#-# translate crowdin Quest2_E_Talk02_F1_3b40c21e:
 msgid "[_e_] Why not, let's keep it simple!"
@@ -494,19 +494,19 @@ msgstr "[Viens ici, [Sceneemee01_NAME] !] "
 
 # game/Cell01_E.rpy:770 #-#-# translate crowdin Quest2_E_Talk02_F1_93065e3a:
 msgid "[_u_] Oh yeah..."
-msgstr "[Oh oui..."
+msgstr "[_u_] Oh oui..."
 
 # game/Cell01_E.rpy:771 #-#-# translate crowdin Quest2_E_Talk02_F1_bcacd78a:
 msgid "[_u_] I feel like you're going to have a hard time..."
-msgstr "[J'ai l'impression que vous allez avoir du mal..."
+msgstr "[_u_] J'ai l'impression que vous allez avoir du mal..."
 
 # game/Cell01_E.rpy:772 #-#-# translate crowdin Quest2_E_Talk02_F1_65899844:
 msgid "[_u_] With your little blue mouth full... "
-msgstr "[Avec votre petite bouche bleue pleine... "
+msgstr "[_u_] Avec votre petite bouche bleue pleine... "
 
 # game/Cell01_E.rpy:773 #-#-# translate crowdin Quest2_E_Talk02_F1_425d1483:
 msgid "[_u_] Try to talk? "
-msgstr "[Essayer de parler ? "
+msgstr "[_u_] Essayer de parler ? "
 
 # game/Cell01_E.rpy:776 #-#-# translate crowdin Quest2_E_Talk02_F1_fb7f0c18:
 msgid "[_e_] Mmmmmmffh! "
@@ -514,7 +514,7 @@ msgstr "[Mmmmmmffh ! "
 
 # game/Cell01_E.rpy:777 #-#-# translate crowdin Quest2_E_Talk02_F1_52d301e9:
 msgid "[_u_] I love hearing you choke on my cock! "
-msgstr "[J'aime t'entendre t'étouffer avec ma bite ! "
+msgstr "[_u_] J'aime t'entendre t'étouffer avec ma bite ! "
 
 # game/Cell01_E.rpy:786 #-#-# translate crowdin Quest2_E_Talk02_F1_efdcfd6c:
 msgid "[_e_] Oh [Sceneemee01_NAME], I would choke on your cock a thousand times if I had to! "
@@ -526,7 +526,7 @@ msgstr "[_e_] Mmmmmmhhhh..."
 
 # game/Cell01_E.rpy:798 #-#-# translate crowdin Sceneemee01_menu1_dbc9ea32:
 msgid "[_u_] You suck like a goddess... "
-msgstr "[Tu suces comme une déesse... "
+msgstr "[_u_] Tu suces comme une déesse... "
 
 # game/Cell01_E.rpy:800 #-#-# translate crowdin Sceneemee01_menu1_c94bfa72:
 msgid "[_e_] Mmmmmh..."
@@ -534,7 +534,7 @@ msgstr "[_e_] Mmmmmh..."
 
 # game/Cell01_E.rpy:801 #-#-# translate crowdin Sceneemee01_menu1_cdad1525:
 msgid "[_u_] Oh yeah... keep going..."
-msgstr "[Oh oui... continuez..."
+msgstr "[_u_] Oh oui... continuez..."
 
 # game/Cell01_E.rpy:803 #-#-# translate crowdin Sceneemee01_menu1_a2a23130:
 msgid "[_u_] !!!"
@@ -546,15 +546,15 @@ msgstr "[_u_] Putain... tu es si bon !"
 
 # game/Cell01_E.rpy:806 #-#-# translate crowdin Sceneemee01_menu1_891c075a:
 msgid "[_u_] Deeper!"
-msgstr "[Plus profond !"
+msgstr "[_u_] Plus profond !"
 
 # game/Cell01_E.rpy:807 #-#-# translate crowdin Sceneemee01_menu1_23011d0a:
 msgid "[_u_] Yeah... just like that..."
-msgstr "[Oui... comme ça..."
+msgstr "[_u_] Oui... comme ça..."
 
 # game/Cell01_E.rpy:809 #-#-# translate crowdin Sceneemee01_menu1_e0c84378:
 msgid "[_u_] Harder!"
-msgstr "[Plus fort !"
+msgstr "[_u_] Plus fort !"
 
 # game/Cell01_E.rpy:810 #-#-# translate crowdin Sceneemee01_menu1_203c219e:
 msgid "[_u_] Oh damn it's good..."
@@ -566,11 +566,11 @@ msgstr "[_e_] ! !! "
 
 # game/Cell01_E.rpy:813 #-#-# translate crowdin Sceneemee01_menu1_4e1a9462:
 msgid "[_u_] ...slow down a bit."
-msgstr "[...ralentir un peu."
+msgstr "[_u_] ...ralentir un peu."
 
 # game/Cell01_E.rpy:815 #-#-# translate crowdin Sceneemee01_menu1_9a5eea00:
 msgid "[_u_] You are really not bad. "
-msgstr "[Vous n'êtes vraiment pas mal. "
+msgstr "[_u_] Vous n'êtes vraiment pas mal. "
 
 # game/Cell01_E.rpy:819 #-#-# translate crowdin Sceneemee01_menu1_cc7552db:
 msgid "[_e_] !!!"
@@ -578,7 +578,7 @@ msgstr "[_e_] ! !!"
 
 # game/Cell01_E.rpy:821 #-#-# translate crowdin Sceneemee01_menu1_e0748244:
 msgid "[_u_] You like it?"
-msgstr "[Vous aimez ?"
+msgstr "[_u_] Vous aimez ?"
 
 # game/Cell01_E.rpy:823 #-#-# translate crowdin Sceneemee01_menu1_e350d6e7:
 msgid "[_e_] !!!!! "
@@ -590,7 +590,7 @@ msgstr "[_u_] Oh gosh..."
 
 # game/Cell01_E.rpy:828 #-#-# translate crowdin Sceneemee01_menu1_6366e6ec:
 msgid "[_u_] You are delicious."
-msgstr "[Vous êtes délicieux."
+msgstr "[_u_] Vous êtes délicieux."
 
 # game/Cell01_E.rpy:830 #-#-# translate crowdin Sceneemee01_menu1_e9c40f23:
 msgid "[_u_] Fuck..."
@@ -646,11 +646,11 @@ msgstr "[Je sens que je vais l'aimer un peu trop... "
 
 # game/Cell01_E.rpy:865 #-#-# translate crowdin Sceneemee01_menu1_68bc0aa4:
 msgid "[_u_] Damn... that ass... "
-msgstr "[Putain... ce cul... "
+msgstr "[_u_] Putain... ce cul... "
 
 # game/Cell01_E.rpy:869 #-#-# translate crowdin Sceneemee01_menu1_9213b7ce:
 msgid "[_u_] It's so perfect. "
-msgstr "[C'est si parfait. "
+msgstr "[_u_] C'est si parfait. "
 
 # game/Cell01_E.rpy:871 #-#-# translate crowdin Sceneemee01_menu1_a77476dd:
 msgid "[_e_] Eheh..."
@@ -658,7 +658,7 @@ msgstr "[_e_] Eheh..."
 
 # game/Cell01_E.rpy:873 #-#-# translate crowdin Sceneemee01_menu1_b16de3c9:
 msgid "[_u_] Your ass is so good Emee... "
-msgstr "[Ton cul est si bon Emee... "
+msgstr "[_u_] Ton cul est si bon Emee... "
 
 # game/Cell01_E.rpy:875 #-#-# translate crowdin Sceneemee01_menu1_a2a23130_1:
 msgid "[_u_] !!!"
@@ -706,7 +706,7 @@ msgstr "[Je n'en peux plus... c'est trop bon....."
 
 # game/Cell01_E.rpy:897 #-#-# translate crowdin Sceneemee01_menu1_2fb5710f:
 msgid "[_u_] Come on... a little bit more..."
-msgstr "[Allez... encore un peu..."
+msgstr "[_u_] Allez... encore un peu..."
 
 # game/Cell01_E.rpy:899 #-#-# translate crowdin Sceneemee01_menu1_df315d58:
 msgid "[_e_] Hooo YES!"
@@ -718,7 +718,7 @@ msgstr "[_e_] ! !!!!"
 
 # game/Cell01_E.rpy:902 #-#-# translate crowdin Sceneemee01_menu1_01a31e9e:
 msgid "[_u_] FUCK, I'm gonna cum!!!"
-msgstr "[FUCK, je vais jouir ! !!"
+msgstr "[_u_] FUCK, je vais jouir ! !!"
 
 # game/Cell01_E.rpy:917 #-#-# translate crowdin Sceneemee01_menu1_cc7552db_1:
 msgid "[_e_] !!!"
@@ -730,7 +730,7 @@ msgstr "[C'était parfait... [Sceneemee01_NAME]..."
 
 # game/Cell01_E.rpy:922 #-#-# translate crowdin Sceneemee01_menu1_f28f72be:
 msgid "[_u_] Open your mouth. "
-msgstr "[Ouvrez la bouche. "
+msgstr "[_u_] Ouvrez la bouche. "
 
 # game/Cell01_E.rpy:924 #-#-# translate crowdin Sceneemee01_menu1_73657906:
 msgid "[_e_] Haahh!!!"
@@ -770,7 +770,7 @@ msgstr "[Je vous montrerai si vous voulez, je pense que vous ne la reconnaîtrez
 
 # game/Cell01_E.rpy:972 #-#-# translate crowdin Quest2_E_Talk03_78757333:
 msgid "[_u_] It's super exciting and at the same time you scare me a little. "
-msgstr "[C'est super excitant et en même temps tu me fais un peu peur. "
+msgstr "[_u_] C'est super excitant et en même temps tu me fais un peu peur. "
 
 # game/Cell01_E.rpy:974 #-#-# translate crowdin Quest2_E_Talk03_2d5cdc2d:
 msgid "[_e_] It is precisely this emotion that I wanted to transmit, amigo."
@@ -778,15 +778,15 @@ msgstr "[C'est précisément cette émotion que j'ai voulu transmettre, amigo."
 
 # game/Cell01_E.rpy:987 #-#-# translate crowdin Emee_FirstAppChap2_50238858:
 msgid "[_u_] It's so strange to enter this ship without teleporting... "
-msgstr "[C'est si étrange d'entrer dans ce vaisseau sans se téléporter... "
+msgstr "[_u_] C'est si étrange d'entrer dans ce vaisseau sans se téléporter... "
 
 # game/Cell01_E.rpy:995 #-#-# translate crowdin GalleryImageQuest_Emee01_02c333da:
 msgid "[_u_] I missed those blue breasts."
-msgstr "[Ces seins bleus m'ont manqué."
+msgstr "[_u_] Ces seins bleus m'ont manqué."
 
 # game/Cell01_E.rpy:998 #-#-# translate crowdin GalleryImageQuest_Emee01_39686b44:
 msgid "[_u_] Hey! Hi Emee!"
-msgstr "[Hey ! Hi Emee !"
+msgstr "[_u_] Hey ! Hi Emee !"
 
 # game/Cell01_E.rpy:1001 #-#-# translate crowdin GalleryImageQuest_Emee01_cc7552db:
 msgid "[_e_] !!!"
@@ -802,7 +802,7 @@ msgstr "[Depuis combien de temps êtes-vous de retour ? "
 
 # game/Cell01_E.rpy:1007 #-#-# translate crowdin GalleryImageQuest_Emee01_2222ae8c:
 msgid "[_u_] I just arrived."
-msgstr "[Je viens d'arriver."
+msgstr "[_u_] Je viens d'arriver."
 
 # game/Cell01_E.rpy:1009 #-#-# translate crowdin GalleryImageQuest_Emee01_4410df7e:
 msgid "[_e_] Well, I'm glad you're home."
@@ -810,7 +810,7 @@ msgstr "[Je suis content que tu sois rentré."
 
 # game/Cell01_E.rpy:1022 #-#-# translate crowdin GalleryImageQuest_Emee01_afe9ebbc:
 msgid "[_u_] Tinker told me to come see you. "
-msgstr "[Tinker m'a dit de venir vous voir. "
+msgstr "[_u_] Tinker m'a dit de venir vous voir. "
 
 # game/Cell01_E.rpy:1023 #-#-# translate crowdin GalleryImageQuest_Emee01_c79ba420:
 msgid "[_u_] We have a lot of work ahead of us!"
@@ -886,7 +886,7 @@ msgstr "[Je pense que la salle de douches sera bientôt terminée !"
 
 # game/Cell01_E.rpy:1082 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P1_c0cc7be2:
 msgid "[_u_] The showers room? "
-msgstr "[La salle des douches ? "
+msgstr "[_u_] La salle des douches ? "
 
 # game/Cell01_E.rpy:1084 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P1_a3bfaf62:
 msgid "[_e_] Yeah! A big room with lots of showers, and unlimited hot water!!!"
@@ -894,7 +894,7 @@ msgstr "[_e_] Ouais ! Une grande salle avec beaucoup de douches, et de l'eau cha
 
 # game/Cell01_E.rpy:1085 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P1_eb7f84d3:
 msgid "[_u_] Whooaa so good... "
-msgstr "[_u_] Whooaa so good... "
+msgstr "[_u_] Whooaa tellement bon... "
 
 # game/Cell01_E.rpy:1087 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P1_6fddd037:
 msgid "[_e_] I know ~"
@@ -910,7 +910,7 @@ msgstr "[Vous devriez demander à Mélissandre si elle a eu le temps d'envoyer u
 
 # game/Cell01_E.rpy:1092 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P1_1633d495:
 msgid "[_u_] I will!"
-msgstr "[Je le ferai !"
+msgstr "[_u_] Je le ferai !"
 
 # game/Cell01_E.rpy:1100 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P2_347c48c7:
 msgid "[_e_] Well, we have a certain ''Amandine de Beauregard'' who should arrive. "
@@ -918,7 +918,7 @@ msgstr "[Nous avons une certaine \"Amandine de Beauregard\" qui devrait arriver.
 
 # game/Cell01_E.rpy:1101 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P2_724ee88e:
 msgid "[_u_] Yeah I met her outside."
-msgstr "[Oui, je l'ai rencontrée dehors."
+msgstr "[_u_] Oui, je l'ai rencontrée dehors."
 
 # game/Cell01_E.rpy:1103 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P2_19bb28aa:
 msgid "[_e_] You... "
@@ -958,7 +958,7 @@ msgstr "[Que voulez-vous dire ? "
 
 # game/Cell01_E.rpy:1124 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P2_00acd11b:
 msgid "[_u_] Well, when you see her clothes and jewelry, we look like space bandits next to her."
-msgstr "[Quand on voit ses vêtements et ses bijoux, on a l'air de bandits de l'espace à côté d'elle."
+msgstr "[_u_] Quand on voit ses vêtements et ses bijoux, on a l'air de bandits de l'espace à côté d'elle."
 
 # game/Cell01_E.rpy:1126 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P2_a32e30fd:
 msgid "[_e_] Great."
@@ -1002,7 +1002,7 @@ msgstr "[_u_] Oooooh je vois."
 
 # game/Cell01_E.rpy:1150 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_53536b1d:
 msgid "[_u_] You finally gave her a body and her name is Amelia, right? "
-msgstr "[Vous lui avez enfin donné un corps et elle s'appelle Amelia, n'est-ce pas ? "
+msgstr "[_u_] Vous lui avez enfin donné un corps et elle s'appelle Amelia, n'est-ce pas ? "
 
 # game/Cell01_E.rpy:1152 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_674089c2:
 msgid "[_e_] Yeah... Em-AI, Amelia... We thought it would work well as a name. "
@@ -1010,7 +1010,7 @@ msgstr "[Ouais... Em-AI, Amelia... Nous avons pensé qu'il s'agirait d'un bon no
 
 # game/Cell01_E.rpy:1154 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_cb8201ce:
 msgid "[_u_] I can't wait to see it in real life! Where is she? "
-msgstr "[J'ai hâte de la voir en vrai ! Où est-elle ? "
+msgstr "[_u_] J'ai hâte de la voir en vrai ! Où est-elle ? "
 
 # game/Cell01_E.rpy:1156 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_cd0ee85b:
 msgid "[_e_] No idea."
@@ -1062,7 +1062,7 @@ msgstr "[Oui... mais elle était tellement débordée de travail... C'était dif
 
 # game/Cell01_E.rpy:1192 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_fdbce207:
 msgid "[_u_] Oh..."
-msgstr "[Oh..."
+msgstr "[_u_] Oh..."
 
 # game/Cell01_E.rpy:1194 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_721d6f21:
 msgid "[_e_] Well, I may have masturbated her a bit one night. "
@@ -1074,7 +1074,7 @@ msgstr "[Mais je pense qu'elle a besoin d'une bite."
 
 # game/Cell01_E.rpy:1198 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_d337807a:
 msgid "[_u_] Mh..."
-msgstr "[Mh..."
+msgstr "[_u_] Mh..."
 
 # game/Cell01_E.rpy:1200 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_fc940d45:
 msgid "[_e_] You know, I'm up for it whenever you want."
@@ -1082,7 +1082,7 @@ msgstr "[Vous savez, je suis prêt à le faire quand vous voulez."
 
 # game/Cell01_E.rpy:1201 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_f0969c0d:
 msgid "[_u_] All of humanity does not deserve you, Emee. "
-msgstr "[Toute l'humanité ne te mérite pas, Emee. "
+msgstr "[_u_] Toute l'humanité ne te mérite pas, Emee. "
 
 # game/Cell01_E.rpy:1203 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_bd1661fc:
 msgid "[_e_] I know."
@@ -1102,7 +1102,7 @@ msgstr "[_u_] Tinker ?"
 
 # game/Cell01_E.rpy:1227 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_d744a49c:
 msgid "[_u_] Did you listen to our conversation?"
-msgstr "[Avez-vous écouté notre conversation ?"
+msgstr "[_u_] Avez-vous écouté notre conversation ?"
 
 # game/Cell01_E.rpy:1234 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_470dd860:
 msgid "[_tb_] No."
@@ -1110,11 +1110,11 @@ msgstr "[Non."
 
 # game/Cell01_E.rpy:1240 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_E.rpy:1241 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_11d105e9:
 msgid "[_u_] We should find a way to talk to each other without being spied on. "
-msgstr "[Nous devrions trouver un moyen de nous parler sans être espionnés. "
+msgstr "[_u_] Nous devrions trouver un moyen de nous parler sans être espionnés. "
 
 # game/Cell01_E.rpy:1243 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_0a380e40:
 msgid "[_e_] We are working on this problem with Meli."
@@ -1266,7 +1266,7 @@ msgstr "[_a_] Elle va bien ? "
 
 # game/Cell01_E.rpy:1360 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_8aeafe90:
 msgid "[_u_] I think she's just a little intimidated."
-msgstr "[Je pense qu'elle est juste un peu intimidée."
+msgstr "[_u_] Je pense qu'elle est juste un peu intimidée."
 
 # game/Cell01_E.rpy:1362 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_7891e355:
 msgid "[_a_] Oh."
@@ -1282,7 +1282,7 @@ msgstr "[_a_] J'espère que je ne l'ai pas trop effrayée. "
 
 # game/Cell01_E.rpy:1367 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_ea794a28:
 msgid "[_u_] I'm sure she'll recover."
-msgstr "[Je suis sûr qu'elle se remettra."
+msgstr "[_u_] Je suis sûr qu'elle se remettra."
 
 # game/Cell01_E.rpy:1369 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_9572eb70:
 msgid "[_a_] If you want, we can meet tomorrow to discuss our mission."
@@ -1294,7 +1294,7 @@ msgstr "[_a_] Je reviens de 8 jours de voyage, j'ai vraiment besoin de me poser.
 
 # game/Cell01_E.rpy:1372 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_38747efe:
 msgid "[_u_] Oh yes, of course, please."
-msgstr "[Oh oui, bien sûr, s'il vous plaît."
+msgstr "[_u_] Oh oui, bien sûr, s'il vous plaît."
 
 # game/Cell01_E.rpy:1374 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_4772d118:
 msgid "[_a_] Thanks a lot, see you tomorrow [name]!"
@@ -1322,11 +1322,11 @@ msgstr "[_u_] Jolies pantoufles. "
 
 # game/Cell01_E.rpy:1418 #-#-# translate crowdin Emee_Dress02_React_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_E.rpy:1419 #-#-# translate crowdin Emee_Dress02_React_95ceee2e:
 msgid "[_u_] They are very pointed... "
-msgstr "[Ils sont très pointus... "
+msgstr "[_u_] Ils sont très pointus... "
 
 # game/Cell01_E.rpy:1424 #-#-# translate crowdin Emee_Dress02_React_655cf531:
 msgid "[_e_] Do you have a problem with my shoes?"
@@ -1346,11 +1346,11 @@ msgstr "[Je les aime beaucoup."
 
 # game/Cell01_E.rpy:1430 #-#-# translate crowdin Emee_Dress02_React_6fbc7d06:
 msgid "[_u_] I said nothing!"
-msgstr "[Je n'ai rien dit !"
+msgstr "[_u_] Je n'ai rien dit !"
 
 # game/Cell01_E.rpy:1431 #-#-# translate crowdin Emee_Dress02_React_ab37ccf4:
 msgid "[_u_] When are you going out on a mission to try on your outfit? "
-msgstr "[Quand partez-vous en mission pour essayer votre tenue ? "
+msgstr "[_u_] Quand partez-vous en mission pour essayer votre tenue ? "
 
 # game/Cell01_E.rpy:1433 #-#-# translate crowdin Emee_Dress02_React_4362fd5a:
 msgid "[_e_] Tinker wants to wait until you get rid of the Sultana. "
@@ -1370,7 +1370,7 @@ msgstr "[Et par liste, je veux dire..."
 
 # game/Cell01_E.rpy:1440 #-#-# translate crowdin Emee_Dress02_React_5be95c86:
 msgid "[_u_] Yes, I know very well what you mean Emee. "
-msgstr "[Oui, je sais très bien ce que tu veux dire, Emee. "
+msgstr "[_u_] Oui, je sais très bien ce que tu veux dire, Emee. "
 
 # game/Cell01_E.rpy:1442 #-#-# translate crowdin Emee_Dress02_React_61404839:
 msgid "[_e_] Ehehe."
@@ -1382,11 +1382,11 @@ msgstr "[Oh euh super, ¡Sí !, euh et vous avez besoin de moi pour trouver ça 
 
 # game/Cell01_E.rpy:1451 #-#-# translate crowdin QuestChap2_Amandine02_2_2_203645c0:
 msgid "[_u_] Easy Emee, they're just tools."
-msgstr "[Doucement Emee, ce ne sont que des outils."
+msgstr "[_u_] Doucement Emee, ce ne sont que des outils."
 
 # game/Cell01_E.rpy:1453 #-#-# translate crowdin QuestChap2_Amandine02_2_2_4df7896c:
 msgid "[_u_] You know, if you want to talk to her, she's in the art division. "
-msgstr "[Vous savez, si vous voulez lui parler, elle est dans la division artistique. "
+msgstr "[_u_] Vous savez, si vous voulez lui parler, elle est dans la division artistique. "
 
 # game/Cell01_E.rpy:1455 #-#-# translate crowdin QuestChap2_Amandine02_2_2_d12528e8:
 msgid "[_e_] Uh, I... "
@@ -1398,11 +1398,11 @@ msgstr "[Je ne sais pas si j'oserais le faire. "
 
 # game/Cell01_E.rpy:1459 #-#-# translate crowdin QuestChap2_Amandine02_2_2_d34afa4d:
 msgid "[_u_] Ok, focus, do you have any tools to sell? "
-msgstr "[Ok, focus, avez-vous des outils à vendre ? "
+msgstr "[_u_] Ok, focus, avez-vous des outils à vendre ? "
 
 # game/Cell01_E.rpy:1461 #-#-# translate crowdin QuestChap2_Amandine02_2_2_58ffc8b4:
 msgid "[_u_] Now that I think about it... Do you still have stuff to sell or is it over? "
-msgstr "[Maintenant que j'y pense... Vous avez encore des choses à vendre ou c'est fini ? "
+msgstr "[_u_] Maintenant que j'y pense... Vous avez encore des choses à vendre ou c'est fini ? "
 
 # game/Cell01_E.rpy:1463 #-#-# translate crowdin QuestChap2_Amandine02_2_2_aed6beca:
 msgid "[_e_] Tinker allowed me to sell what I had scavenged but yeah..."
@@ -1462,7 +1462,7 @@ msgstr "[_e_] Et, bien sûr, remettre le bordel en état de marche. "
 
 # game/Cell01_E.rpy:1518 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_810d9b14:
 msgid "[_u_] Yeah... That a cool job. "
-msgstr "[Ouais... C'est un boulot sympa. "
+msgstr "[_u_] Ouais... C'est un boulot sympa. "
 
 # game/Cell01_E.rpy:1520 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_51e81952:
 msgid "[_e_] ¡¡Absolutamente!!"
@@ -1474,7 +1474,7 @@ msgstr "[_e_] Ehehe..."
 
 # game/Cell01_E.rpy:1523 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_4e58b8a5:
 msgid "[_u_] You're almost going to make me jealous. "
-msgstr "[Vous allez presque me rendre jaloux. "
+msgstr "[_u_] Vous allez presque me rendre jaloux. "
 
 # game/Cell01_E.rpy:1525 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_4de9a5c5:
 msgid "[_e_] Oh, don't act like it, you're the one who was chosen for the best ass of all:"
@@ -1486,7 +1486,7 @@ msgstr "[_e_] {font=BLKCHCRY.ttf}''Le Cul Royal de Shéhérazade''{/font=BLKCHCR
 
 # game/Cell01_E.rpy:1528 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_c56e2c08:
 msgid "[_u_] I admit that... she's not bad. "
-msgstr "[J'admets que... elle n'est pas mal. "
+msgstr "[_u_] J'admets que... elle n'est pas mal. "
 
 # game/Cell01_E.rpy:1530 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1_P2_a0e25007:
 msgid "[_e_] Not bad??"
@@ -1514,7 +1514,7 @@ msgstr "[_e_] Merci pour vos aimables paroles ~"
 
 # game/Cell01_E.rpy:1547 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P1_206bc5ce:
 msgid "[_u_] I've never seen such a cute sex addict. "
-msgstr "[Je n'ai jamais vu un accro au sexe aussi mignon. "
+msgstr "[_u_] Je n'ai jamais vu un accro au sexe aussi mignon. "
 
 # game/Cell01_E.rpy:1549 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P1_f98d9b2d:
 msgid "[_e_] Eheh."
@@ -1526,11 +1526,11 @@ msgstr "[_e_] Merde... Si j'étais toi, j'aurais déjà essayé tant de fois... 
 
 # game/Cell01_E.rpy:1559 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_00eb0f20:
 msgid "[_u_] Actually, she's really not simple. "
-msgstr "[En fait, elle n'est vraiment pas simple. "
+msgstr "[_u_] En fait, elle n'est vraiment pas simple. "
 
 # game/Cell01_E.rpy:1561 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_01bdd12c:
 msgid "[_u_] If I can get her to show me her breasts, it will be a miracle. "
-msgstr "[Si j'arrive à lui faire montrer ses seins, ce sera un miracle. "
+msgstr "[_u_] Si j'arrive à lui faire montrer ses seins, ce sera un miracle. "
 
 # game/Cell01_E.rpy:1563 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_ac322866:
 msgid "[_e_] Mh... a tough woman... "
@@ -1538,7 +1538,7 @@ msgstr "[Mh... une femme dure... "
 
 # game/Cell01_E.rpy:1564 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_6584add7:
 msgid "[_u_] Yeah, I know."
-msgstr "[Oui, je sais."
+msgstr "[_u_] Oui, je sais."
 
 # game/Cell01_E.rpy:1566 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_eef32b64:
 msgid "[_e_] If you can corrupt her, I won't be able to resist paying her a little visit. "
@@ -1546,7 +1546,7 @@ msgstr "[Si vous pouvez la corrompre, je ne pourrai pas résister à l'envie de 
 
 # game/Cell01_E.rpy:1568 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_66bde9ed:
 msgid "[_u_] The opposite would have surprised me. "
-msgstr "[Le contraire m'aurait surpris. "
+msgstr "[_u_] Le contraire m'aurait surpris. "
 
 # game/Cell01_E.rpy:1569 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P2_9a7b295e:
 msgid "[_u_] And I can't wait to see what androids you will find during your inventory. "
@@ -1566,7 +1566,7 @@ msgstr "[Qui est Lyco ? "
 
 # game/Cell01_E.rpy:1582 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P3_e199c3dc:
 msgid "[_u_] Lycoris, she is the servant of Sherazade."
-msgstr "[Lycoris, c'est la servante de Shéhérazade."
+msgstr "[_u_] Lycoris, c'est la servante de Shéhérazade."
 
 # game/Cell01_E.rpy:1583 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P3_4d8fcf96:
 msgid "[_u_] And she's completely red and with horns. "
@@ -1586,7 +1586,7 @@ msgstr "[J'aimerais bien \"inventer\" certains d'entre eux. "
 
 # game/Cell01_E.rpy:1590 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P3_bd066b10:
 msgid "[_u_] Yep, me too."
-msgstr "[Oui, moi aussi."
+msgstr "[_u_] Oui, moi aussi."
 
 # game/Cell01_E.rpy:1599 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU2_P3_e206f31b:
 msgid "[_e_] Of course!"
@@ -1618,7 +1618,7 @@ msgstr "[_u_] Emee... "
 
 # game/Cell01_E.rpy:1620 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_f368f468:
 msgid "[_u_] I can hear you."
-msgstr "[Je vous entends."
+msgstr "[_u_] Je vous entends."
 
 # game/Cell01_E.rpy:1621 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_37b78558:
 msgid "[_e_] Sorry!!"
@@ -1642,7 +1642,7 @@ msgstr "[Il ne contient pas tout ce que vous recherchez, mais une bonne partie. 
 
 # game/Cell01_E.rpy:1630 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_32cf2b66:
 msgid "[_u_] Oh yes, that's right... your religion forbids you to give something without selling it, right? "
-msgstr "[Ah oui, c'est vrai... votre religion vous interdit de donner quelque chose sans le vendre, n'est-ce pas ? "
+msgstr "[_u_] Ah oui, c'est vrai... votre religion vous interdit de donner quelque chose sans le vendre, n'est-ce pas ? "
 
 # game/Cell01_E.rpy:1632 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_1bef48ab:
 msgid "[_e_] It is more... cultural than religious. "
@@ -1654,7 +1654,7 @@ msgstr "[_e_] Mais oui, c'est l'idée."
 
 # game/Cell01_E.rpy:1635 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_f0676a2e:
 msgid "[_u_] Wait... it has your name on it... Is this yours?"
-msgstr "[Attendez... il y a votre nom dessus... C'est le vôtre ?"
+msgstr "[_u_] Attendez... il y a votre nom dessus... C'est le vôtre ?"
 
 # game/Cell01_E.rpy:1637 #-#-# translate crowdin QuestChap2_Amandine02_2_2_MENU1and2_end_68cb7a35:
 msgid "[_e_] Uh... "
@@ -1682,7 +1682,7 @@ msgstr "[Est-ce pour l'une de vos quêtes en cours ?"
 
 # game/Cell01_E.rpy:1653 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Emee_f15b56d7:
 msgid "[_u_] Yep... I'm trying to see red boobs. "
-msgstr "[Yep... J'essaie de voir des seins rouges. "
+msgstr "[_u_] Yep... J'essaie de voir des seins rouges. "
 
 # game/Cell01_E.rpy:1655 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Emee_cdb04947:
 msgid "[_e_] That's an honorable quest. "
@@ -1702,7 +1702,7 @@ msgstr "[_u_] Si possible, danse orientale ou danse du ventre, je ne sais pas."
 
 # game/Cell01_E.rpy:1664 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_659d2d35:
 msgid "[_u_] Yeah I know, it might be hard to find. "
-msgstr "[Oui, je sais, il pourrait être difficile à trouver. "
+msgstr "[_u_] Oui, je sais, il pourrait être difficile à trouver. "
 
 # game/Cell01_E.rpy:1666 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_323e348c:
 msgid "[_e_] In fact I have one available. "
@@ -1714,7 +1714,7 @@ msgstr "[_u_] Vraiment ? "
 
 # game/Cell01_E.rpy:1668 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_E.rpy:1674 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_a56ac343:
 msgid "[_e_] I did not find it, I bought it... "
@@ -1730,11 +1730,11 @@ msgstr "[Quand j'étais à l'école, j'essayais d'impressionner une fille et... 
 
 # game/Cell01_E.rpy:1680 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_ae91c932:
 msgid "[_e_] Well, anyway, I bought the three complete volumes of ''Bellydance for Dummies''."
-msgstr "[_e_] En tout cas, j'ai acheté les trois volumes complets de \"Bellydance for Dummies\" (La danse du ventre pour les nuls)."
+msgstr "[_e_] En tout cas, j'ai acheté les trois volumes complets de \"La danse du ventre pour les nuls\"."
 
 # game/Cell01_E.rpy:1682 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_90a92137:
 msgid "[_u_] And do you know how to dance?"
-msgstr "[Et vous savez danser ?"
+msgstr "[_u_] Et vous savez danser ?"
 
 # game/Cell01_E.rpy:1684 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_31430189:
 msgid "[_e_] I would have made you a little show with pleasure but my hip movements are a little rusty after all these years ahah"
@@ -1742,7 +1742,7 @@ msgstr "[Je vous aurais bien fait un petit spectacle avec plaisir mais mes mouve
 
 # game/Cell01_E.rpy:1685 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_bb529d65:
 msgid "[_u_] Gosh... that's a shame."
-msgstr "[C'est dommage."
+msgstr "[_u_] C'est dommage."
 
 # game/Cell01_E.rpy:1686 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_494c3399:
 msgid "[_u_] I think I would have loved to see this ''High School Emee'' impress a girl with a dance."
@@ -1762,7 +1762,7 @@ msgstr "[C'est gagné !"
 
 # game/Cell01_E.rpy:1693 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_1f6d7596:
 msgid "[_u_] I would have liked to see that too. "
-msgstr "[J'aurais aimé voir cela aussi. "
+msgstr "[_u_] J'aurais aimé voir cela aussi. "
 
 # game/Cell01_E.rpy:1695 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_a77476dd:
 msgid "[_e_] Eheh..."
@@ -1782,7 +1782,7 @@ msgstr "[_u_] Merci Emee !"
 
 # game/Cell01_E.rpy:1718 #-#-# translate crowdin QuestChap2_LyStart_E_01_38b17f15:
 msgid "[_u_] Ready to finally check out this city, Emee? "
-msgstr "[Prête à découvrir cette ville, Emee ? "
+msgstr "[_u_] Prête à découvrir cette ville, Emee ? "
 
 # game/Cell01_E.rpy:1719 #-#-# translate crowdin QuestChap2_LyStart_E_01_dde1c36e:
 msgid "[_e_] WAIT! I can't find my babouches !!!"
@@ -1790,7 +1790,7 @@ msgstr "[_e_] ATTENDEZ ! Je ne trouve pas mes babouches ! !!"
 
 # game/Cell01_E.rpy:1720 #-#-# translate crowdin QuestChap2_LyStart_E_01_23085e3a:
 msgid "[_u_] Your what? "
-msgstr "[Votre quoi ? "
+msgstr "[_u_] Votre quoi ? "
 
 # game/Cell01_E.rpy:1723 #-#-# translate crowdin QuestChap2_LyStart_E_01_99945164:
 msgid "[_e_] My oriental slippers."
@@ -1802,7 +1802,7 @@ msgstr "[J'étais sûr de les avoir mis ici quelque part..."
 
 # game/Cell01_E.rpy:1726 #-#-# translate crowdin QuestChap2_LyStart_E_01_68d0b6da:
 msgid "[_u_] Just put on your usual shoes!"
-msgstr "[Mettez vos chaussures habituelles !"
+msgstr "[_u_] Mettez vos chaussures habituelles !"
 
 # game/Cell01_E.rpy:1728 #-#-# translate crowdin QuestChap2_LyStart_E_01_72a33094:
 msgid "[_e_] ..."
@@ -1822,7 +1822,7 @@ msgstr "[Au fait ! Il y a des choses que je dois savoir sur cette ville ? "
 
 # game/Cell01_E.rpy:1734 #-#-# translate crowdin QuestChap2_LyStart_E_01_b4305498:
 msgid "[_u_] Mh... It's big. "
-msgstr "[Mh... C'est grand. "
+msgstr "[_u_] Mh... C'est grand. "
 
 # game/Cell01_E.rpy:1735 #-#-# translate crowdin QuestChap2_LyStart_E_01_5d4a2264:
 msgid "[_e_] I can imagine that."
@@ -1834,7 +1834,7 @@ msgstr "[Quelque chose d'utile, je veux dire."
 
 # game/Cell01_E.rpy:1737 #-#-# translate crowdin QuestChap2_LyStart_E_01_d337807a:
 msgid "[_u_] Mh..."
-msgstr "[Mh..."
+msgstr "[_u_] Mh..."
 
 # game/Cell01_E.rpy:1742 #-#-# translate crowdin QuestChap2_LyStart_E_01_174bed40:
 msgid "[_e_] I had a sneaking suspicion of that."
@@ -1870,7 +1870,7 @@ msgstr "[Les averses !"
 
 # game/Cell01_E.rpy:1758 #-#-# translate crowdin QuestChap2_LyStart_E_01_2a01925a:
 msgid "[_u_] What? "
-msgstr "[Quoi ? "
+msgstr "[_u_] Quoi ? "
 
 # game/Cell01_E.rpy:1760 #-#-# translate crowdin QuestChap2_LyStart_E_01_c4d71ed5:
 msgid "[_e_] I left my babouches in the showers!!"
@@ -1882,7 +1882,7 @@ msgstr "[Je vais aller les chercher, et on se retrouve en ville ! D'accord ?"
 
 # game/Cell01_E.rpy:1763 #-#-# translate crowdin QuestChap2_LyStart_E_01_4d4601b3:
 msgid "[_u_] Uh... okay!"
-msgstr "[Euh... d'accord !"
+msgstr "[_u_] Euh... d'accord !"
 
 # game/Cell01_E.rpy:1765 #-#-# translate crowdin QuestChap2_LyStart_E_01_f4d750ce:
 msgid "[_u_] Let's do that!"
@@ -1926,7 +1926,7 @@ msgstr "[_e_] Vous voyez l'idée."
 
 # game/Cell01_E.rpy:1793 #-#-# translate crowdin Emee_Dress04_React_d80538b1:
 msgid "[_u_] Yeah... I don't know if you can convince Tinker to carry a sword in here. "
-msgstr "[Oui... Je ne sais pas si vous pouvez convaincre Tinker de porter une épée ici. "
+msgstr "[_u_] Oui... Je ne sais pas si vous pouvez convaincre Tinker de porter une épée ici. "
 
 # game/Cell01_E.rpy:1795 #-#-# translate crowdin Emee_Dress04_React_1fd412f6:
 msgid "[_e_] Mh... that's too bad. "
@@ -1938,7 +1938,7 @@ msgstr "[Quoi qu'il en soit, belle tenue ! "
 
 # game/Cell01_E.rpy:1799 #-#-# translate crowdin Emee_Dress04_React_aea9f5b8:
 msgid "[_e_] Thank you [name]!"
-msgstr "[Merci [nom] !]"
+msgstr "[Merci [name]!"
 
 # game/Cell01_E.rpy:1805 #-#-# translate crowdin Emee_Furniture01_02_6c589736:
 msgid "[_e_] Hey, since you seem to have a passion for office stuff... "
@@ -1958,7 +1958,7 @@ msgstr "[_e_] Non... un vieux PC. "
 
 # game/Cell01_E.rpy:1811 #-#-# translate crowdin Emee_Furniture01_02_7f1e9dd2:
 msgid "[_u_] Ah..."
-msgstr "[Ah..."
+msgstr "[_u_] Ah..."
 
 # game/Cell01_E.rpy:1812 #-#-# translate crowdin Emee_Furniture01_02_1516c589:
 msgid "[_u_] and it's usable? "
@@ -1978,7 +1978,7 @@ msgstr "[Je pense qu'il a dû appartenir au créateur du parc ou quelque chose c
 
 # game/Cell01_E.rpy:1819 #-#-# translate crowdin Emee_Furniture01_02_3fbf6a5e:
 msgid "[_u_] Oh... interesting... "
-msgstr "[Oh... intéressant... "
+msgstr "[_u_] Oh... intéressant... "
 
 # game/Cell01_E.rpy:1821 #-#-# translate crowdin Emee_Furniture01_02_8e9843b3:
 msgid "[_e_] I'll put it up for sale if you like."
@@ -2006,7 +2006,7 @@ msgstr "[Je pense que cela pourrait être amusant. "
 
 # game/Cell01_E.rpy:1834 #-#-# translate crowdin Quest_JM_Favor_Ask2_Emee_94730969:
 msgid "[_u_] Oh, neither do I!"
-msgstr "[Oh, moi non plus !"
+msgstr "[_u_] Oh, moi non plus !"
 
 # game/Cell01_E.rpy:1836 #-#-# translate crowdin Quest_JM_Favor_Ask2_Emee_a5b94ea4:
 msgid "[_e_] Cool..."
@@ -2058,7 +2058,7 @@ msgstr "[_u_] Eh bien... votre réponse a été notée !"
 
 # game/Cell01_E.rpy:1863 #-#-# translate crowdin Quest_JM_Favor_Ask2_Emee_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr "[_u_] Ok, super, plus que [Quest_JM_Favor_Ask2_Number] d'employés à interroger."
+msgstr "[_u_] Ok, super, plus que [_u_] Quest_JM_Favor_Ask2_Number] d'employés à interroger."
 
 # game/Cell01_E.rpy:1869 #-#-# translate crowdin Quest_JM_Favor_Ask2_Emee_2612fcc3:
 msgid "[_e_] Do you need anything else?"
@@ -2070,7 +2070,7 @@ msgstr "[Hey !..."
 
 # game/Cell01_E.rpy:1884 #-#-# translate crowdin E_Outfit01_V2_Reaction_71a5c924:
 msgid "[_u_] You look good without that jacket."
-msgstr "[Vous avez l'air bien sans cette veste."
+msgstr "[_u_] Vous avez l'air bien sans cette veste."
 
 # game/Cell01_E.rpy:1886 #-#-# translate crowdin E_Outfit01_V2_Reaction_8b5ffb29:
 msgid "[_e_] I think so too. "
@@ -2082,7 +2082,7 @@ msgstr "[Et surtout, il commence à faire un peu chaud sur cette île."
 
 # game/Cell01_E.rpy:1889 #-#-# translate crowdin E_Outfit01_V2_Reaction_04cab690:
 msgid "[_u_] If you like, we can visit our dear northern queen, if you miss the snow. "
-msgstr "[Si vous le souhaitez, nous pouvons visiter notre chère reine du Nord, si la neige vous manque. "
+msgstr "[_u_] Si vous le souhaitez, nous pouvons visiter notre chère reine du Nord, si la neige vous manque. "
 
 # game/Cell01_E.rpy:1891 #-#-# translate crowdin E_Outfit01_V2_Reaction_f7ecf72a:
 msgid "[_e_] Mh... "
@@ -2102,7 +2102,7 @@ msgstr "[Quoi qu'il en soit, merci encore pour la tenue. "
 
 # game/Cell01_E.rpy:1898 #-#-# translate crowdin E_Outfit01_V2_Reaction_b69834e8:
 msgid "[_u_] Anything to see a little more of your boobs, Emee. "
-msgstr "[Tout pour voir un peu plus de tes seins, Emee. "
+msgstr "[_u_] Tout pour voir un peu plus de tes seins, Emee. "
 
 # game/Cell01_E.rpy:1900 #-#-# translate crowdin E_Outfit01_V2_Reaction_a77476dd:
 msgid "[_e_] Eheh..."
@@ -2122,7 +2122,7 @@ msgstr "[Voulez-vous venir avec moi pour voir les résultats ? "
 
 # game/Cell01_E.rpy:1911 #-#-# translate crowdin Emee_Ali_01_01_53635360:
 msgid "[_u_] Yes, of course!"
-msgstr "[Oui, bien sûr !"
+msgstr "[_u_] Oui, bien sûr !"
 
 # game/Cell01_E.rpy:1913 #-#-# translate crowdin Emee_Ali_01_01_df7c1507:
 msgid "[_e_] Great, let's go!"
@@ -2130,7 +2130,7 @@ msgstr "[Super, allons-y !"
 
 # game/Cell01_E.rpy:1932 #-#-# translate crowdin Emee_Ali_01_01_fc8af079:
 msgid "[_u_] Now that's a great place to get laid!"
-msgstr "[C'est un endroit idéal pour s'envoyer en l'air !"
+msgstr "[_u_] C'est un endroit idéal pour s'envoyer en l'air !"
 
 # game/Cell01_E.rpy:1940 #-#-# translate crowdin Emee_Ali_01_01_7413e6b4:
 msgid "[_e_] My goodness, this place is perfect!"
@@ -2162,7 +2162,7 @@ msgstr "[Cela me donne presque envie de baiser maintenant. "
 
 # game/Cell01_E.rpy:1967 #-#-# translate crowdin Emee_Ali_01_01_8ec0768b:
 msgid "[_u_] You mean fucking Amandine or me?"
-msgstr "[Tu veux dire Amandine ou moi, putain ?"
+msgstr "[_u_] Tu veux dire Amandine ou moi, putain ?"
 
 # game/Cell01_E.rpy:1969 #-#-# translate crowdin Emee_Ali_01_01_72a33094:
 msgid "[_e_] ..."
@@ -2182,7 +2182,7 @@ msgstr "[Je veux dire... Je suis d'accord avec n'importe quoi !"
 
 # game/Cell01_E.rpy:1977 #-#-# translate crowdin Emee_Ali_01_01_84ff71be:
 msgid "[_u_] Sounds like a pretty cool party."
-msgstr "[Ça a l'air d'être une fête plutôt cool."
+msgstr "[_u_] Ça a l'air d'être une fête plutôt cool."
 
 # game/Cell01_E.rpy:1979 #-#-# translate crowdin Emee_Ali_01_01_9ec1e278:
 msgid "[_e_] When I was in college, I was known as ''The After-Party's Queen''~~"
@@ -2202,7 +2202,7 @@ msgstr "[Ouais... notre classe avait beaucoup de sexe. "
 
 # game/Cell01_E.rpy:1986 #-#-# translate crowdin Emee_Ali_01_01_0b97c823:
 msgid "[_u_] Yes, I guessed that."
-msgstr "[Oui, je l'avais deviné."
+msgstr "[_u_] Oui, je l'avais deviné."
 
 # game/Cell01_E.rpy:1997 #-#-# translate crowdin Emee_Ali_01_01_next00_713d02ff:
 msgid "[_e_] An orgy? "
@@ -2222,7 +2222,7 @@ msgstr "[Vous... vous seriez d'accord pour ça ? "
 
 # game/Cell01_E.rpy:2004 #-#-# translate crowdin Emee_Ali_01_01_next00_87ec5406:
 msgid "[_u_] You're really asking me if I'd be up for fucking lots of beautiful women in an oriental palace? "
-msgstr "[Vous me demandez vraiment si je serais prêt à baiser des tas de belles femmes dans un palais oriental ? "
+msgstr "[_u_] Vous me demandez vraiment si je serais prêt à baiser des tas de belles femmes dans un palais oriental ? "
 
 # game/Cell01_E.rpy:2006 #-#-# translate crowdin Emee_Ali_01_01_next00_72a33094:
 msgid "[_e_] ..."
@@ -2230,7 +2230,7 @@ msgstr "[_e_] ..."
 
 # game/Cell01_E.rpy:2007 #-#-# translate crowdin Emee_Ali_01_01_next00_ecfd5796:
 msgid "[_u_] Yes Emee, I'd like that very much."
-msgstr "[Oui, Emee, j'aimerais beaucoup."
+msgstr "[_u_] Oui, Emee, j'aimerais beaucoup."
 
 # game/Cell01_E.rpy:2009 #-#-# translate crowdin Emee_Ali_01_01_next00_b071c36b:
 msgid "[_e_] I just wanted to hear you say it. "
@@ -2266,7 +2266,7 @@ msgstr "[Si j'étais un homme... je banderais rien qu'en y pensant... "
 
 # game/Cell01_E.rpy:2024 #-#-# translate crowdin Emee_Ali_01_01_next00_14b1d1cc:
 msgid "[_u_] And most of all... you'll fuck Amandine... "
-msgstr "[Et surtout... tu vas baiser Amandine... "
+msgstr "[_u_] Et surtout... tu vas baiser Amandine... "
 
 # game/Cell01_E.rpy:2026 #-#-# translate crowdin Emee_Ali_01_01_next00_25a465e8:
 msgid "[_e_] I prefer not to think about it too much!"
@@ -2302,7 +2302,7 @@ msgstr "[_e_] En plus... ta bite est géniale. "
 
 # game/Cell01_E.rpy:2048 #-#-# translate crowdin Emee_Ali_01_01_menu01_c79c64f7:
 msgid "[_u_] If you keep this up, I'm gonna shove it up your ass in two minutes. "
-msgstr "[Si tu continues comme ça, je te l'enfonce dans le cul dans deux minutes. "
+msgstr "[_u_] Si tu continues comme ça, je te l'enfonce dans le cul dans deux minutes. "
 
 # game/Cell01_E.rpy:2050 #-#-# translate crowdin Emee_Ali_01_01_menu01_96e98aa7:
 msgid "[_e_] Ok ok sorry!"
@@ -2322,7 +2322,7 @@ msgstr "[Vous pensez que c'est la même chose pour tout le monde ? "
 
 # game/Cell01_E.rpy:2057 #-#-# translate crowdin Emee_Ali_01_01_menu01_afd4a541:
 msgid "[_u_] Honestly... I hope so."
-msgstr "[Honnêtement... je l'espère."
+msgstr "[_u_] Honnêtement... je l'espère."
 
 # game/Cell01_E.rpy:2062 #-#-# translate crowdin Emee_Ali_01_01_menu01_4b6ffebd:
 msgid "[_e_] Oh yes... "
@@ -2342,7 +2342,7 @@ msgstr "[Et puis... Je veux faire des choses avec ses cornes... tu ne peux même
 
 # game/Cell01_E.rpy:2069 #-#-# translate crowdin Emee_Ali_01_01_menu01_cc3804e4:
 msgid "[_u_] Ooohh... I'd love to see that. "
-msgstr "[Ooohh... J'aimerais bien voir ça. "
+msgstr "[_u_] Ooohh... J'aimerais bien voir ça. "
 
 # game/Cell01_E.rpy:2071 #-#-# translate crowdin Emee_Ali_01_01_menu01_43063af6:
 msgid "[_e_] I hope you'll do more than that... "
@@ -2382,7 +2382,7 @@ msgstr "[Pensez-vous qu'il serait possible pour elle de... participer à une org
 
 # game/Cell01_E.rpy:2096 #-#-# translate crowdin Emee_Ali_01_01_menu01_a26ceec5:
 msgid "[_u_] She'll be the hardest to convince, that's for sure. "
-msgstr "[Elle sera la plus difficile à convaincre, c'est certain. "
+msgstr "[_u_] Elle sera la plus difficile à convaincre, c'est certain. "
 
 # game/Cell01_E.rpy:2098 #-#-# translate crowdin Emee_Ali_01_01_menu01_4ea8de8d:
 msgid "[_e_] Yeah... but... how great would that be..."
@@ -2410,7 +2410,7 @@ msgstr "[Et nous allons tous les deux nous taper des tas de gens dans des tas de
 
 # game/Cell01_E.rpy:2112 #-#-# translate crowdin Emee_Ali_01_01_menu01_e7f3ce20:
 msgid "[_u_] If you want, we can go and ask like... Lycoris to come over right now and have a three-way fuck. "
-msgstr "[Si tu veux, on peut aller demander à... Lycoris de venir tout de suite et de baiser à trois. "
+msgstr "[_u_] Si tu veux, on peut aller demander à... Lycoris de venir tout de suite et de baiser à trois. "
 
 # game/Cell01_E.rpy:2114 #-#-# translate crowdin Emee_Ali_01_01_menu01_178bf4af:
 msgid "[_e_] Nan... If she says no, it'll set a weird mood..."
@@ -2446,11 +2446,11 @@ msgstr "[Si nous les prévenons à l'avance... Les gens réfléchissent trop et 
 
 # game/Cell01_E.rpy:2129 #-#-# translate crowdin Emee_Ali_01_01_menu01_124a5087:
 msgid "[_u_] Wow... you're a real strategist. "
-msgstr "[Wow... vous êtes un vrai stratège. "
+msgstr "[_u_] Wow... vous êtes un vrai stratège. "
 
 # game/Cell01_E.rpy:2130 #-#-# translate crowdin Emee_Ali_01_01_menu01_9921e917:
 msgid "[_u_] The Napoléon of sex."
-msgstr "[Le Napoléon du sexe."
+msgstr "[_u_] Le Napoléon du sexe."
 
 # game/Cell01_E.rpy:2132 #-#-# translate crowdin Emee_Ali_01_01_menu01_118adec5:
 msgid "[_e_] Yes."
@@ -2478,7 +2478,7 @@ msgstr "[Sauf que... il faut une éternité pour corrompre quelqu'un suffisammen
 
 # game/Cell01_E.rpy:2146 #-#-# translate crowdin Emee_Ali_01_01_next01_2a115b20:
 msgid "[_u_] A sex slave?"
-msgstr "[Une esclave sexuelle ?"
+msgstr "[_u_] Une esclave sexuelle ?"
 
 # game/Cell01_E.rpy:2148 #-#-# translate crowdin Emee_Ali_01_01_next01_9d643252:
 msgid "[_e_] Yeah... that's kind of the idea. "
@@ -2494,7 +2494,7 @@ msgstr "[Plus ils sont obéissants et dévoués, plus il est facile de les corro
 
 # game/Cell01_E.rpy:2154 #-#-# translate crowdin Emee_Ali_01_01_next01_d6375777:
 msgid "[_u_] I met Sherazade's guard... Indeed, once you have power over her, you can do whatever you want. "
-msgstr "[J'ai rencontré le garde de Shéhérazade... En effet, une fois que vous avez le pouvoir sur elle, vous pouvez faire ce que vous voulez. "
+msgstr "[_u_] J'ai rencontré le garde de Shéhérazade... En effet, une fois que vous avez le pouvoir sur elle, vous pouvez faire ce que vous voulez. "
 
 # game/Cell01_E.rpy:2156 #-#-# translate crowdin Emee_Ali_01_01_next01_1188c2c0:
 msgid "[_e_] Here, these are the kind of people we want."
@@ -2570,7 +2570,7 @@ msgstr "[Comme... en nous prêtant de jolies voleuses ? "
 
 # game/Cell01_E.rpy:2192 #-#-# translate crowdin Emee_Ali_01_01_next01_54ea90de:
 msgid "[_u_] That's not a bad idea..."
-msgstr "[Ce n'est pas une mauvaise idée..."
+msgstr "[_u_] Ce n'est pas une mauvaise idée..."
 
 # game/Cell01_E.rpy:2194 #-#-# translate crowdin Emee_Ali_01_01_next01_5538cff7:
 msgid "[_e_] Cool... "
@@ -2586,7 +2586,7 @@ msgstr "[_u_] Espérons que cette fois-ci, ce sera ENFIN un personnage facile. "
 
 # game/Cell01_E.rpy:2199 #-#-# translate crowdin Emee_Ali_01_01_next01_9e490b69:
 msgid "[_u_] You know I haven't even fucked sherazade yet? "
-msgstr "[Tu sais que je n'ai même pas encore baisé Shérazade ? "
+msgstr "[_u_] Tu sais que je n'ai même pas encore baisé Shérazade ? "
 
 # game/Cell01_E.rpy:2201 #-#-# translate crowdin Emee_Ali_01_01_next01_b8d53915:
 msgid "[_e_] Poor little fella."
@@ -2598,7 +2598,7 @@ msgstr "[Je suis sûr que ce sera plus facile cette fois-ci. "
 
 # game/Cell01_E.rpy:2212 #-#-# translate crowdin Emee_Ali_01_01_next01_f565a534:
 msgid "[_u_] Let's see... "
-msgstr "[Voyons voir... "
+msgstr "[_u_] Voyons voir... "
 
 # game/Cell01_E.rpy:2213 #-#-# translate crowdin Emee_Ali_01_01_next01_faa14e95:
 msgid "[_u_] Well... I followed all the snake symbols in the sewers... "
@@ -2610,7 +2610,7 @@ msgstr "[_u_] Et cela me conduit à une impasse. "
 
 # game/Cell01_E.rpy:2215 #-#-# translate crowdin Emee_Ali_01_01_next01_c42304f2:
 msgid "[_u_] And thanks to my incredible ability to know fairy tales, I'd say... "
-msgstr "[Et grâce à mon incroyable capacité à connaître les contes de fées, je dirais... "
+msgstr "[_u_] Et grâce à mon incroyable capacité à connaître les contes de fées, je dirais... "
 
 # game/Cell01_E.rpy:2216 #-#-# translate crowdin Emee_Ali_01_01_next01_d028c458:
 msgid "[_u_] ''Open Sesame!''"
@@ -2618,15 +2618,15 @@ msgstr "[_u_] ''Sésame ouvre-toi!''"
 
 # game/Cell01_E.rpy:2217 #-#-# translate crowdin Emee_Ali_01_01_next01_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_E.rpy:2218 #-#-# translate crowdin Emee_Ali_01_01_next01_786f2b5e:
 msgid "[_u_] That's funny. I thought it would work."
-msgstr "[C'est drôle. Je pensais que ça marcherait."
+msgstr "[_u_] C'est drôle. Je pensais que ça marcherait."
 
 # game/Cell01_E.rpy:2226 #-#-# translate crowdin Emee_Ali_01_01_next01_42e9621d:
 msgid "[_u_] Uh... hello."
-msgstr "[Euh... Bonjour."
+msgstr "[_u_] Euh... Bonjour."
 
 # game/Cell01_E.rpy:2236 #-#-# translate crowdin Emee_Ali_01_01_next01_780acd3f:
 msgid "[_ba_] So you're the famous [name]..."
@@ -2666,11 +2666,11 @@ msgstr "[Très intéressant."
 
 # game/Cell01_E.rpy:2258 #-#-# translate crowdin Emee_Ali_01_01_next01_ea8401b8:
 msgid "[_u_] I was once attacked with a frying pan."
-msgstr "[J'ai été attaqué une fois avec une poêle à frire."
+msgstr "[_u_] J'ai été attaqué une fois avec une poêle à frire."
 
 # game/Cell01_E.rpy:2260 #-#-# translate crowdin Emee_Ali_01_01_next01_b1528841:
 msgid "[_u_] That was dangerous. "
-msgstr "[C'était dangereux. "
+msgstr "[_u_] C'était dangereux. "
 
 # game/Cell01_E.rpy:2262 #-#-# translate crowdin Emee_Ali_01_01_next01_9c862d9a:
 msgid "[_ba_] Mh... a rather inelegant weapon, but a particularly dangerous one indeed. "
@@ -2686,7 +2686,7 @@ msgstr "[Ne faites pas trop attention à la grossièreté de l'endroit, je n'ai 
 
 # game/Cell01_E.rpy:2267 #-#-# translate crowdin Emee_Ali_01_01_next01_ab81bb91:
 msgid "[_u_] I suppose a palace would suit you better? "
-msgstr "[Je suppose qu'un palais vous conviendrait mieux ? "
+msgstr "[_u_] Je suppose qu'un palais vous conviendrait mieux ? "
 
 # game/Cell01_E.rpy:2269 #-#-# translate crowdin Emee_Ali_01_01_next01_2ed7a143:
 msgid "[_ba_] That's a pleasant possibility."
@@ -2718,7 +2718,7 @@ msgstr "[_ba_] Qu'elle soit courte ou longue."
 
 # game/Cell01_E.rpy:2283 #-#-# translate crowdin Emee_Ali_01_01_next01_bd5fb5fc:
 msgid "[_u_] And uh... I have to answer it now? "
-msgstr "[Et euh... je dois y répondre maintenant ? "
+msgstr "[_u_] Et euh... je dois y répondre maintenant ? "
 
 # game/Cell01_E.rpy:2285 #-#-# translate crowdin Emee_Ali_01_01_next01_b122d896:
 msgid "[_ba_] Your words don't matter anymore."
@@ -2758,7 +2758,7 @@ msgstr "[_a_] J'ai besoin de voir ce qui se passerait..."
 
 # game/Cell01_E.rpy:2311 #-#-# translate crowdin Emee_Ali_01_01_next01_9c145da4:
 msgid "[_u_] Maybe it would be a bit violent. "
-msgstr "[Ce serait peut-être un peu violent. "
+msgstr "[_u_] Ce serait peut-être un peu violent. "
 
 # game/Cell01_E.rpy:2313 #-#-# translate crowdin Emee_Ali_01_01_next01_bdaa2b2f:
 msgid "[_a_] Or maybe we'll see one of the most spectacular eloquence contests ever seen. "
@@ -2766,7 +2766,7 @@ msgstr "[_a_] Ou peut-être assisterons-nous à l'un des concours d'éloquence l
 
 # game/Cell01_E.rpy:2314 #-#-# translate crowdin Emee_Ali_01_01_next01_1530a7c1:
 msgid "[_u_] Or they'd jump each other and fuck. "
-msgstr "[Ou ils se sautaient dessus et baisaient. "
+msgstr "[_u_] Ou ils se sautaient dessus et baisaient. "
 
 # game/Cell01_E.rpy:2316 #-#-# translate crowdin Emee_Ali_01_01_next01_ac08734d:
 msgid "[_a_] That would be fantastic, but not very probable. "
@@ -2774,7 +2774,7 @@ msgstr "[_a_] Ce serait fantastique, mais peu probable. "
 
 # game/Cell01_E.rpy:2317 #-#-# translate crowdin Emee_Ali_01_01_next01_bede0ddf:
 msgid "[_u_] What's your plan? What do we do with them? "
-msgstr "[Quel est votre plan ? Qu'allons-nous faire d'eux ? "
+msgstr "[_u_] Quel est votre plan ? Qu'allons-nous faire d'eux ? "
 
 # game/Cell01_E.rpy:2319 #-#-# translate crowdin Emee_Ali_01_01_next01_6a7e2ecc:
 msgid "[_a_] What if... we played on both fronts? "
@@ -2806,7 +2806,7 @@ msgstr "[_a_] Avec son aide, vous pourrez facilement manipuler ces personnages !
 
 # game/Cell01_E.rpy:2330 #-#-# translate crowdin Emee_Ali_01_01_next01_d17628d0:
 msgid "[_u_] You mean... fuck them faster? "
-msgstr "[Tu veux dire... les baiser plus vite ? "
+msgstr "[_u_] Tu veux dire... les baiser plus vite ? "
 
 # game/Cell01_E.rpy:2332 #-#-# translate crowdin Emee_Ali_01_01_next01_bb1888ce:
 msgid "[_a_] Maybe!"
@@ -2814,7 +2814,7 @@ msgstr "[_a_] Peut-être !"
 
 # game/Cell01_E.rpy:2333 #-#-# translate crowdin Emee_Ali_01_01_next01_ecae91fc:
 msgid "[_u_] I'll take that as a yes. "
-msgstr "[Je considère que c'est un oui. "
+msgstr "[_u_] Je considère que c'est un oui. "
 
 # game/Cell01_E.rpy:2335 #-#-# translate crowdin Emee_Ali_01_01_next01_0358d26f:
 msgid "[_a_] I'm going to talk to Djin and work out a plan with her. "
@@ -2826,7 +2826,7 @@ msgstr "[_a_] Avec un peu de chance ! Leur corruption sera vite terminée !"
 
 # game/Cell01_E.rpy:2338 #-#-# translate crowdin Emee_Ali_01_01_next01_26d63b05:
 msgid "[_u_] I'll believe it when I see it. "
-msgstr "[Je le croirai quand je le verrai. "
+msgstr "[_u_] Je le croirai quand je le verrai. "
 
 # game/Cell01_E.rpy:2340 #-#-# translate crowdin Emee_Ali_01_01_next01_2e20329a:
 msgid "[_a_] See you later [name]!"
@@ -2878,11 +2878,11 @@ msgstr "Avez-vous des meubles pour mon bureau ?"
 
 # game/Cell01_E.rpy:161
 msgid "=Vintage Office Plant 01= {color=#a0fc86} (35c){/color}"
-msgstr "=Vintage Office Plant 01= {color=#a0fc86} (35c){/color}"
+msgstr "=Plante de bureau vintage 01= {color=#a0fc86} (35c){/color}"
 
 # game/Cell01_E.rpy:161
 msgid "=Vintage Office Plant 02= {color=#a0fc86} (35c){/color}"
-msgstr "=Vintage Office Plant 02= {color=#a0fc86} (35c){/color}"
+msgstr "=Plante de bureau vintage 02= {color=#a0fc86} (35c){/color}"
 
 # game/Cell01_E.rpy:161
 msgid "=Vintage Office Ceiling Light= {color=#a0fc86} (40c){/color}"
@@ -2958,7 +2958,7 @@ msgstr "Avez-vous trouvé quelque chose de cool sur la planète ? "
 
 # game/Cell01_E.rpy:552
 msgid "{color=#f2923c}Do you have any idea when she's coming home?{/color}"
-msgstr "{Avez-vous une idée de la date de son retour à la maison ?"
+msgstr "{color=#f2923c}Avez-vous une idée de la date de son retour à la maison ?{/color}"
 
 # game/Cell01_E.rpy:621
 msgid "${color=#f45fed}Want to have some fun?{/color}"
@@ -2966,7 +2966,7 @@ msgstr "${color=#f45fed}Want to have some fun?{/color}"
 
 # game/Cell01_E.rpy:621
 msgid "$So, what's your first impression of Amandine? {image=heart04.png}"
-msgstr "$SoQuelle est ta première impression d'Amandine ? {image=heart04.png}"
+msgstr "$Quelle est ta première impression d'Amandine ? {image=heart04.png}"
 
 # game/Cell01_E.rpy:621
 msgid "$Want to have some fun? {image=heart04.png}"
