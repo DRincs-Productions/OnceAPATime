@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Books01.rpy:27 #-#-# translate crowdin room01_books01_In_46239f59:
 msgid "You've already chosen a book for tonight."
@@ -46,7 +46,7 @@ msgstr "Tu as fini ce livre ! "
 
 # game/Room_01_Books01.rpy:120 #-#-# translate crowdin room01_books01_ReadingSforI_41df3522:
 msgid "[_u_] I'll take this one!"
-msgstr "[_u_] Je vais en prendre un !"
+msgstr "[_am_] _u_] Je vais en prendre un !"
 
 # §translate crowdin strings: #|#|# # game/Room_01_Books01.rpy:43
 msgid "Choose a book to read tonight."
@@ -54,77 +54,77 @@ msgstr "Choisissez un livre à lire ce soir."
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (I) {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr "Sewing For Idiots (I) { image=book02.png } { image=book01.png } { image=book01.png } "
+msgstr "La couture pour les idiots (I) {image=book02.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (I) {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr "Sewing For Idiots (I) { image=book02.png } { image=book02.png } { image=book01.png } "
+msgstr "La couture pour les idiots (I) {image=book02.png} {image=book02.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (I) {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr "Sewing For Idiots (I) { image=book02.png } { image=book02.png } { image=book02.png } "
+msgstr "La couture pour les idiots (I) {image=book02.png} {image=book02.png} {image=book02.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (II) {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr "Sewing For Idiots (II) { image=book01.png } { image=book01.png } { image=book01.png } "
+msgstr "La couture pour les idiots (II) {image=book01.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (II) {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr "Sewing For Idiots (II) { image=book02.png } { image=book01.png } { image=book01.png } "
+msgstr "La couture pour les idiots (II) {image=book02.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (II) {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr "Sewing For Idiots (II) { image=book02.png } { image=book02.png } { image=book01.png } "
+msgstr "La couture pour les idiots (II) {image=book02.png} {image=book02.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Sewing For Idiots (II) {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr "Sewing For Idiots (II) { image=book02.png } { image=book02.png } { image=book02.png } "
+msgstr "La couture pour les idiots (II) {image=book02.png} {image=book02.png} {image=book02.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "20,000 Leagues Under the Sea {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr "20 000 ligues sous la mer { image=book01.png } { image=book01.png } { image=book01.png } "
+msgstr "20'000 lieues sous la mer {image=book01.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr "20 000 ligues sous la mer { image=book02.png } { image=book01.png } { image=book01.png } "
+msgstr "20'000 lieues sous la mer {image=book02.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr "20 000 ligues sous la mer { image=book02.png } { image=book02.png } { image=book01.png } "
+msgstr "20'000 lieues sous la mer {image=book02.png} {image=book02.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr "20 000 ligues sous la mer { image=book02.png } { image=book02.png } { image=book02.png } "
+msgstr "20'000 lieues sous la mer {image=book02.png} {image=book02.png} {image=book02.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Journey to the Center of the Earth {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr "Voyage vers le centre de la Terre { image=book01.png } { image=book01.png } { image=book01.png } "
+msgstr "Voyage vers le centre de la Terre {image=book01.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Journey to the Center of the Earth {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr "Voyage vers le centre de la Terre { image=book02.png } { image=book01.png } { image=book01.png } "
+msgstr "Voyage vers le centre de la Terre {image=book02.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Journey to the Center of the Earth {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr "Voyage vers le centre de la Terre { image=book02.png } { image=book02.png } { image=book01.png } "
+msgstr "Voyage vers le centre de la Terre {image=book02.png} {image=book02.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "Journey to the Center of the Earth {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr "Voyage vers le centre de la Terre { image=book02.png } { image=book02.png } { image=book02.png } "
+msgstr "Voyage vers le centre de la Terre {image=book02.png} {image=book02.png} {image=book02.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr "ART BOOK (I) Happy little Trees { image=book01.png } { image=book01.png } { image=book01.png } "
+msgstr "LIVRE D'ART (I) Petits arbres heureux {image=book01.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr "ART BOOK (I) Happy little Trees { image=book02.png } { image=book01.png } { image=book01.png } "
+msgstr "LIVRE D'ART (I) Petits arbres heureux {image=book02.png} {image=book01.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr "ART BOOK (I) Happy little Trees { image=book02.png } { image=book02.png } { image=book01.png } "
+msgstr "LIVRE D'ART (I) Petits arbres heureux {image=book02.png} {image=book02.png} {image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr "ART BOOK (I) Happy little Trees { image=book02.png } { image=book02.png } { image=book02.png } "
+msgstr "LIVRE D'ART (I) Petits arbres heureux {image=book02.png} {image=book02.png} {image=book02.png} "
 
