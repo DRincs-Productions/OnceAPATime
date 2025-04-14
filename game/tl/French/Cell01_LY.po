@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -18,7 +18,7 @@ msgstr "[_am_] _ly_] Salut la cutie."
 
 # game/Cell01_LY.rpy:86 #-#-# translate crowdin Cell01_LY_QuestActivations_6665ab88:
 msgid "[_ly_] Hi [name]!"
-msgstr "[_am_] _ly_] Bonjour [_am_] name] !"
+msgstr "[_am_] _ly_] Bonjour [name] !"
 
 # game/Cell01_LY.rpy:133 #-#-# translate crowdin CHARA_LY_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
@@ -26,7 +26,7 @@ msgstr "[_am_] _u_] A plus tard !"
 
 # game/Cell01_LY.rpy:135 #-#-# translate crowdin CHARA_LY_MenuChoice_d93ee3d6:
 msgid "[_ly_] See you [name]!"
-msgstr "[_am_] _ly_] Au revoir [_am_] name] !"
+msgstr "[_am_] _ly_] Au revoir [name] !"
 
 # game/Cell01_LY.rpy:155 #-#-# translate crowdin LY_OutfitsRetakePanel_3495856c:
 msgid "[_ly_] Ah yes! Melissandre asked me to make a lighter version of her outfit!"
@@ -402,7 +402,7 @@ msgstr "[_am_] _ly_] Vous pouvez donner à la fois à Tinker dès que les deux s
 
 # game/Cell01_LY.rpy:532 #-#-# translate crowdin Quest2_LY_Talk02_6e40322e:
 msgid "[_ly_] And thanks [name], that's sweet of you."
-msgstr "[_am_] _ly_] Et merci [_am_] name], c'est gentil de vous."
+msgstr "[_am_] _ly_] Et merci [name], c'est gentil de vous."
 
 # game/Cell01_LY.rpy:541 #-#-# translate crowdin Quest2_LY_Talk03_a64d524d:
 msgid "[_ly_] Well, I'm human, why? "
@@ -502,7 +502,7 @@ msgstr "[_am_] _ly_] Mieux que rien, je suppose."
 
 # game/Cell01_LY.rpy:594 #-#-# translate crowdin Quest2_LY_Talk03_menu01_ca75355b:
 msgid "[_ly_] Aww..."
-msgstr "[_am_] _ _] Aww ..."
+msgstr "[_ly_]  _ _] Aww ..."
 
 # game/Cell01_LY.rpy:596 #-#-# translate crowdin Quest2_LY_Talk03_menu01_cf1b5520:
 msgid "[_ly_] That's so sweet. "
@@ -758,7 +758,7 @@ msgstr "[_am_] _u_] Alors euh ... avez-vous besoin de moi pour créer votre tenu
 
 # game/Cell01_LY.rpy:736 #-#-# translate crowdin Quest2_LY_TalkRetake01_7471da03:
 msgid "[_ly_] Nah... I don't think I'll be needing it. "
-msgstr "[_am_] _ _] Nah ... Je ne pense pas que j'en aurai besoin. "
+msgstr "[_ly_]  _ _] Nah ... Je ne pense pas que j'en aurai besoin. "
 
 # game/Cell01_LY.rpy:740 #-#-# translate crowdin Quest2_LY_TalkRetake01_4d37ada2:
 msgid "[_ly_] I just have to remove this part... "
@@ -986,7 +986,7 @@ msgstr "[_am_] _ly_] Je ne sais pas encore quand je peux porter cette chose, mai
 
 # game/Cell01_LY.rpy:849 #-#-# translate crowdin LY_Dress_02_04_Talk_b6d59c3f:
 msgid "[_ly_] Uhm... Don't you ever get up to any fancy parties around here? "
-msgstr "[_am_] _ _] Uhm ... Vous n'avez jamais eu de fêtes de fantaisie autour d'ici? "
+msgstr "[_ly_]  _ _] Uhm ... Vous n'avez jamais eu de fêtes de fantaisie autour d'ici? "
 
 # game/Cell01_LY.rpy:850 #-#-# translate crowdin LY_Dress_02_04_Talk_726df38a:
 msgid "[_u_] Not really, no."
@@ -1390,7 +1390,7 @@ msgstr "[_am_] _ly_] Ehehe."
 
 # game/Cell01_LY.rpy:1083 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_9e88a740:
 msgid "[_ly_] Great! Thanks [name]!"
-msgstr "[_am_] _ly_] Grand ! Merci [_am_] name] !"
+msgstr "[_am_] _ly_] Grand ! Merci [name] !"
 
 # game/Cell01_LY.rpy:1085 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_c9e809cd:
 msgid "[_ly_] Ooooh I'm so excited!"
@@ -1414,7 +1414,7 @@ msgstr "[_am_] _ly_] Nous sommes tous des affaires, n'est-ce pas?"
 
 # game/Cell01_LY.rpy:1096 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_19f686f2:
 msgid "[_ly_] I'll make it quick! See you later [name]!"
-msgstr "[_am_] _ly_] Je vais le faire vite ! A plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Je vais le faire vite ! A plus tard [name] !"
 
 # game/Cell01_LY.rpy:1124 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_f550e318:
 msgid "[_ly_] The what? "
@@ -1426,7 +1426,7 @@ msgstr "[_am_] _u_] La tenue de la princesse que j'essaie de corrompu."
 
 # game/Cell01_LY.rpy:1127 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_f9e214f1:
 msgid "[_ly_] Uhm..."
-msgstr "[_am_] _ _] Uhm ..."
+msgstr "[_ly_]  _ _] Uhm ..."
 
 # game/Cell01_LY.rpy:1128 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3eeb17d3:
 msgid "[_ly_] ..."
@@ -1618,7 +1618,7 @@ msgstr "[_am_] _ly_] Et ... laissez-moi savoir si vous avez besoin de moi ahah. 
 
 # game/Cell01_LY.rpy:1241 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr "[_am_] _ly_] Voir plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Voir plus tard [name] !"
 
 # game/Cell01_LY.rpy:1251 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_ec9a9efa:
 msgid "[_ly_] My sexual fantasy? "
@@ -1678,7 +1678,7 @@ msgstr "[_am_] _u_] Ok, super, plus que [_am_] _u_] Quest_JM_Favor_Ask2_Number] 
 
 # game/Cell01_LY.rpy:1282 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_68531393:
 msgid "[_ly_] Do you need anything else?"
-msgstr "[_am_] Avez-vous besoin d'autre chose ?"
+msgstr "[_ly_]  Avez-vous besoin d'autre chose ?"
 
 # game/Cell01_LY.rpy:1292 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_f16c536d:
 msgid "[_u_] Lyco?"
@@ -2286,7 +2286,7 @@ msgstr "[_am_] _u_] Qui suis-je en train de baiser? "
 
 # game/Cell01_LY.rpy:1735 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_bd475a65:
 msgid "[_tb_] Later [name]!"
-msgstr "[_am_] _tb_] Plus tard [_am_] name] !"
+msgstr "[_am_] _tb_] Plus tard [name] !"
 
 # game/Cell01_LY.rpy:1757 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_8686e81c:
 msgid "[_u_] Hey."
@@ -2326,7 +2326,7 @@ msgstr "[_am_] _ly_] Aucun problème !"
 
 # game/Cell01_LY.rpy:1796 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr "[_am_] _ly_] Voir plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Voir plus tard [name] !"
 
 # game/Cell01_LY.rpy:1804 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_a8be7af7:
 msgid "[_ly_] No, it's this goddamn machine that's going to have a problem if it keeps scratching my clothes."
@@ -2686,7 +2686,7 @@ msgstr "[_am_] _ly_] Ehehe ..."
 
 # game/Cell01_LY.rpy:2097 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_05f8cfe5:
 msgid "[_ly_] All right, see you later [name]!"
-msgstr "[_am_] _ly_] All right, see you later [_am_] name] !"
+msgstr "[_am_] _ly_] All right, see you later [name] !"
 
 # game/Cell01_LY.rpy:2124 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_285ae831:
 msgid "[_ly_] The dress is ready!!!"
@@ -2770,7 +2770,7 @@ msgstr "[_am_] _ly_] J'essaie de ne pas me salir mes beaux vêtements quand je t
 
 # game/Cell01_LY.rpy:2193 #-#-# translate crowdin Quest_A_SW_01_04_8bb5d42d:
 msgid "[_ly_] Aww... You're so sweet."
-msgstr "[_am_] _ _] Aww ... Tu es si gentile."
+msgstr "[_ly_]  _ _] Aww ... Tu es si gentile."
 
 # game/Cell01_LY.rpy:2195 #-#-# translate crowdin Quest_A_SW_01_04_6cfd6887:
 msgid "[_ly_] But I still prefer to wear classy outfits. "
@@ -2886,7 +2886,7 @@ msgstr "[_am_] _ly_] Non."
 
 # game/Cell01_LY.rpy:2256 #-#-# translate crowdin Quest_A_SW_01_04_205a9939:
 msgid "[_ly_] Yes."
-msgstr "[_am_] Oui."
+msgstr "[_ly_]  Oui."
 
 # game/Cell01_LY.rpy:2258 #-#-# translate crowdin Quest_A_SW_01_04_49dba369:
 msgid "[_ly_] But... it's got a really funny shape!"
@@ -3114,7 +3114,7 @@ msgstr "[_am_] _ly_] En tout cas, je vais créer les vêtements d'Amandine pour 
 
 # game/Cell01_LY.rpy:2391 #-#-# translate crowdin Quest_A_SW_01_04_menu1_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr "[_am_] _ly_] Voir plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Voir plus tard [name] !"
 
 # game/Cell01_LY.rpy:2416 #-#-# translate crowdin LY_LastQuest_01_01_60913f80:
 msgid "[_ly_] Hi."
@@ -3130,7 +3130,7 @@ msgstr "[_am_] _u_] J'ai l'impression que je vous ai vu plus nue que vêtu derni
 
 # game/Cell01_LY.rpy:2420 #-#-# translate crowdin LY_LastQuest_01_01_1fe0eefe:
 msgid "[_ly_] Like you care, [name]. "
-msgstr "[_am_] _ly_] Comme vous, [_am_] name]. "
+msgstr "[_am_] _ly_] Comme vous, [name]. "
 
 # game/Cell01_LY.rpy:2421 #-#-# translate crowdin LY_LastQuest_01_01_b73c69e9:
 msgid "[_u_] And so... that's a new dress ?"
@@ -3326,7 +3326,7 @@ msgstr "[_am_] _ly_] Je vais retourner au travail, j'ai une machine à frapper t
 
 # game/Cell01_LY.rpy:2522 #-#-# translate crowdin LY_LastQuest_01_01_menu1_69624dca:
 msgid "[_ly_] Thanks again! See you later [name]!"
-msgstr "[_am_] _ly_] Merci encore ! A plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Merci encore ! A plus tard [name] !"
 
 # game/Cell01_LY.rpy:2536 #-#-# translate crowdin LY_LastQuest_01_02_9514506a:
 msgid "[_u_] What the hell is this mess?"
@@ -3518,7 +3518,7 @@ msgstr "[_am_] _ly_] Aaah ... Freaky garçon ..."
 
 # game/Cell01_LY.rpy:2670 #-#-# translate crowdin Lycoris03_d0214fd9:
 msgid "[_ly_] Ooooh..."
-msgstr "[_am_] Ooooh..."
+msgstr "[_ly_]  Ooooh..."
 
 # game/Cell01_LY.rpy:2672 #-#-# translate crowdin Lycoris03_131acfa2:
 msgid "[_ly_] It's so fucking good... I can feel all your strength in my horns.... "
@@ -3578,7 +3578,7 @@ msgstr "[_am_] _ly_] Tout comme ça !"
 
 # game/Cell01_LY.rpy:2707 #-#-# translate crowdin Lycoris03_cdbcc107:
 msgid "[_ly_] Gosh... You know what you are doing..."
-msgstr "[_am_] _ _] Gosh ... Tu sais ce que tu fais ..."
+msgstr "[_ly_]  _ _] Gosh ... Tu sais ce que tu fais ..."
 
 # game/Cell01_LY.rpy:2709 #-#-# translate crowdin Lycoris03_aa29bce2:
 msgid "[_ly_] Hmmm..."
@@ -3714,7 +3714,7 @@ msgstr "[_am_] _ly_] Hé !"
 
 # game/Cell01_LY.rpy:2839 #-#-# translate crowdin LY_LastQuest_02_c61d0792:
 msgid "[_ly_] Hi there!"
-msgstr "[_am_] Bonjour !"
+msgstr "[_ly_]  Bonjour !"
 
 # game/Cell01_LY.rpy:2840 #-#-# translate crowdin LY_LastQuest_02_dbad2c9d:
 msgid "[_u_] Hi Lyco! You look like you're in a good mood."
@@ -3762,7 +3762,7 @@ msgstr "[_am_] _ly_] Si vous êtes à la hauteur ..."
 
 # game/Cell01_LY.rpy:2862 #-#-# translate crowdin LY_LastQuest_02_f9e214f1:
 msgid "[_ly_] Uhm..."
-msgstr "[_am_] _ _] Uhm ..."
+msgstr "[_ly_]  _ _] Uhm ..."
 
 # game/Cell01_LY.rpy:2863 #-#-# translate crowdin LY_LastQuest_02_3eeb17d3:
 msgid "[_ly_] ..."
