@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -46,13 +46,13 @@ msgstr "Préfs"
 
 # game/screens.rpy:304
 msgid "Version [config.version!t]\n"
-msgstr "Version [ config.version! t ]\n"
+msgstr "Version [_am_]  config.version! t ]\n"
 
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "Conçu avec { a=https: //www.renpy.org/ } Ren'Py { /a } [ renpy.version_only ].\n\n"
-"[ renpy.license! t ]"
+msgstr "Conçu avec { a=https: //www.renpy.org/ } Ren'Py { /a } [_am_]  renpy.version_only ].\n\n"
+"[_am_]  renpy.license! t ]"
 
 # game/screens.rpy:315
 msgid "ICI CE TROUVE L'INVENTAIRE"
@@ -104,7 +104,7 @@ msgstr "PATREON"
 
 # game/screens.rpy:412
 msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
-msgstr "{ color=#5b6568} { size=-10 } ^ Recherche des mises à jour ! ^ { /size } { /color }"
+msgstr "{color=#5b6568} { size=-10 } ^ Recherche des mises à jour ! ^ { /size }{/color}"
 
 # game/screens.rpy:580
 msgid "Return"
@@ -113,8 +113,8 @@ msgstr "Retour"
 # game/screens.rpy:670
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "Fait avec { a=https: //www.renpy.org/ } Ren'Py { /a } [ renpy.version_only ].\n\n"
-"[ renpy.license! t ]"
+msgstr "Fait avec { a=https: //www.renpy.org/ } Ren'Py { /a } [_am_]  renpy.version_only ].\n\n"
+"[_am_]  renpy.license! t ]"
 
 # game/screens.rpy:675
 msgid "Thanks to all beta testers <3 "
@@ -436,11 +436,11 @@ msgstr "Attributs d'image"
 
 # game/screens.rpy:1714
 msgid "[name] [attributes] (hidden)"
-msgstr "[name] [ attributs ] (masqué)"
+msgstr "[_am_] name] [_am_]  attributs ] (masqué)"
 
 # game/screens.rpy:1718
 msgid "[name] [attributes]"
-msgstr "[name] [ attributs ]"
+msgstr "[_am_] name] [_am_]  attributs ]"
 
 # game/screens.rpy:1767
 msgid "Nothing to inspect."
@@ -484,11 +484,11 @@ msgstr "Type à filtrer: "
 
 # game/screens.rpy:2255
 msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-msgstr "Textures: [ texte_count ] ([ texte_size_mb: .1f ] Mo)"
+msgstr "Textures: [_am_] tex_count] ([_am_] tex_size_mb:.1f] MB)"
 
 # game/screens.rpy:2259
 msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-msgstr "Cache d'image: [ cache_pct: .1f ]% ([ cache_size_mb: .1f ] Mo)"
+msgstr "Cache d'image: [_am_]  cache_pct: .1f ]% ([_am_]  cache_size_mb: .1f ] Mo)"
 
 # game/screens.rpy:2269
 msgid "✔ "
