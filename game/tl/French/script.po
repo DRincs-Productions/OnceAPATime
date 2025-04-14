@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-02 10:50\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -18,11 +18,11 @@ msgstr "Journal des modifications"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr "Changelog [ config.version! t ]\n"
+msgstr "Changelog [_am_]  config.version! t ]\n"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 02/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 02/2023{/color} { /size }"
 
 # game/script.rpy:947
 msgid "-Main Quest"
@@ -38,7 +38,7 @@ msgstr "-Bugfix"
 
 # game/script.rpy:951
 msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 12/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 12/2023{/color} { /size }"
 
 # game/script.rpy:952
 msgid "-Small update"
@@ -46,7 +46,7 @@ msgstr "-Petite mise à jour"
 
 # game/script.rpy:956
 msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 11/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 11/2023{/color} { /size }"
 
 # game/script.rpy:957
 msgid "-BugFix"
@@ -66,7 +66,7 @@ msgstr "-Beaucoup de vêtements neufs"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 10/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 10/2023{/color} { /size }"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
@@ -78,7 +78,7 @@ msgstr "-De nouveaux vêtements"
 
 # game/script.rpy:969
 msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 08/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 08/2023{/color} { /size }"
 
 # game/script.rpy:970
 msgid "-Office Customs"
@@ -86,11 +86,11 @@ msgstr "-Douanes de bureau"
 
 # game/script.rpy:973
 msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 07/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 07/2023{/color} { /size }"
 
 # game/script.rpy:978
 msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 04/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 04/2023{/color} { /size }"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
@@ -102,7 +102,7 @@ msgstr "02/2023"
 
 # game/script.rpy:987
 msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 01/2023 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 01/2023{/color} { /size }"
 
 # game/script.rpy:988
 msgid "-First Patreon Quest"
@@ -114,7 +114,7 @@ msgstr "-De nouveaux vêtements"
 
 # game/script.rpy:992
 msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 11/2022 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 11/2022{/color} { /size }"
 
 # game/script.rpy:993
 msgid "- Sultana quest"
@@ -130,7 +130,7 @@ msgstr "-Évolution de la romance des caractères"
 
 # game/script.rpy:998
 msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
-msgstr "{ size=20 } { color=#797979} 09/2022 { /color } { /size }"
+msgstr "{ size=20 }{color=#797979} 09/2022{/color} { /size }"
 
 # game/script.rpy:999
 msgid "-First Update, Introduction."
@@ -162,7 +162,7 @@ msgstr "Ancien livre"
 
 # game/script.rpy:1139
 msgid "Spoon"
-msgstr "Spoon"
+msgstr "Cuillère"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
@@ -170,7 +170,7 @@ msgstr "Commandes de Djin"
 
 # game/script.rpy:1141
 msgid "Magic Lamp"
-msgstr "Magic Lamp"
+msgstr "Lampe Magique"
 
 # game/script.rpy:1142
 msgid "Silver Box"
@@ -202,19 +202,19 @@ msgstr "Clé électronique"
 
 # game/script.rpy:1149
 msgid "Lyco Request List"
-msgstr "Liste de demandes Lyco"
+msgstr "Liste des demandes de Lyco"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
-msgstr "Dance Book Vol.I"
+msgstr "Livre de danse Vol.I"
 
 # game/script.rpy:1151
 msgid "Dance Book Vol.II"
-msgstr "Dance Book Vol.II"
+msgstr "Livre de danse Vol.II"
 
 # game/script.rpy:1152
 msgid "Dance Book Vol.III"
-msgstr "Dance Book Vol.III"
+msgstr "Livre de danse Vol.III"
 
 # game/script.rpy:1153
 msgid "Sherazade Orders"
