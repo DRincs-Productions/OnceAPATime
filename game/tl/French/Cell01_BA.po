@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 23:49\n"
+"PO-Revision-Date: 2025-04-14 18:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -182,7 +182,7 @@ msgstr "[_u_] Bonjour ? Mme Ali ? "
 
 # game/Cell01_BA.rpy:214 #-#-# translate crowdin Quest_BA_App01_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:215 #-#-# translate crowdin Quest_BA_App01_01_20ecf295:
 msgid "[_u_] Mrs Baba?"
@@ -558,7 +558,7 @@ msgstr "[_ba_] Avec elle, cette ville n'est plus qu'un repaire de bandits et de 
 
 # game/Cell01_BA.rpy:424 #-#-# translate crowdin Quest_BA_Ask01_d337807a:
 msgid "[_u_] Mh..."
-msgstr "[Mh..."
+msgstr "[_u_] Mh..."
 
 # game/Cell01_BA.rpy:426 #-#-# translate crowdin Quest_BA_Ask01_e58e00fe:
 msgid "[_ba_] What?"
@@ -566,7 +566,7 @@ msgstr "[Quoi ?"
 
 # game/Cell01_BA.rpy:427 #-#-# translate crowdin Quest_BA_Ask01_69cf47ff:
 msgid "[_u_] What's your title again? "
-msgstr "[Quel est votre titre déjà ? "
+msgstr "[_u_] Quel est votre titre déjà ? "
 
 # game/Cell01_BA.rpy:429 #-#-# translate crowdin Quest_BA_Ask01_93b155cc:
 msgid "[_ba_] It's not the same for me. I have ambitions. "
@@ -578,7 +578,7 @@ msgstr "[Je suis un lion qui conduit des moutons... mais c'est toujours mieux qu
 
 # game/Cell01_BA.rpy:432 #-#-# translate crowdin Quest_BA_Ask01_7864d509:
 msgid "[_u_] And in this methaphor... you're the lion, right? "
-msgstr "[Et dans cette métaphore, vous êtes le lion, n'est-ce pas ? "
+msgstr "[_u_] Et dans cette métaphore, vous êtes le lion, n'est-ce pas ? "
 
 # game/Cell01_BA.rpy:434 #-#-# translate crowdin Quest_BA_Ask01_a8603bc6:
 msgid "[_ba_] Stop asking me such stupid questions."
@@ -590,15 +590,15 @@ msgstr "[Son trône sera le mien. Période. "
 
 # game/Cell01_BA.rpy:446 #-#-# translate crowdin Ml_Ali_01_08_f446d2cf:
 msgid "[_u_] Anybody home? "
-msgstr "[Il y a quelqu'un ? "
+msgstr "[_u_] Il y a quelqu'un ? "
 
 # game/Cell01_BA.rpy:448 #-#-# translate crowdin Ml_Ali_01_08_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:449 #-#-# translate crowdin Ml_Ali_01_08_365d932b:
 msgid "[_u_] How the fuck am I supposed to corrupt someone who isn't even there? "
-msgstr "[Comment suis-je censé corrompre quelqu'un qui n'est même pas là ? "
+msgstr "[_u_] Comment suis-je censé corrompre quelqu'un qui n'est même pas là ? "
 
 # game/Cell01_BA.rpy:460 #-#-# translate crowdin Ml_Ali_01_08_f26c632e:
 msgid "[_dj_] Hi there!"
@@ -606,7 +606,7 @@ msgstr "[_dj_] Bonjour !"
 
 # game/Cell01_BA.rpy:461 #-#-# translate crowdin Ml_Ali_01_08_a10ba100:
 msgid "[_u_] Hey. What's up? "
-msgstr "[Hey. Qu'est-ce qu'il y a ? "
+msgstr "[_u_] Hey. Qu'est-ce qu'il y a ? "
 
 # game/Cell01_BA.rpy:463 #-#-# translate crowdin Ml_Ali_01_08_b12e8e87:
 msgid "[_dj_] You're not going to believe this... I've got something to show you. "
@@ -614,7 +614,7 @@ msgstr "[Vous n'allez pas le croire... J'ai quelque chose à vous montrer. "
 
 # game/Cell01_BA.rpy:464 #-#-# translate crowdin Ml_Ali_01_08_7c09b389:
 msgid "[_u_] Oh... is that a new body? "
-msgstr "[Oh... c'est un nouveau corps ? "
+msgstr "[_u_] Oh... c'est un nouveau corps ? "
 
 # game/Cell01_BA.rpy:465 #-#-# translate crowdin Ml_Ali_01_08_aa1889f0:
 msgid "[_dj_] Mh ... maybe. "
@@ -626,7 +626,7 @@ msgstr "[Et si je vous téléportais jusqu'à moi ?"
 
 # game/Cell01_BA.rpy:468 #-#-# translate crowdin Ml_Ali_01_08_e45ea035:
 msgid "[_u_] Whenever you want, girl!"
-msgstr "[Quand tu veux, ma fille !"
+msgstr "[_u_] Quand tu veux, ma fille !"
 
 # game/Cell01_BA.rpy:482 #-#-# translate crowdin Ml_Ali_01_08_c84d982c:
 msgid "[_dj_] Hi there."
@@ -642,7 +642,7 @@ msgstr "[Oui, je sais. C'est bizarre, n'est-ce pas ? "
 
 # game/Cell01_BA.rpy:487 #-#-# translate crowdin Ml_Ali_01_08_c916c2aa:
 msgid "[_u_] I didn't think it would happen so quickly!"
-msgstr "[Je ne pensais pas que cela arriverait si vite !"
+msgstr "[_u_] Je ne pensais pas que cela arriverait si vite !"
 
 # game/Cell01_BA.rpy:489 #-#-# translate crowdin Ml_Ali_01_08_63527488:
 msgid "[_dj_] Me neither, I must confess!"
@@ -718,11 +718,11 @@ msgstr "[Avez-vous déjà vu une chatte bleue ? Je ne crois pas. "
 
 # game/Cell01_BA.rpy:533 #-#-# translate crowdin Ml_Ali_01_08_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:534 #-#-# translate crowdin Ml_Ali_01_08_menu1_ad0810f4:
 msgid "[_u_] Well... actually... Yes, I've seen Emee's. "
-msgstr "[Eh bien... en fait... Oui, j'ai vu celui d'Emee. "
+msgstr "[_u_] Eh bien... en fait... Oui, j'ai vu celui d'Emee. "
 
 # game/Cell01_BA.rpy:536 #-#-# translate crowdin Ml_Ali_01_08_menu1_d32cd4c2:
 msgid "[_dj_] Oh... yes..."
@@ -750,7 +750,7 @@ msgstr "[Alors je me disais... si tu es d'accord bien sûr... "
 
 # game/Cell01_BA.rpy:551 #-#-# translate crowdin Ml_Ali_01_08_menu1_733695e2:
 msgid "[_u_] You want me to fuck you?"
-msgstr "[Tu veux que je te baise ?"
+msgstr "[_u_] Tu veux que je te baise ?"
 
 # game/Cell01_BA.rpy:553 #-#-# translate crowdin Ml_Ali_01_08_menu1_cb60c8da:
 msgid "[_dj_] That's the idea. "
@@ -762,7 +762,7 @@ msgstr "[_u_] Gosh..."
 
 # game/Cell01_BA.rpy:555 #-#-# translate crowdin Ml_Ali_01_08_menu1_5546e67c:
 msgid "[_u_] I think this is the first time a virgin has offered to fuck someone so quickly. "
-msgstr "[Je crois que c'est la première fois qu'un puceau propose de baiser quelqu'un aussi rapidement. "
+msgstr "[_u_] Je crois que c'est la première fois qu'un puceau propose de baiser quelqu'un aussi rapidement. "
 
 # game/Cell01_BA.rpy:557 #-#-# translate crowdin Ml_Ali_01_08_menu1_9c492b1c:
 msgid "[_dj_] Don't say that, you'll get me wet. "
@@ -782,7 +782,7 @@ msgstr "[Est-ce qu'on le fait ici ?"
 
 # game/Cell01_BA.rpy:569 #-#-# translate crowdin Ml_Ali_01_08_menu1_e6ac5ec2:
 msgid "[_u_] Mh... isn't there somewhere better? "
-msgstr "[Mh... n'y a-t-il pas un meilleur endroit ? "
+msgstr "[_u_] Mh... n'y a-t-il pas un meilleur endroit ? "
 
 # game/Cell01_BA.rpy:571 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd699045:
 msgid "[_dj_] In your bedroom? "
@@ -790,7 +790,7 @@ msgstr "[Dans votre chambre ? "
 
 # game/Cell01_BA.rpy:572 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd47d549:
 msgid "[_u_] I have the worst room in the whole HQ... My bed ain't even big enough for me, girl. "
-msgstr "[J'ai la pire chambre de tout le QG... Mon lit n'est même pas assez grand pour moi, ma fille. "
+msgstr "[_u_] J'ai la pire chambre de tout le QG... Mon lit n'est même pas assez grand pour moi, ma fille. "
 
 # game/Cell01_BA.rpy:574 #-#-# translate crowdin Ml_Ali_01_08_menu1_22e7a3b0:
 msgid "[_dj_] Oh, I know. I've got the perfect place in mind... "
@@ -802,7 +802,7 @@ msgstr "[Je comprends... C'était peut-être un peu trop rapide. "
 
 # game/Cell01_BA.rpy:593 #-#-# translate crowdin Ml_Ali_01_08_menu1_e760f4c2:
 msgid "[_dj_] See you later [name]!"
-msgstr "[A plus tard [nom] !]"
+msgstr "[A plus tard [name]!"
 
 # game/Cell01_BA.rpy:606 #-#-# translate crowdin GalleryImageQuest_Djin01_f26c632e:
 msgid "[_dj_] Hi there!"
@@ -810,7 +810,7 @@ msgstr "[_dj_] Bonjour !"
 
 # game/Cell01_BA.rpy:607 #-#-# translate crowdin GalleryImageQuest_Djin01_02dd136e:
 msgid "[_u_] Wow... A fuck above the city rooftops... "
-msgstr "[Wow... Une baise au-dessus des toits de la ville... "
+msgstr "[_u_] Wow... Une baise au-dessus des toits de la ville... "
 
 # game/Cell01_BA.rpy:609 #-#-# translate crowdin GalleryImageQuest_Djin01_fa7488bd:
 msgid "[_dj_] Yeah, I know... not bad, right? "
@@ -818,7 +818,7 @@ msgstr "[Oui, je sais... pas mal, non ? "
 
 # game/Cell01_BA.rpy:610 #-#-# translate crowdin GalleryImageQuest_Djin01_e159d12e:
 msgid "[_u_] I'll make your screams of pleasure echo throughout the city."
-msgstr "[Je ferai résonner vos cris de plaisir dans toute la ville."
+msgstr "[_u_] Je ferai résonner vos cris de plaisir dans toute la ville."
 
 # game/Cell01_BA.rpy:612 #-#-# translate crowdin GalleryImageQuest_Djin01_3c4eae98:
 msgid "[_dj_] Hehe !"
@@ -846,7 +846,7 @@ msgstr "[J'ai été vierge pendant si longtemps, tout mon corps brûle..."
 
 # game/Cell01_BA.rpy:630 #-#-# translate crowdin GalleryImageQuest_Djin01_2a7c48ba:
 msgid "[_u_] Your virgin pussy feels good as fuck too."
-msgstr "[Ta chatte vierge se sent bien aussi."
+msgstr "[_u_] Ta chatte vierge se sent bien aussi."
 
 # game/Cell01_BA.rpy:632 #-#-# translate crowdin GalleryImageQuest_Djin01_94e905ff:
 msgid "[_dj_] Hmmm..."
@@ -858,7 +858,7 @@ msgstr "[Pensez-vous qu'il soit possible d'aller plus loin ?"
 
 # game/Cell01_BA.rpy:636 #-#-# translate crowdin GalleryImageQuest_Djin01_450b1e86:
 msgid "[_u_] I can, if you feel ready."
-msgstr "[Je peux, si vous vous sentez prêt."
+msgstr "[_u_] Je peux, si vous vous sentez prêt."
 
 # game/Cell01_BA.rpy:638 #-#-# translate crowdin GalleryImageQuest_Djin01_8d751557:
 msgid "[_dj_] Yay !"
@@ -914,7 +914,7 @@ msgstr "[Ne commencez pas à vous prendre la tête. Je vois ton petit sourire ma
 
 # game/Cell01_BA.rpy:664 #-#-# translate crowdin GalleryImageQuest_Djin01_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:666 #-#-# translate crowdin GalleryImageQuest_Djin01_804ce4bb:
 msgid "[_dj_] Hehe ! I'm kidding !"
@@ -966,7 +966,7 @@ msgstr "[_dj_] Se faire engueuler par un grand garçon comme toi !"
 
 # game/Cell01_BA.rpy:690 #-#-# translate crowdin GalleryImageQuest_Djin01_a2200403:
 msgid "[_u_] I'm kind of your sex genie then ?"
-msgstr "[Je suis un peu votre génie du sexe alors ?"
+msgstr "[_u_] Je suis un peu votre génie du sexe alors ?"
 
 # game/Cell01_BA.rpy:692 #-#-# translate crowdin GalleryImageQuest_Djin01_fc66e49e:
 msgid "[_dj_] Oooh you much more than that..."
@@ -982,7 +982,7 @@ msgstr "[Quel honneur, n'est-ce pas ?"
 
 # game/Cell01_BA.rpy:698 #-#-# translate crowdin GalleryImageQuest_Djin01_bfad1311:
 msgid "[_u_] Yes. Truly an honor."
-msgstr "[Oui. C'est un véritable honneur."
+msgstr "[_u_] Oui. C'est un véritable honneur."
 
 # game/Cell01_BA.rpy:700 #-#-# translate crowdin GalleryImageQuest_Djin01_53b5020f:
 msgid "[_dj_] Awww How cute !"
@@ -994,7 +994,7 @@ msgstr "[J'adore jouer à ce genre de petits jeux avec toi."
 
 # game/Cell01_BA.rpy:704 #-#-# translate crowdin GalleryImageQuest_Djin01_af0775e0:
 msgid "[_u_] We're two."
-msgstr "[Nous sommes deux."
+msgstr "[_u_] Nous sommes deux."
 
 # game/Cell01_BA.rpy:706 #-#-# translate crowdin GalleryImageQuest_Djin01_075f175a:
 msgid "[_dj_] Ooooh..."
@@ -1034,7 +1034,7 @@ msgstr "[Depuis que je me sens de plus en plus sexy, j'ai supposé que tu l'éta
 
 # game/Cell01_BA.rpy:724 #-#-# translate crowdin GalleryImageQuest_Djin01_2f78fe56:
 msgid "[_u_] You're strong."
-msgstr "[Vous êtes fort."
+msgstr "[_u_] Vous êtes fort."
 
 # game/Cell01_BA.rpy:726 #-#-# translate crowdin GalleryImageQuest_Djin01_efe1beec:
 msgid "[_dj_] Thanks, I know."
@@ -1050,11 +1050,11 @@ msgstr "[Vous êtes si impatient ?"
 
 # game/Cell01_BA.rpy:732 #-#-# translate crowdin GalleryImageQuest_Djin01_69d5c215:
 msgid "[_u_] Fuck, it's so good inside you..."
-msgstr "[Putain, c'est si bon en toi..."
+msgstr "[_u_] Putain, c'est si bon en toi..."
 
 # game/Cell01_BA.rpy:734 #-#-# translate crowdin GalleryImageQuest_Djin01_e4c42711:
 msgid "[_u_] I can't control myself anymore."
-msgstr "[Je ne peux plus me contrôler."
+msgstr "[_u_] Je ne peux plus me contrôler."
 
 # game/Cell01_BA.rpy:736 #-#-# translate crowdin GalleryImageQuest_Djin01_1e4f206c:
 msgid "[_dj_] Aww do as you want, I'm feeling really good too with your cock ramming me !"
@@ -1082,7 +1082,7 @@ msgstr "[_dj_] Trop cool..."
 
 # game/Cell01_BA.rpy:813 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e86629e5:
 msgid "[_tb_] Hello, dear [name]! "
-msgstr "[Bonjour, cher [nom] !] "
+msgstr "[Bonjour, cher [name]! "
 
 # game/Cell01_BA.rpy:815 #-#-# translate crowdin GalleryImageQuest_Djin01_END_d29bb85e:
 msgid "[_tb_] You have finished the current update of the Mains Quests! "
