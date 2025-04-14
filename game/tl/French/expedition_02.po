@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
 msgid "[_u_] I don't need this drone at the moment. "
-msgstr "[_u_] Je n'ai pas besoin de ce drone pour le moment. "
+msgstr "[_am_] _u_] Je n'ai pas besoin de ce drone pour le moment. "
 
 # game/expedition_02.rpy:609 #-#-# translate crowdin expedition_02_lvl1fouille_88b7fe5b:
 msgid "---------"
@@ -22,11 +22,11 @@ msgstr "---------"
 
 # §translate crowdin strings: #|#|# # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST ] à gauche) "
+msgstr "$Drone Energy Boost 3AP ([_am_] ITEM_DRONE_2APBOOST ] à gauche) "
 
 # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST ] à gauche) "
+msgstr "$Drone Energy Boost 5AP ([_am_] ITEM_DRONE_5APBOOST ] à gauche) "
 
 # game/expedition_02.rpy:71
 msgid "$No thanks !"
@@ -34,13 +34,13 @@ msgstr "$No merci !"
 
 # game/expedition_02.rpy:422
 msgid "$Search the area {color=#3797d1}=2AP={/color} "
-msgstr "$Search la zone { color=#3797d1} =2AP = { /color } "
+msgstr "$Search la zone{color=#3797d1} =2AP ={/color} "
 
 # game/expedition_02.rpy:422
 msgid "$Keep moving forward {color=#3797d1}=1AP={/color} (1-3 slots)"
-msgstr "$Keep déplacement vers l'avant { color=#3797d1} =1AP = { /color } (3 emplacements)"
+msgstr "$Keep déplacement vers l'avant{color=#3797d1} =1AP ={/color} (3 emplacements)"
 
 # game/expedition_02.rpy:422
 msgid "$Bring back the Drone {color=#3797d1}=1AP={/color}"
-msgstr "$Bring retour de la Drone { color=#3797d1} =1AP = { /color }"
+msgstr "$Bring retour de la Drone{color=#3797d1} =1AP ={/color}"
 
