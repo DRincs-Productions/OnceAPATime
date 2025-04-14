@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 18:13\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = LE CARACTERE DE CREATION SERA DISPONIBLE DANS {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} JOURS="
+msgstr " = LE CARACTERE DE CREATION SERA DISPONIBLE DANS {color=#40cbf9}[_am_] CHARA_CREA_PROCEED_DAYLEFT]{/color} JOURS="
 
 # game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
 msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = LES VÊTEMENTS EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
+msgstr " = LES VÊTEMENTS EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[_am_] CLOTHE_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
 
 # game/Room_02.rpy:38 #-#-# translate crowdin room02_cuve01_ad56e3cc:
 msgid " = THE HAIR IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = LES CHEVEUX EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
+msgstr " = LES CHEVEUX EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[_am_] HAIR_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
 
 # game/Room_02.rpy:50 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
@@ -62,7 +62,7 @@ msgstr "Vous avez déjà visité ce personnage ce soir "
 
 # game/Room_02.rpy:153 #-#-# translate crowdin room02_diretcell_9a2f3415:
 msgid "[_u_] It's late, there must be no one there."
-msgstr "[_u_] Il est tard, il ne doit y avoir personne là."
+msgstr "[_am_] _u_] Il est tard, il ne doit y avoir personne là."
 
 # game/Room_02.rpy:166 #-#-# translate crowdin room02_diretcell_cd938b39:
 msgid "It's useless to go out for the moment. "
@@ -82,7 +82,7 @@ msgstr "$Laboratory"
 
 # game/Room_02.rpy:91
 msgid "$Artistic Division"
-msgstr "$Artistic Division"
+msgstr "$Division artistique"
 
 # game/Room_02.rpy:91
 msgid "$Amelia's Office"
@@ -90,7 +90,7 @@ msgstr "$Bureau d'Amelia"
 
 # game/Room_02.rpy:91
 msgid "$Showers"
-msgstr "$Showers"
+msgstr "$Douches"
 
 # game/Room_02.rpy:91
 msgid "$Outside"
