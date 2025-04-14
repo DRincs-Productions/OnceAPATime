@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_automatique.rpy:107 #-#-# translate crowdin Drone01_Panel_9ea2f78c:
 msgid " "
@@ -34,11 +34,11 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/expedition_automatique.rpy:225
 msgid "Fix the Drone {color=#a0fc86}(35c){/color}"
-msgstr "Corrigez le Drone { color=#a0fc86} (35c) { /color }"
+msgstr "Corrigez le Drone{color=#a0fc86} (35c){/color}"
 
 # game/expedition_automatique.rpy:225
 msgid "RESURECTION {color=#a0fc86}(55c){/color}"
-msgstr "RESURECTION { color=#a0fc86} (55c) { /color }"
+msgstr "RESURECTION{color=#a0fc86} (55c){/color}"
 
 # game/expedition_automatique.rpy:225
 msgid "Send Drone"
