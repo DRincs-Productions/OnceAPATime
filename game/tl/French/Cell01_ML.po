@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -214,7 +214,7 @@ msgstr "[_am_] _ml_] Ok je suis dans."
 
 # game/Cell01_ML.rpy:294 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_60c48449:
 msgid "[_ml_] Come over here [name]."
-msgstr "[_am_] _ml_] Venez ici [_am_] name]."
+msgstr "[_am_] _ml_] Venez ici [name]."
 
 # game/Cell01_ML.rpy:295 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_f386bfc8:
 msgid "[_u_] I'm putting it in... "
@@ -478,7 +478,7 @@ msgstr "[_am_] _ml_] Ton cul est si bon meli ... Je vais à cum ... "
 
 # game/Cell01_ML.rpy:468 #-#-# translate crowdin SceneMelisandre02_8d53340d:
 msgid "[_ml_] Cover me with cum [name]..."
-msgstr "[_am_] _ml_] Couvrir-moi avec cum [_am_] name] ..."
+msgstr "[_am_] _ml_] Couvrir-moi avec cum [name] ..."
 
 # game/Cell01_ML.rpy:470 #-#-# translate crowdin SceneMelisandre02_450b9bc5:
 msgid "[_ml_] That's what I want..."
@@ -510,7 +510,7 @@ msgstr "[_am_] _u_] Je vais venir meli ... "
 
 # game/Cell01_ML.rpy:490 #-#-# translate crowdin SceneMelisandre02_1fd4fdf2:
 msgid "[_ml_] Cover me with sperm [name]..."
-msgstr "[_am_] _ml_] Couvrir-moi avec le sperme [_am_] name] ..."
+msgstr "[_am_] _ml_] Couvrir-moi avec le sperme [name] ..."
 
 # game/Cell01_ML.rpy:492 #-#-# translate crowdin SceneMelisandre02_7a82bd8d_3:
 msgid "[_ml_] ..."
@@ -758,7 +758,7 @@ msgstr "[_am_] _ml_] Grand ! Merci beaucoup !"
 
 # game/Cell01_ML.rpy:839 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_b170b869:
 msgid "[_ml_] And uh... glad to have you back with us [name]."
-msgstr "[_am_] _ml_] Et euh ... heureux de vous retrouver avec nous [_am_] name]."
+msgstr "[_am_] _ml_] Et euh ... heureux de vous retrouver avec nous [name]."
 
 # game/Cell01_ML.rpy:850 #-#-# translate crowdin ML_DroneItem_RoomDevice01_7ba0d216:
 msgid "[_ml_] Oh... a mystery ~"
