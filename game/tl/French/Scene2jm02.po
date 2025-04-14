@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:34\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -178,7 +178,7 @@ msgstr "[_am_] _jm_] Elle chatouille ! ..."
 
 # game/Scene2jm02.rpy:296 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P2_1713130b:
 msgid "[_jm_] Mh..."
-msgstr "[_am_] Mh..."
+msgstr "[_jm_]  Mh..."
 
 # game/Scene2jm02.rpy:305 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P3_09ef1ee5:
 msgid "[_jm_] Ahh..."
@@ -650,7 +650,7 @@ msgstr "[_am_] _jm_] ..."
 
 # game/Scene2jm02.rpy:860 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P2_1713130b:
 msgid "[_jm_] Mh..."
-msgstr "[_am_] Mh..."
+msgstr "[_jm_]  Mh..."
 
 # game/Scene2jm02.rpy:862 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P2_7b123fe4:
 msgid "[_jm_] It tickles!..."
@@ -658,7 +658,7 @@ msgstr "[_am_] _jm_] Elle chatouille ! ..."
 
 # game/Scene2jm02.rpy:867 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P2_1713130b_1:
 msgid "[_jm_] Mh..."
-msgstr "[_am_] Mh..."
+msgstr "[_jm_]  Mh..."
 
 # game/Scene2jm02.rpy:876 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P3_09ef1ee5:
 msgid "[_jm_] Ahh..."
