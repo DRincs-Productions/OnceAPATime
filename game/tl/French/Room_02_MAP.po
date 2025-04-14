@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 18:13\n"
+"PO-Revision-Date: 2025-04-14 19:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_MAP.rpy:13 #-#-# translate crowdin Room_02_MAP_e8b9ebe7:
 msgid "[_u_] I need to find out where the others are first."
-msgstr "[_u_] J'ai besoin de savoir où les autres sont les premiers."
+msgstr "[_am_] _u_] J'ai besoin de savoir où les autres sont les premiers."
 
 # game/Room_02_MAP.rpy:17 #-#-# translate crowdin Room_02_MAP_28740bba:
 msgid "[_u_] Useless for the moment."
-msgstr "[_u_] Useless pour le moment."
+msgstr "[_am_] _u_] Useless pour le moment."
 
 # game/Room_02_MAP.rpy:65 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c:
 msgid " You have already visited this character today "
@@ -58,7 +58,7 @@ msgstr "Allez voir Em-AI."
 
 # game/Room_02_MAP.rpy:142 #-#-# translate crowdin MAP_01_SnowPoint_d0d1b6d1:
 msgid "[_u_] I need to find a blank character data with my drone first."
-msgstr "[_u_] J'ai besoin de trouver un caractère blanc avec mon drone d'abord."
+msgstr "[_am_] _u_] J'ai besoin de trouver un caractère blanc avec mon drone d'abord."
 
 # game/Room_02_MAP.rpy:150 #-#-# translate crowdin MAP_01_SnowPoint_b70ca43c:
 msgid " You have already visited this character today "
@@ -126,5 +126,5 @@ msgstr "$Queen Elsa"
 
 # game/Room_02_MAP.rpy:130
 msgid "${color=#3ad8ff}Outpost 16{/color}"
-msgstr "$ { color=#3ad8ff} Outpost 16 { /color }"
+msgstr "${color=#3ad8ff} Outpost 16{/color}"
 
