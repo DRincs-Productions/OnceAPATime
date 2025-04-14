@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 18:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
@@ -86,7 +86,7 @@ msgstr "$Artistic Division"
 
 # game/Room_02.rpy:91
 msgid "$Amelia's Office"
-msgstr "$AmeliaBureau"
+msgstr "$Bureau d'Amelia"
 
 # game/Room_02.rpy:91
 msgid "$Showers"
