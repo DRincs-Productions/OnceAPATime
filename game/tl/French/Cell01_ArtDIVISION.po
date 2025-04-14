@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 17:19\n"
+"PO-Revision-Date: 2025-04-14 16:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -22,7 +22,7 @@ msgstr "[_u_] A plus tard !"
 
 # game/Cell01_ArtDIVISION.rpy:181 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_d93ee3d6:
 msgid "[_ly_] See you [name]!"
-msgstr "[_ly_] Au revoir [ nom ] !"
+msgstr "[_ly_] Au revoir [name] !"
 
 # game/Cell01_ArtDIVISION.rpy:192 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_259e399c:
 msgid "[_u_] See you later!"
@@ -948,7 +948,7 @@ msgstr "[Il y a quelqu'un ? "
 
 # game/Cell01_ArtDIVISION.rpy:1017 #-#-# translate crowdin QuestChap2_LyStart_LY_01_e97c92a7:
 msgid "[_ly_] Hey! [name]!"
-msgstr "[Hé ! [nom] !]"
+msgstr "[Hé ! [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1031 #-#-# translate crowdin QuestChap2_LyStart_LY_01_cf8c2953:
 msgid "[_ly_] It's nice to see you finally showered. "
@@ -1156,7 +1156,7 @@ msgstr "[Si cette petite expérience fonctionne, nous pourrons créer des tonnes
 
 # game/Cell01_ArtDIVISION.rpy:1134 #-#-# translate crowdin QuestChap2_LyStart_LY_01_e5620598:
 msgid "[_ly_] Anyway, see you later [name]!"
-msgstr "[Quoi qu'il en soit, à plus tard [nom] !]"
+msgstr "[Quoi qu'il en soit, à plus tard [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1151 #-#-# translate crowdin QuestChap2_LyStart_LY_02_6d47a6eb:
 msgid "[_a_] Okay, then try rotating the left lever instead. "
@@ -1260,7 +1260,7 @@ msgstr "[Oui, d'accord."
 
 # game/Cell01_ArtDIVISION.rpy:1200 #-#-# translate crowdin QuestChap2_LyStart_LY_02_1c0abc85:
 msgid "[_ly_] And thanks [name]!"
-msgstr "[Et merci [nom] !]"
+msgstr "[Et merci [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1202 #-#-# translate crowdin QuestChap2_LyStart_LY_02_fda51369:
 msgid "[_u_] You're welcome! "
@@ -3176,7 +3176,7 @@ msgstr "[Qu'est-ce que tu fais ?"
 
 # game/Cell01_ArtDIVISION.rpy:2489 #-#-# translate crowdin Quest_A_SW_01_e97c92a7:
 msgid "[_ly_] Hey! [name]!"
-msgstr "[Hé ! [nom] !]"
+msgstr "[Hé ! [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:2497 #-#-# translate crowdin Quest_A_SW_01_265d6908:
 msgid "[_ly_] Amandine agreed to be my model and try on clothes for me!"
