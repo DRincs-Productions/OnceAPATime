@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -22,7 +22,7 @@ msgstr "[_am_] _ba_]  Oh non, te revoilà..."
 
 # game/Cell01_BA.rpy:61 #-#-# translate crowdin CHARA_BA_Menu01_68a0dc42:
 msgid "[_ba_] Greetings [name]. "
-msgstr "[_am_] _ba_] Salutations, [_am_] name]. "
+msgstr "[_am_] _ba_] Salutations, [name]. "
 
 # game/Cell01_BA.rpy:68 #-#-# translate crowdin CHARA_BA_MenuChoice_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
@@ -534,7 +534,7 @@ msgstr "[_am_] _u_] Ce que tu dis n'a aucun sens."
 
 # game/Cell01_BA.rpy:407 #-#-# translate crowdin Quest_BA_App01_01_5a83b267:
 msgid "[_ba_] I'll see you tomorrow [name]..."
-msgstr "[_am_] _ba_] À demain, [_am_] name]..."
+msgstr "[_am_] _ba_] À demain, [name]..."
 
 # game/Cell01_BA.rpy:415 #-#-# translate crowdin Quest_BA_Ask01_5ae1c955:
 msgid "[_ba_] The question would be... why wouldn't I want to? "
@@ -546,11 +546,11 @@ msgstr "[_am_] _ba_] La tyrannie de Shéhérazade doit prendre fin tôt ou tard.
 
 # game/Cell01_BA.rpy:419 #-#-# translate crowdin Quest_BA_Ask01_fc81f237:
 msgid "[_ba_] And the sooner the better. Especially if it's me who ends up with my ass on her throne. "
-msgstr "[_am_] Et le plus tôt sera le mieux. Surtout si c'est moi qui finis le cul sur son trône. "
+msgstr "[_ba_]  Et le plus tôt sera le mieux. Surtout si c'est moi qui finis le cul sur son trône. "
 
 # game/Cell01_BA.rpy:421 #-#-# translate crowdin Quest_BA_Ask01_f75772de:
 msgid "[_ba_] Besides... I'd make a better Sultana than her. That's for sure. "
-msgstr "[_am_] D'ailleurs... Je ferais une meilleure Sultane qu'elle. C'est certain. "
+msgstr "[_ba_]  D'ailleurs... Je ferais une meilleure Sultane qu'elle. C'est certain. "
 
 # game/Cell01_BA.rpy:423 #-#-# translate crowdin Quest_BA_Ask01_1b4de826:
 msgid "[_ba_] With her in charge, this city is nothing but a hideout for bandits and thieves. "
@@ -562,7 +562,7 @@ msgstr "[_am_] _u_] Mh..."
 
 # game/Cell01_BA.rpy:426 #-#-# translate crowdin Quest_BA_Ask01_e58e00fe:
 msgid "[_ba_] What?"
-msgstr "[_am_] Quoi ?"
+msgstr "[_ba_]  Quoi ?"
 
 # game/Cell01_BA.rpy:427 #-#-# translate crowdin Quest_BA_Ask01_69cf47ff:
 msgid "[_u_] What's your title again? "
@@ -570,11 +570,11 @@ msgstr "[_am_] _u_] Quel est votre titre déjà ? "
 
 # game/Cell01_BA.rpy:429 #-#-# translate crowdin Quest_BA_Ask01_93b155cc:
 msgid "[_ba_] It's not the same for me. I have ambitions. "
-msgstr "[_am_] Ce n'est pas la même chose pour moi. J'ai des ambitions. "
+msgstr "[_ba_]  Ce n'est pas la même chose pour moi. J'ai des ambitions. "
 
 # game/Cell01_BA.rpy:431 #-#-# translate crowdin Quest_BA_Ask01_27ab7356:
 msgid "[_ba_] I'm a lion leading sheep... but it's still better than lions led by a donkey. "
-msgstr "[_am_] Je suis un lion qui conduit des moutons... mais c'est toujours mieux que des lions conduits par un âne. "
+msgstr "[_ba_]  Je suis un lion qui conduit des moutons... mais c'est toujours mieux que des lions conduits par un âne. "
 
 # game/Cell01_BA.rpy:432 #-#-# translate crowdin Quest_BA_Ask01_7864d509:
 msgid "[_u_] And in this methaphor... you're the lion, right? "
@@ -582,11 +582,11 @@ msgstr "[_am_] _u_] Et dans cette métaphore, vous êtes le lion, n'est-ce pas ?
 
 # game/Cell01_BA.rpy:434 #-#-# translate crowdin Quest_BA_Ask01_a8603bc6:
 msgid "[_ba_] Stop asking me such stupid questions."
-msgstr "[_am_] Arrêtez de me poser des questions aussi stupides."
+msgstr "[_ba_]  Arrêtez de me poser des questions aussi stupides."
 
 # game/Cell01_BA.rpy:436 #-#-# translate crowdin Quest_BA_Ask01_c34b9092:
 msgid "[_ba_] Her throne will be mine. Period. "
-msgstr "[_am_] Son trône sera le mien. Période. "
+msgstr "[_ba_]  Son trône sera le mien. Période. "
 
 # game/Cell01_BA.rpy:446 #-#-# translate crowdin Ml_Ali_01_08_f446d2cf:
 msgid "[_u_] Anybody home? "
@@ -802,7 +802,7 @@ msgstr "[_dj_]  Je comprends... C'était peut-être un peu trop rapide. "
 
 # game/Cell01_BA.rpy:593 #-#-# translate crowdin Ml_Ali_01_08_menu1_e760f4c2:
 msgid "[_dj_] See you later [name]!"
-msgstr "[_dj_]  A plus tard [_dj_]  name]!"
+msgstr "[_dj_] A plus tard [name]!"
 
 # game/Cell01_BA.rpy:606 #-#-# translate crowdin GalleryImageQuest_Djin01_f26c632e:
 msgid "[_dj_] Hi there!"
