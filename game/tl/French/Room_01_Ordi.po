@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 18:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -406,7 +406,7 @@ msgstr "{ color=#d743c7} ALL CUSTOM { /color } "
 
 # game/Room_01_Ordi.rpy:92
 msgid "default office_01_customs_p06_04UNLOCK = False"
-msgstr "Default office_01_customs_p06_04UNLOCK = False"
+msgstr "default office_01_customs_p06_04UNLOCK = False"
 
 # game/Room_01_Ordi.rpy:289
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
