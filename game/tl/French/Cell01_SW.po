@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -162,7 +162,7 @@ msgstr "[_am_] _sw_] Merci ! "
 
 # game/Cell01_SW.rpy:507 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:511 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_6cc4f5fe:
 msgid "[_sw_] But I'm still mad at you. "
@@ -182,7 +182,7 @@ msgstr "[_am_] _sw_] J'adore ! Je vous remercie ! "
 
 # game/Cell01_SW.rpy:522 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01_1:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:529 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_7a13565f:
 msgid "You dont have this object"
@@ -210,7 +210,7 @@ msgstr "[_am_] _sw_] Merci ! "
 
 # game/Cell01_SW.rpy:544 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01_2:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:550 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_6cc4f5fe_1:
 msgid "[_sw_] But I'm still mad at you. "
@@ -326,7 +326,7 @@ msgstr "[_am_] _sw_] Merci ! "
 
 # game/Cell01_SW.rpy:648 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01_3:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:652 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_6cc4f5fe_2:
 msgid "[_sw_] But I'm still mad at you. "
@@ -346,7 +346,7 @@ msgstr "[_am_] _sw_] J'adore ! Je vous remercie ! "
 
 # game/Cell01_SW.rpy:663 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01_4:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:670 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_7a13565f_2:
 msgid "You dont have this object"
@@ -374,7 +374,7 @@ msgstr "[_am_] _sw_] Merci ! "
 
 # game/Cell01_SW.rpy:685 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_ffb86e01_5:
 msgid "= Mood Increased ="
-msgstr "= Mood augmenté ="
+msgstr "= Humeur augmentée ="
 
 # game/Cell01_SW.rpy:691 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_6cc4f5fe_3:
 msgid "[_sw_] But I'm still mad at you. "
@@ -2082,7 +2082,7 @@ msgstr "[_am_] _u_] Ok, ok, pas de problème, madame. "
 
 # game/Cell01_SW.rpy:2192 #-#-# translate crowdin SW_FAVOR_Boobs01_Refuse_5fa4c0c9:
 msgid "[_sw_]  You're a charming young man, Huntsman."
-msgstr "Vous êtes un charmant jeune homme, Huntsman."
+msgstr "[_sw_] Vous êtes un charmant jeune homme, Huntsman."
 
 # game/Cell01_SW.rpy:2194 #-#-# translate crowdin SW_FAVOR_Boobs01_Refuse_0ebaf1c7:
 msgid "[_sw_]  Thank you for understanding me. "
@@ -2870,7 +2870,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2860 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_ea88cb13:
 msgid "[_tb_] Thank you for playing the first part of the first Chapter of ''Once a Porn a Time'' [name]!"
-msgstr "[_am_] _tb_] Merci d'avoir joué la première partie du premier chapitre de '' Once a Porn a Time''[_am_] name] !"
+msgstr "[_am_] _tb_] Merci d'avoir joué la première partie du premier chapitre de '' Once a Porn a Time''[name] !"
 
 # game/Cell01_SW.rpy:2862 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_627a7205:
 msgid "[_tb_] If you want to help fund this game, please visit our {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a}!"
@@ -3294,7 +3294,7 @@ msgstr "[_am_] _u_] Est-ce correct?"
 
 # game/Cell01_SW.rpy:3160 #-#-# translate crowdin SW_FistQuest_01_25c0c665:
 msgid "[_tb_] Yup! You know your classics, mister [name]."
-msgstr "[_am_] _tb_] Yup ! Vous connaissez vos classiques, mister [_am_] name]."
+msgstr "[_am_] _tb_] Yup ! Vous connaissez vos classiques, mister [name]."
 
 # game/Cell01_SW.rpy:3162 #-#-# translate crowdin SW_FistQuest_01_21cfca5b:
 msgid "[_tb_] It'll be easier for you to have the upper hand if she feels like she knows you and owes you something."
@@ -5254,11 +5254,11 @@ msgstr "[_am_] _u_] Hey ! Qui diable es-tu? "
 
 # game/Cell01_SW.rpy:4715 #-#-# translate crowdin QuestPatreon01_Dial03_b7efd826:
 msgid "[_none01_] Hello, dear [name]"
-msgstr "[_am_] _none01_] Bonjour, ma chère [_am_] name]"
+msgstr "[_none01_] Bonjour, ma chère [name]"
 
 # game/Cell01_SW.rpy:4716 #-#-# translate crowdin QuestPatreon01_Dial03_05141847:
 msgid "[_none01_] How are you today? "
-msgstr "[_am_] _none01_] Comment êtes-vous aujourd'hui? "
+msgstr "[_none01_] Comment êtes-vous aujourd'hui? "
 
 # game/Cell01_SW.rpy:4717 #-#-# translate crowdin QuestPatreon01_Dial03_fbe54855:
 msgid "[_u_] How do you know my name?? "
@@ -5278,7 +5278,7 @@ msgstr "[_am_] _none01_] Non, je ne suis pas l'un d'eux."
 
 # game/Cell01_SW.rpy:4721 #-#-# translate crowdin QuestPatreon01_Dial03_c1e55811:
 msgid "[_none01_] I suppose that's what you're looking for? "
-msgstr "[_am_] _none01_] Je suppose que c'est ce que vous cherchez? "
+msgstr "[_none01_] Je suppose que c'est ce que vous cherchez? "
 
 # game/Cell01_SW.rpy:4723 #-#-# translate crowdin QuestPatreon01_Dial03_8ef4790c:
 msgid "[_u_] ?!?"
@@ -9866,11 +9866,11 @@ msgstr "[_am_] _sw_] Qui êtes-vous??"
 
 # game/Cell01_SW.rpy:7877 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_ce510e56:
 msgid "[_swe_] I'm yourself. Or rather, the yourself you wish you were."
-msgstr "[_am_] _sup ] Je suis toi-même. Ou plutôt, comme vous le souhaitez."
+msgstr "[_swe_] Je suis toi-même. Ou plutôt, comme vous le souhaitez."
 
 # game/Cell01_SW.rpy:7879 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_6786ce1c:
 msgid "[_swe_] And who is this handsome prince charming?"
-msgstr "Et qui est ce beau prince charmant?"
+msgstr "[_swe_] Et qui est ce beau prince charmant?"
 
 # game/Cell01_SW.rpy:7880 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_e601bc5d:
 msgid "[_u_] Well... Hello, I'm the huntsman..."
@@ -9942,7 +9942,7 @@ msgstr "[_am_] _u_] (Perish la pensée.)"
 
 # game/Cell01_SW.rpy:7932 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_f1322941:
 msgid "[_swe_] Oh? You think you're more perverted just because you're showing a bit of skin?"
-msgstr "[_am_] _sup ] Oh? Tu crois que tu es plus perverti juste parce que tu montres un peu de peau?"
+msgstr "[_swe_] Oh? Tu crois que tu es plus perverti juste parce que tu montres un peu de peau?"
 
 # game/Cell01_SW.rpy:7941 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_01565154:
 msgid "[_swe_] See? I can get naked. Piece of cake."
@@ -10370,7 +10370,7 @@ msgstr "[_am_] _e_] Et c'est pourquoi, Rosette, porter des vêtements n'arrête 
 
 # game/Cell01_SW.rpy:8270 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_d57aa565:
 msgid "[_ro_] ??!?"
-msgstr "[_am_] _ro_]????"
+msgstr "[_ro_]????"
 
 # game/Cell01_SW.rpy:8272 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_496c447d:
 msgid "[_ro_] LADY E!! A man!!!"
@@ -10382,7 +10382,7 @@ msgstr "[_am_] _ro_] C'est le diable !!! il est venu me capturer !!!"
 
 # game/Cell01_SW.rpy:8278 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_279130b8:
 msgid "[_ro_] RUUUuuuuuunn!!!!"
-msgstr "[_am_] _ro_] RUUUuuuuuuuuuuuunn ! !!!"
+msgstr "[_ro_] RUUUuuuuuuuuuuuunn ! !!!!"
 
 # game/Cell01_SW.rpy:8279 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_72a33094:
 msgid "[_e_] ..."
@@ -10558,7 +10558,7 @@ msgstr "[_am_] _e_]??"
 
 # game/Cell01_SW.rpy:8407 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_3388a208:
 msgid "[_e_] Oh..."
-msgstr "[_am_] Oh..."
+msgstr "[_e_]  Oh..."
 
 # game/Cell01_SW.rpy:8409 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_0f7682d0:
 msgid "[_e_] How could I refuse such an invitation?"
@@ -11090,7 +11090,7 @@ msgstr "[_am_] _sw_] Quel bruit? "
 
 # game/Cell01_SW.rpy:8808 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_64eb879f:
 msgid "[_tb_] [name], We've got a problem!"
-msgstr "[_am_] _tb_] [_am_] name], Nous avons un problème !"
+msgstr "[_am_] _tb_] [name], Nous avons un problème !"
 
 # game/Cell01_SW.rpy:8810 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_ba5388cd:
 msgid "[_tb_] There's something fast approaching. I don't know what it is, but all my sensors are going haywire."
@@ -11954,7 +11954,7 @@ msgstr "[_am_] _tb_] J'ajoute cette option à votre panneau de commande de drone
 
 # game/Cell01_SW.rpy:9496 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_200b670c:
 msgid "[_tb_] Nice work [name]!"
-msgstr "[_am_] _tb_] Le travail de Nice [_am_] name] !"
+msgstr "[_am_] _tb_] Le travail de Nice [name] !"
 
 # game/Cell01_SW.rpy:9517 #-#-# translate crowdin SW_PATREON04_ONHOLD01_6cc3cd68:
 msgid "[_sw_] --------------"
@@ -12214,11 +12214,11 @@ msgstr "[_am_] _fy2_s_] HURRY !"
 
 # game/Cell01_SW.rpy:9727 #-#-# translate crowdin QuestPatreon04_p2_a39fbb5e:
 msgid "[_u_] I am [name], a simple adventurer."
-msgstr "[_am_] _u_] Je suis [_am_] name], un simple aventurier."
+msgstr "[_am_] _u_] Je suis [name], un simple aventurier."
 
 # game/Cell01_SW.rpy:9728 #-#-# translate crowdin QuestPatreon04_p2_def654ab:
 msgid "[_fy2_s_] [name], You are here on sacred land."
-msgstr "[_am_] _fy2_s_] [_am_] name], Vous êtes ici sur des terres sacrées."
+msgstr "[_am_] _fy2_s_] [name], Vous êtes ici sur des terres sacrées."
 
 # game/Cell01_SW.rpy:9730 #-#-# translate crowdin QuestPatreon04_p2_22be9e51:
 msgid "[_fy2_s_] Leave this place immediately."
@@ -12298,7 +12298,7 @@ msgstr "[_am_] _fy3_s_] Qui êtes-vous, et que faites-vous ici?"
 
 # game/Cell01_SW.rpy:9786 #-#-# translate crowdin QuestPatreon04_p2_a48de202:
 msgid "[_u_] I am [name] and... I'm an adventurer."
-msgstr "[_am_] _u_] Je suis [_am_] name] et ... Je suis un aventurier."
+msgstr "[_am_] _u_] Je suis [name] et ... Je suis un aventurier."
 
 # game/Cell01_SW.rpy:9788 #-#-# translate crowdin QuestPatreon04_p2_65d4b6d9:
 msgid "[_fy3_s_] An adventurer? That's a first."
@@ -12382,7 +12382,7 @@ msgstr "[_am_] _tb_] Bonjour ! Je suis Tinker ! Je suis le PDG + + de cette plan
 
 # game/Cell01_SW.rpy:9843 #-#-# translate crowdin QuestPatreon04_p2_c7154cec:
 msgid "[_tb_] And here is [name], my employee."
-msgstr "[_am_] _tb_] Et voici [_am_] name], mon employé."
+msgstr "[_am_] _tb_] Et voici [name], mon employé."
 
 # game/Cell01_SW.rpy:9845 #-#-# translate crowdin QuestPatreon04_p2_32a3a3f4:
 msgid "[_u_] Sup'."
@@ -13494,7 +13494,7 @@ msgstr "[_am_] _mm_] Hé, désolé d'interrompre, mais je fais un léger amendem
 
 # game/Cell01_SW.rpy:10533 #-#-# translate crowdin Quest_SW_MagicMirror02_c1e380b9:
 msgid "[_mm_] [name] is not a prince YET. "
-msgstr "[_am_] _mm_] [_am_] name] n'est pas un prince YET. "
+msgstr "[_am_] _mm_] [name] n'est pas un prince YET. "
 
 # game/Cell01_SW.rpy:10535 #-#-# translate crowdin Quest_SW_MagicMirror02_63586f85:
 msgid "[_u_] What? What are you doing?"
@@ -14470,7 +14470,7 @@ msgstr "[_am_] _mm_] Hé ! Désolé de vous interrompre, mais je fais une petite
 
 # game/Cell01_SW.rpy:11181 #-#-# translate crowdin Quest_SW_MagicMirror04_c1e380b9:
 msgid "[_mm_] [name] is not a prince YET. "
-msgstr "[_am_] _mm_] [_am_] name] n'est pas un prince YET. "
+msgstr "[_am_] _mm_] [name] n'est pas un prince YET. "
 
 # game/Cell01_SW.rpy:11183 #-#-# translate crowdin Quest_SW_MagicMirror04_63586f85:
 msgid "[_u_] What? What are you doing?"
