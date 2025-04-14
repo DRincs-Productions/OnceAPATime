@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 15:53\n"
+"PO-Revision-Date: 2025-04-14 18:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_MAP.rpy:13 #-#-# translate crowdin Room_02_MAP_e8b9ebe7:
 msgid "[_u_] I need to find out where the others are first."
@@ -90,7 +90,7 @@ msgstr "$Ali-grotte de baba"
 
 # game/Room_02_MAP.rpy:59
 msgid "$Jasmine's room"
-msgstr "$Jasminesalle"
+msgstr "$salle de Jasmine"
 
 # game/Room_02_MAP.rpy:59
 msgid "$Djin"
