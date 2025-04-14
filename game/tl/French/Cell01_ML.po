@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 14:09\n"
+"PO-Revision-Date: 2025-04-14 18:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -214,7 +214,7 @@ msgstr "[_ml_] Ok je suis dans."
 
 # game/Cell01_ML.rpy:294 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_60c48449:
 msgid "[_ml_] Come over here [name]."
-msgstr "[_ml_] Venez ici [ nom ]."
+msgstr "[_ml_] Venez ici [name]."
 
 # game/Cell01_ML.rpy:295 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_f386bfc8:
 msgid "[_u_] I'm putting it in... "
@@ -478,7 +478,7 @@ msgstr "[_ml_] Ton cul est si bon meli ... Je vais à cum ... "
 
 # game/Cell01_ML.rpy:468 #-#-# translate crowdin SceneMelisandre02_8d53340d:
 msgid "[_ml_] Cover me with cum [name]..."
-msgstr "[_ml_] Couvrir-moi avec cum [ nom ] ..."
+msgstr "[_ml_] Couvrir-moi avec cum [name] ..."
 
 # game/Cell01_ML.rpy:470 #-#-# translate crowdin SceneMelisandre02_450b9bc5:
 msgid "[_ml_] That's what I want..."
@@ -510,7 +510,7 @@ msgstr "[_u_] Je vais venir meli ... "
 
 # game/Cell01_ML.rpy:490 #-#-# translate crowdin SceneMelisandre02_1fd4fdf2:
 msgid "[_ml_] Cover me with sperm [name]..."
-msgstr "[_ml_] Couvrir-moi avec le sperme [ nom ] ..."
+msgstr "[_ml_] Couvrir-moi avec le sperme [name] ..."
 
 # game/Cell01_ML.rpy:492 #-#-# translate crowdin SceneMelisandre02_7a82bd8d_3:
 msgid "[_ml_] ..."
@@ -758,7 +758,7 @@ msgstr "[_ml_] Grand ! Merci beaucoup !"
 
 # game/Cell01_ML.rpy:839 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_b170b869:
 msgid "[_ml_] And uh... glad to have you back with us [name]."
-msgstr "[_ml_] Et euh ... heureux de vous retrouver avec nous [ nom ]."
+msgstr "[_ml_] Et euh ... heureux de vous retrouver avec nous [name]."
 
 # game/Cell01_ML.rpy:850 #-#-# translate crowdin ML_DroneItem_RoomDevice01_7ba0d216:
 msgid "[_ml_] Oh... a mystery ~"
@@ -1054,7 +1054,7 @@ msgstr "[_ml_] ..."
 
 # game/Cell01_ML.rpy:1080 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_5ef6ceb6:
 msgid "[_u_] Mh... "
-msgstr "[Mh... "
+msgstr "[_u_] Mh... "
 
 # game/Cell01_ML.rpy:1081 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_5e048373:
 msgid "[_u_] Mmmmhhhh...."
@@ -1062,7 +1062,7 @@ msgstr "[_u_] Mmmmhhhh ...."
 
 # game/Cell01_ML.rpy:1082 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_ML.rpy:1083 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_225f1d0d:
 msgid "[_u_] Yeah, that's a nice ass. "
@@ -1198,7 +1198,7 @@ msgstr "[_ml_] Cependant, j'ai entendu dire qu'elle avait une petite amie."
 
 # game/Cell01_ML.rpy:1174 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/Cell01_ML.rpy:1175 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_66c546d4:
 msgid "[_u_] Where did you hear that? "
@@ -1330,7 +1330,7 @@ msgstr "[_ml_] Yup ... Je peux confirmer que c'est mon fantasme sexuel !"
 
 # game/Cell01_ML.rpy:1257 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr "[_u_] Ok, super, plus que [Quest_JM_Favor_Ask2_Number] d'employés à interroger."
+msgstr "[_u_] Ok, super, plus que [_u_] Quest_JM_Favor_Ask2_Number] d'employés à interroger."
 
 # game/Cell01_ML.rpy:1263 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_f332ab9b:
 msgid "[_ml_] Do you need anything else? "
@@ -1782,7 +1782,7 @@ msgstr "[_ml_] Voir ya !"
 
 # game/Cell01_ML.rpy:1575 #-#-# translate crowdin Ml_Ali_01_05_29bf4e0a:
 msgid "[_u_] I think I have everything."
-msgstr "[Je crois que j'ai tout."
+msgstr "[_u_] Je crois que j'ai tout."
 
 # game/Cell01_ML.rpy:1577 #-#-# translate crowdin Ml_Ali_01_05_b5290dbd:
 msgid "[_ml_] Perfect! Now we can give our dear secretary a little hope. "
