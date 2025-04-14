@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-03 14:10\n"
+"PO-Revision-Date: 2025-04-14 18:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -230,7 +230,7 @@ msgstr "[_u_] Qui pourrait être assez riche pour se permettre une valise comme 
 
 # game/expedition_02Loot.rpy:788 #-#-# translate crowdin Expedition_02_QuestsLvl2_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_]..."
+msgstr "[_u_] ..."
 
 # game/expedition_02Loot.rpy:804 #-#-# translate crowdin Expedition_02_QuestsLvl2_266e7731:
 msgid "[_u_] Hey, Amandine!"
@@ -262,7 +262,7 @@ msgstr "[_u_] Et voici le dernier !"
 
 # game/expedition_02Loot.rpy:840 #-#-# translate crowdin Expedition_02_QuestsLvl2_1b29416e:
 msgid "[_u_] Let's go see Amandine."
-msgstr "[Allons voir Amandine."
+msgstr "[_u_] Allons voir Amandine."
 
 # game/expedition_02Loot.rpy:855 #-#-# translate crowdin Expedition_02_QuestsLvl2_a55158c7:
 msgid "[_u_] Wow... this is useless..."
@@ -290,7 +290,7 @@ msgstr "[_u_] Et voici la plume !"
 
 # game/expedition_02Loot.rpy:889 #-#-# translate crowdin Expedition_02_QuestsLvl3_1b29416e:
 msgid "[_u_] Let's go see Amandine."
-msgstr "[Allons voir Amandine."
+msgstr "[_u_] Allons voir Amandine."
 
 # game/expedition_02Loot.rpy:904 #-#-# translate crowdin Expedition_02_QuestsLvl3_a271d58e:
 msgid "[_u_] Perfect!"
