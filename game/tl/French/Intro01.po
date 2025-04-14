@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-14 20:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -30,7 +30,7 @@ msgstr "[_am_] _tb_] Ou as-tu déjà fait le Chapitre 1?"
 
 # game/Intro01.rpy:81 #-#-# translate crowdin Intro01_0f021c7f:
 msgid "[_tb_] Hey! Welcome back [name]!"
-msgstr "[_am_] _tb_] Hey ! Tu es de retour [_am_] name] !"
+msgstr "[_am_] _tb_] Hey ! Tu es de retour [name] !"
 
 # game/Intro01.rpy:84 #-#-# translate crowdin Intro01_7945ac25:
 msgid "[_tb_] Sorry about that, I have to be careful with newcomers. "
@@ -90,7 +90,7 @@ msgstr "[_am_] _tb_] Arrêter de parler et de regarde."
 
 # game/Intro01.rpy:118 #-#-# translate crowdin Intro01_13f5fb85:
 msgid "[_tb_] Hey! Welcome to ''Once a porn a Time'' [name] !"
-msgstr "[_am_] _tb_] Hey ! Bienvenue à '' Once a porn a Time''[_am_] name] !"
+msgstr "[_am_] _tb_] Hey ! Bienvenue à '' Once a porn a Time''[name] !"
 
 # game/Intro01.rpy:121 #-#-# translate crowdin Intro01_9806b549:
 msgid "[_tb_] Let me introduce myself, I'm Tinker Bell, the CEO++ of this planet."
@@ -1030,7 +1030,7 @@ msgstr "[_am_] _ly_] Mais je suis presque sûr ... avec une jolie tunique ... et
 
 # game/Intro01.rpy:1269 #-#-# translate crowdin LycoPrison_menu01_01_06afe233:
 msgid "[_ly_] Mh..."
-msgstr "[_am_] Mh..."
+msgstr "[_ly_]  Mh..."
 
 # game/Intro01.rpy:1271 #-#-# translate crowdin LycoPrison_menu01_01_6b63d8dc:
 msgid "[_ly_] Yeah that could do it. "
@@ -1046,7 +1046,7 @@ msgstr "[_am_] _ly_] Je revivierai demain, je vous le promets. "
 
 # game/Intro01.rpy:1276 #-#-# translate crowdin LycoPrison_menu01_01_47e8ea2e:
 msgid "[_ly_] See ya!"
-msgstr "[_am_] A plus tard !"
+msgstr "[_ly_]  A plus tard !"
 
 # game/Intro01.rpy:1293 #-#-# translate crowdin LycoPrison_menu01_01_2af41fd2:
 msgid "[_u_] Hey! So uh... I was wondering... "
@@ -1138,7 +1138,7 @@ msgstr "[_am_] _ly_] Grand ! J'ai hâte de te sortir de là !"
 
 # game/Intro01.rpy:1331 #-#-# translate crowdin LycoPrison_menu01_01_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr "[_am_] _ly_] Voir plus tard [_am_] name] !"
+msgstr "[_am_] _ly_] Voir plus tard [name] !"
 
 # game/Intro01.rpy:1341 #-#-# translate crowdin LycoPrison_menu01_01_9b638a73:
 msgid "[_u_] She really doesn't look like what I'm used to with Snow White..."
@@ -1386,7 +1386,7 @@ msgstr "[_am_] _e_] Quelle est la mauvaise? "
 
 # game/Intro01.rpy:1574 #-#-# translate crowdin Intro_Headquarter_a7ae7794:
 msgid "[_tb_] It must have been [name]'s old ship. "
-msgstr "[_am_] _tb_] Il doit avoir été le vieux vaisseau de [_am_] name]. "
+msgstr "[_am_] _tb_] Il doit avoir été le vieux vaisseau de [name]. "
 
 # game/Intro01.rpy:1576 #-#-# translate crowdin Intro_Headquarter_0340862c:
 msgid "[_tb_] It's not a big deal. "
@@ -1422,7 +1422,7 @@ msgstr "[_am_] _ml_] Gosh ...."
 
 # game/Intro01.rpy:1625 #-#-# translate crowdin GalleryImageQuest_Melissandre01_19ce4cf2:
 msgid "[_ml_] Can't wait for [name] to come back .... "
-msgstr "[_am_] _ml_] Impossible d'attendre [_am_] name] pour revenir .... "
+msgstr "[_am_] _ml_] Impossible d'attendre [name] pour revenir .... "
 
 # game/Intro01.rpy:1626 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f91c2474:
 msgid "[_ml_] Emee...."
@@ -1430,7 +1430,7 @@ msgstr "[_am_] _ml_] Emee ...."
 
 # game/Intro01.rpy:1627 #-#-# translate crowdin GalleryImageQuest_Melissandre01_765d70d8:
 msgid "[_ml_] [name]..."
-msgstr "[_am_] _ml_] [_am_] name] ..."
+msgstr "[_am_] _ml_] [name] ..."
 
 # game/Intro01.rpy:1629 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b7de7947:
 msgid "[_ml_] Ooooh..."
@@ -1562,7 +1562,7 @@ msgstr "[_am_] _tb_] Vous pouvez retourner à votre travail !"
 
 # game/Intro01.rpy:1741 #-#-# translate crowdin GalleryImageQuest_Melissandre01_5beff109:
 msgid "[_ml_] Have we got any news about [name]? "
-msgstr "[_am_] _ml_] Avons-nous des nouvelles sur [_am_] name]? "
+msgstr "[_am_] _ml_] Avons-nous des nouvelles sur [name]? "
 
 # game/Intro01.rpy:1742 #-#-# translate crowdin GalleryImageQuest_Melissandre01_40838bca:
 msgid "[_tb_] Not yet, why?"
@@ -1746,7 +1746,7 @@ msgstr "[_am_] _ly_] Monsieur, je pense que vous avez de la chance aujourd'hui !
 
 # game/Intro01.rpy:1906 #-#-# translate crowdin Intro_PrisonEnd_aa12e751:
 msgid "[_ly_] So, tell me [name]..."
-msgstr "[_am_] _ly_] Donc, dites moi [_am_] name] ..."
+msgstr "[_am_] _ly_] Donc, dites moi [name] ..."
 
 # game/Intro01.rpy:1910 #-#-# translate crowdin Intro_PrisonEnd_0805cd8f:
 msgid "[_ly_] Have you ever heard the story of... "
@@ -2478,7 +2478,7 @@ msgstr "Bonjour, je voudrais rentrer à la maison"
 
 # game/Intro01.rpy:2108
 msgid "Hi, I am [name], nice to meet you."
-msgstr "Bonjour, je suis [_am_] name], gentil de vous rencontrer."
+msgstr "Bonjour, je suis [name], gentil de vous rencontrer."
 
 # game/Intro01.rpy:2231
 msgid "{color=#f2923c}I need to get back to headquarters{/color}"
