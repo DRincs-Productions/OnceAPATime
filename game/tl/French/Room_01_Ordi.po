@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 18:13\n"
+"PO-Revision-Date: 2025-04-14 19:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
-msgstr "[_u_] Essayons d'ouvrir cette porte en premier."
+msgstr "[_am_] _u_] Essayons d'ouvrir cette porte en premier."
 
 # game/Room_01_Ordi.rpy:110 #-#-# translate crowdin room01_ordi01_In_ComputerMainMenu_ca788b67:
 msgid "Empty your mailbox before buying new items"
@@ -286,83 +286,83 @@ msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quête
 
 # game/Room_01_Ordi.rpy:795 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c:
 msgid "Cheat codes are not activated. "
-msgstr "Les codes Cheat ne sont pas activés. "
+msgstr "Les codes de triches ne sont pas activés. "
 
 # game/Room_01_Ordi.rpy:800 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_1:
 msgid "Cheat codes are not activated. "
-msgstr "Les codes Cheat ne sont pas activés. "
+msgstr "Les codes de triches ne sont pas activés. "
 
 # game/Room_01_Ordi.rpy:805 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_2:
 msgid "Cheat codes are not activated. "
-msgstr "Les codes Cheat ne sont pas activés. "
+msgstr "Les codes de triches ne sont pas activés. "
 
 # game/Room_01_Ordi.rpy:810 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_3:
 msgid "Cheat codes are not activated. "
-msgstr "Les codes Cheat ne sont pas activés. "
+msgstr "Les codes de triches ne sont pas activés. "
 
 # game/Room_01_Ordi.rpy:815 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_4:
 msgid "Cheat codes are not activated. "
-msgstr "Les codes Cheat ne sont pas activés. "
+msgstr "Les codes de triches ne sont pas activés. "
 
 # game/Room_01_Ordi.rpy:822 #-#-# translate crowdin room01_ordi01_Cheats_e23c02e7:
 msgid "Cheat codes are available after entering a Patreon code. (Check out the {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
-msgstr "Les codes de Cheat sont disponibles après avoir entré un code Patreon. (Consultez la page { a=https: //www.patreon.com/Salty01_NSFW } { color=#fc9c63} Patreon { /color } { /a } pour la trouver.) =="
+msgstr "Les codes de Cheat sont disponibles après avoir entré un code Patreon. (Consultez la page { a=https: //www.patreon.com/Salty01_NSFW }{color=#fc9c63} Patreon{/color} { /a } pour la trouver.) =="
 
 # game/Room_01_Ordi.rpy:827 #-#-# translate crowdin room01_ordi01_Cheats_a0257b10:
 msgid "== Cheat Codes: {color=#f2923c}ACTIVE{/color} =="
-msgstr "== Codes d'émission: { color=#f2923c} ACTIVE { /color } =="
+msgstr "== Codes d'émission:{color=#f2923c} ACTIVE{/color} =="
 
 # game/Room_01_Ordi.rpy:854 #-#-# translate crowdin room01_ordi01_Cheats_67412914:
 msgid "You don't have any Cheat Points left. "
-msgstr "Vous n'avez plus aucun Cheat Points. "
+msgstr "Vous n'avez plus aucun Points de triche. "
 
 # game/Room_01_Ordi.rpy:860 #-#-# translate crowdin room01_ordi01_Cheats_eb9861b4:
 msgid "{color=#f2923c}== +800 Credits added! =={/color}"
-msgstr "{ color=#f2923c} == +800 Crédits ajoutés ! == { /color }"
+msgstr "{color=#f2923c} == +800 Crédits ajoutés ! =={/color}"
 
 # game/Room_01_Ordi.rpy:867 #-#-# translate crowdin room01_ordi01_Cheats_67412914_1:
 msgid "You don't have any Cheat Points left. "
-msgstr "Vous n'avez plus aucun Cheat Points. "
+msgstr "Vous n'avez plus aucun Points de triche. "
 
 # game/Room_01_Ordi.rpy:873 #-#-# translate crowdin room01_ordi01_Cheats_c575b770:
 msgid "{color=#f2923c}== +25 Clothes Scraps added! =={/color}"
-msgstr "{ color=#f2923c} == +25 Vêtements Scraps ajoutés ! == { /color }"
+msgstr "{color=#f2923c} == +25 Vêtements Scraps ajoutés ! =={/color}"
 
 # game/Room_01_Ordi.rpy:880 #-#-# translate crowdin room01_ordi01_Cheats_67412914_2:
 msgid "You don't have any Cheat Points left. "
-msgstr "Vous n'avez plus aucun Cheat Points. "
+msgstr "Vous n'avez plus aucun Points de triche. "
 
 # game/Room_01_Ordi.rpy:886 #-#-# translate crowdin room01_ordi01_Cheats_2688da9b:
 msgid "{color=#f2923c}== +10 Clothes Data added! =={/color}"
-msgstr "{ color=#f2923c} == +10 Vêtements ajoutés ! == { /couleur }"
+msgstr "{color=#f2923c} == +10 Vêtements ajoutés ! == {/color}"
 
 # game/Room_01_Ordi.rpy:893 #-#-# translate crowdin room01_ordi01_Cheats_67412914_3:
 msgid "You don't have any Cheat Points left. "
-msgstr "Vous n'avez plus aucun Cheat Points. "
+msgstr "Vous n'avez plus aucun Points de triche. "
 
 # game/Room_01_Ordi.rpy:899 #-#-# translate crowdin room01_ordi01_Cheats_1291862e:
 msgid "{color=#f2923c}== +2 Character Data added! =={/color}"
-msgstr "{ color=#f2923c} == + 2 caractères de caractères ajoutés ! == { /color }"
+msgstr "{color=#f2923c} == + 2 caractères de caractères ajoutés ! =={/color}"
 
 # game/Room_01_Ordi.rpy:911 #-#-# translate crowdin room01_ordi01_Cheats_75f93969:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [name] { /color }."
+msgstr "Le nom de votre caractère est maintenant{color=#a0fc86} [_am_] name]{/color}."
 
 # game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
 msgid "You don't have any Cheat Points left. "
-msgstr "Vous n'avez plus aucun Cheat Points. "
+msgstr "Vous n'avez plus aucun Points de triche. "
 
 # game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [name] { /color }."
+msgstr "Le nom de votre caractère est maintenant{color=#a0fc86} [_am_] name]{/color}."
 
 # §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
 msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
-msgstr "{ color=#3ad8ff} = Allez sur l'ordinateur = { /color }"
+msgstr "{color=#3ad8ff} = Allez sur l'ordinateur ={/color}"
 
 # game/Room_01_Ordi.rpy:28
 msgid "= Call Tinker Bell ="
-msgstr "= Appelez Tinker Bell ="
+msgstr "= Appelez Clochette ="
 
 # game/Room_01_Ordi.rpy:28
 msgid "=Back to the office="
@@ -370,39 +370,39 @@ msgstr "= Retour à l'office="
 
 # game/Room_01_Ordi.rpy:92
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Datas { /color } / { color=#a0fc86} [ ITEM_CLOTHESSCRAPS01 ] Clothes Scraps { /color } =="
+msgstr "== Vous avez:{color=#a0fc86} [_am_]  MONEY ] Crédits{/color} /{color=#3c96f2} [_am_]  CLOTHEDATA ] Clothes Data{/color} /{color=#f2923c} [_am_]  CHARADATA ] Datas{/color} /{color=#a0fc86} [_am_]  ITEM_CLOTHESSCRAPS01 ] Clothes Scraps{/color} =="
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=STORE={/color}"
-msgstr "{ color=#3ad8ff} = STORE = { /color }"
+msgstr "{color=#3ad8ff} = STORE ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#b4f08f}=Gallery={/color}"
-msgstr "{ color=#b4f08f} = Galerie = { /color }"
+msgstr "{color=#b4f08f} = Galerie ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#ff9865}=Patreon Code={/color}"
-msgstr "{ color=#ff9865} = Code Patreon = { /color }"
+msgstr "{color=#ff9865} = Code Patreon ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=Room Customization={/color}"
-msgstr "{ color=#3ad8ff} = Personnalisation de la salle = { /color }"
+msgstr "{color=#3ad8ff} = Personnalisation de la salle ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :OFF={/color}"
-msgstr "{ color=#797979} = Cheats :OFF = { /color }"
+msgstr "{color=#797979} = Cheats :OFF ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :{color=#a0fc86}ON{/color}={/color}"
-msgstr "{ color=#797979} = Cheats: { color=#a0fc86} ON { /color } = { /color }"
+msgstr "{color=#797979} = Cheats:{color=#a0fc86} ON{/color} ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}LASTS CUSTOM{/color} "
-msgstr "{ color=#d743c7} LASTS CUSTOM { /color } "
+msgstr "{color=#d743c7} LASTS CUSTOM{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}ALL CUSTOM{/color} "
-msgstr "{ color=#d743c7} ALL CUSTOM { /color } "
+msgstr "{color=#d743c7} ALL CUSTOM{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "default office_01_customs_p06_04UNLOCK = False"
@@ -410,83 +410,83 @@ msgstr "default office_01_customs_p06_04UNLOCK = False"
 
 # game/Room_01_Ordi.rpy:289
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Credits { /color } / { color=#a0fc86} [ IMAGEDATA ] Image Datas { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Character Datas { /color } / { color=#a0fc86} [ ITEM_CLOTHESSCRAPS01 ] Clothes Scraps { /color } =="
+msgstr "== Vous avez:{color=#a0fc86} [_am_]  MONEY ] Credits{/color} /{color=#a0fc86} [_am_]  IMAGEDATA ] Image Datas{/color} /{color=#3c96f2} [_am_]  CLOTHEDATA ] Clothes Data{/color} /{color=#f2923c} [_am_]  CHARADATA ] Character Datas{/color} /{color=#a0fc86} [_am_]  ITEM_CLOTHESSCRAPS01 ] Clothes Scraps{/color} =="
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Data {color=#a0fc86}(75c){/color}"
-msgstr "$= 1 = Données de vêtements { color=#a0fc86} (75c) { /color }"
+msgstr "$= 1 = Données de vêtements{color=#a0fc86} (75c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Character Data {color=#a0fc86}(505c){/color}"
-msgstr "$= 1 = Données de caractère { color=#a0fc86} (505c) { /color }"
+msgstr "$= 1 = Données de caractère{color=#a0fc86} (505c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 3AP (One-time use) {color=#a0fc86}(30c){/color}"
-msgstr "$= 1 = Drone Energy Boost 3AP (utilisation unique) { color=#a0fc86} (30c) { /color }"
+msgstr "$= 1 = Drone Energy Boost 3AP (utilisation unique){color=#a0fc86} (30c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(55c){/color}"
-msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique) { color=#a0fc86} (55c) { /color }"
+msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique){color=#a0fc86} (55c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Scraps {color=#a0fc86}(20c){/color}"
-msgstr "$= 1 = Clothes Scraps { color=#a0fc86} (20c) { /color }"
+msgstr "$= 1 = Clothes Scraps{color=#a0fc86} (20c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color} =="
-msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } =="
+msgstr "== Vous avez:{color=#a0fc86} [_am_]  MONEY ] Crédits{/color} =="
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple candy {color=#a0fc86}(30c){/color}"
-msgstr "$= 1 = Apple candy { color=#a0fc86} (30c) { /color }"
+msgstr "$= 1 = Apple candy{color=#a0fc86} (30c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple cider {color=#a0fc86}(50c){/color}"
-msgstr "$= 1 = cidre Apple { color=#a0fc86} (50c) { /color }"
+msgstr "$= 1 = cidre Apple{color=#a0fc86} (50c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple basket {color=#a0fc86}(22c){/color}"
-msgstr "$= 1 = panier Apple { color=#a0fc86} (22c) { /color }"
+msgstr "$= 1 = panier Apple{color=#a0fc86} (22c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Cupid apples basket {color=#a0fc86}(36c){/color}"
-msgstr "$= 1 = Panier de pommes Cupid { color=#a0fc86} (36c) { /color }"
+msgstr "$= 1 = Panier de pommes Cupid{color=#a0fc86} (36c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(51c){/color}"
-msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique) { color=#a0fc86} (51c) { /color }"
+msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique){color=#a0fc86} (51c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
-msgstr "$= 1 = Cellule d'énergie d'urgence (utilisation unique) { color=#a0fc86} (40c) { /color }"
+msgstr "$= 1 = Cellule d'énergie d'urgence (utilisation unique){color=#a0fc86} (40c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
-msgstr "$Office Coffee Machine { color=#a0fc86} (51c) { /color }"
+msgstr "$Office Coffee Machine{color=#a0fc86} (51c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Orchid {color=#a0fc86}(42c){/color}"
-msgstr "$Office Orchid { color=#a0fc86} (42c) { /color }"
+msgstr "$Office Orchid{color=#a0fc86} (42c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Lamp {color=#a0fc86}(35c){/color}"
-msgstr "$Office Lampe { color=#a0fc86} (35c) { /color }"
+msgstr "$Office Lampe{color=#a0fc86} (35c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Folders {color=#a0fc86}(20c){/color}"
-msgstr "$Office Dossiers { color=#a0fc86} (20c) { /color }"
+msgstr "$Office Dossiers{color=#a0fc86} (20c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Carpet {color=#a0fc86}(30c){/color}"
-msgstr "$Office Carpet { color=#a0fc86} (30c) { /color }"
+msgstr "$Office Carpet{color=#a0fc86} (30c){/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#ffc9a2}Quest images{/color} {color=#b4f08f}={/color}"
-msgstr "{ color=#b4f08f} = { /color } { color=#ffc9a2} images Quest { /color} { color=#b4f08f} = { /color }"
+msgstr "{color=#b4f08f} ={/color}{color=#ffc9a2} images Quest { /color}{color=#b4f08f} ={/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
-msgstr "{ color=#b4f08f} = { /color } { color=#da96ff} images d'affinité de caractères { /color } { color=#b4f08f} = { /color }"
+msgstr "{color=#b4f08f} ={/color}{color=#da96ff} images d'affinité de caractères{/color}{color=#b4f08f} ={/color}"
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
@@ -584,8 +584,8 @@ msgstr " {color=#da96ff}(DJIN_01){/color} "
 msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
 "{size=20}== Cheat codes are available after entering a Patreon code. ({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page here{/color}{/a}) =={/size} \n"
 "{size=20}== "
-msgstr "== { color=#797979} Les codes Cheat sont actuellement désactivés { /color } ==\n"
-"{ size=20 } == Les codes de Cheat sont disponibles après avoir entré un code Patreon. ({a=https: //www.patreon.com/Salty01_NSFW } { color=#fc9c63} page Patreon ici { /color } { /a }) == { /size } \n"
+msgstr "=={color=#797979} Les codes Cheat sont actuellement désactivés{/color} ==\n"
+"{ size=20 } == Les codes de Cheat sont disponibles après avoir entré un code Patreon. ({a=https: //www.patreon.com/Salty01_NSFW }{color=#fc9c63} page Patreon ici{/color} { /a }) == { /size } \n"
 "{ size=20 } == "
 
 # game/Room_01_Ordi.rpy:789
@@ -594,23 +594,23 @@ msgstr "== +800 Crédits =="
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +25 Clothes Scraps =={/color}"
-msgstr "{ color=#797979} == +25 Clothes Scraps == { /color }"
+msgstr "{color=#797979} == +25 Clothes Scraps =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +10 Clothes Data =={/color}"
-msgstr "{ color=#797979} == +10 Vêtements == { /couleur }"
+msgstr "{color=#797979} == +10 Vêtements == {/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +2 Character Data =={/color}"
-msgstr "{ color=#797979} == + 2 Données caractères == { /color }"
+msgstr "{color=#797979} == + 2 Données caractères =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== Change your name =={/color}"
-msgstr "{ color=#797979} == Modifier votre nom == { /color }"
+msgstr "{color=#797979} == Modifier votre nom =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#ff9865}Activate the cheat codes{/color} {image=heart07.png}"
-msgstr "{ color=#ff9865} Activez les codes de triche { /color } { image=heart07.png }"
+msgstr "{color=#ff9865} Activez les codes de triche{/color} {image=heart07.png}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "Disable cheat codes option (Recommended)"
@@ -625,32 +625,32 @@ msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f292
 "== You have : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
 "{size=20}== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
 "=="
-msgstr "{ size=20 } == { color=#797979} Les codes Cheat sont actuellement { /color } { color=#f2923c} ACTIVE { /color } == { /size }\n"
-"== Vous avez: { color=#a0fc86} [ CHEATPOINTS ] { /color } Cheat Points (CP) ==\n"
-"{ size=20 } == Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } / { color=#a0fc86} [ IMAGEDATA ] Image Datas { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Character Datas { /color } == { /size }\n"
+msgstr "{ size=20 } =={color=#797979} Les codes Cheat sont actuellement{/color}{color=#f2923c} ACTIVE{/color} == { /size }\n"
+"== Vous avez:{color=#a0fc86} [_am_]  CHEATPOINTS ]{/color} Cheat Points (CP) ==\n"
+"{ size=20 } == Vous avez:{color=#a0fc86} [_am_]  MONEY ] Crédits{/color} /{color=#a0fc86} [_am_]  IMAGEDATA ] Image Datas{/color} /{color=#3c96f2} [_am_]  CLOTHEDATA ] Clothes Data{/color} /{color=#f2923c} [_am_]  CHARADATA ] Character Datas{/color} == { /size }\n"
 "=="
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +800 {color=#a0fc86}Credits{/color} == {color=#a0fc86}1CP{/color}"
-msgstr "== +800 { color=#a0fc86} Crédits { /color } == { color=#a0fc86} 1CP { /color }"
+msgstr "== +800{color=#a0fc86} Crédits{/color} =={color=#a0fc86} 1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +25 Clothes Scraps == {color=#a0fc86}1CP{/color}"
-msgstr "== +25 Scraps de Clothes == { color=#a0fc86} 1CP { /couleur }"
+msgstr "== +25 Scraps de Clothes =={color=#a0fc86} 1CP {/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +10 {color=#3c96f2}Clothes Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr "== +10 { color=#3c96f2} Vêtements { /color } == { color=#a0fc86} 1CP { /color }"
+msgstr "== +10{color=#3c96f2} Vêtements{/color} =={color=#a0fc86} 1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +2 {color=#f2923c}Character Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr "== + 2 { color=#f2923c} Données de caractères { /color } == { color=#a0fc86} 1CP { /color }"
+msgstr "== + 2{color=#f2923c} Données de caractères{/color} =={color=#a0fc86} 1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}Free (One Time){/color}"
-msgstr "== Changer votre nom == { color=#a0fc86} Libre (One Time) { /color }"
+msgstr "== Changer votre nom =={color=#a0fc86} Libre (One Time){/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}1CP{/color}"
-msgstr "== Changer votre nom == { color=#a0fc86} 1CP { /color }"
+msgstr "== Changer votre nom =={color=#a0fc86} 1CP{/color}"
 
