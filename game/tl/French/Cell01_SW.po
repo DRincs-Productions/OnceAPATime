@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 20:42\n"
+"PO-Revision-Date: 2025-04-28 17:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -11902,7 +11902,7 @@ msgstr "[_am_] _tb_] Rencontrez Petal."
 
 # game/Cell01_SW.rpy:9467 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_dccec4ec:
 msgid "[_dr_p_] Have you seen flowers?"
-msgstr "[_am_] _dr_p_] Avez-vous vu des fleurs?"
+msgstr "[_dr_p_] Avez-vous vu des fleurs?"
 
 # game/Cell01_SW.rpy:9468 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_75c7f5be:
 msgid "[_dr_p_] I want flowers. I miss flowers."
@@ -11914,7 +11914,7 @@ msgstr "[_am_] _tb_] Comme vous pouvez le voir, ces expériences d'IA n'ont pas 
 
 # game/Cell01_SW.rpy:9471 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_33eae30e:
 msgid "[_dr_p_] Flowers? "
-msgstr "[_am_] _dr_p_] Fleurs? "
+msgstr "[_dr_p_] Fleurs? "
 
 # game/Cell01_SW.rpy:9473 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_d772200a:
 msgid "[_tb_] This Drone for example..."
