@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-29 19:00\n"
+"PO-Revision-Date: 2025-04-29 20:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -15742,7 +15742,7 @@ msgstr "L'outfit de l'Huntsman."
 
 # game/Cell01_SW.rpy:8510
 msgid "Naked."
-msgstr "Naked."
+msgstr "Nue."
 
 # game/Cell01_SW.rpy:8510
 msgid "An outfit that won't cost me any money."
