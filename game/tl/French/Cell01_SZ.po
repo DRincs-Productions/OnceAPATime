@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 20:42\n"
+"PO-Revision-Date: 2025-04-29 20:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -7810,7 +7810,7 @@ msgstr "{color=#797979} Obtenir nu{/color} {image=heart03.png}"
 
 # game/Cell01_SZ.rpy:806
 msgid "Get naked {image=heart01.png}"
-msgstr "Obtenir nue {image=heart01.png}"
+msgstr "Se mettre à nu {image=heart01.png}"
 
 # game/Cell01_SZ.rpy:859
 msgid "Yeah, let me see your tits"
@@ -7886,7 +7886,7 @@ msgstr "C'est un bon début"
 
 # game/Cell01_SZ.rpy:1475
 msgid "Naked would be better"
-msgstr "Naked serait mieux"
+msgstr "Nue serait mieux"
 
 # game/Cell01_SZ.rpy:1574
 msgid "{color=#636363}Lycoris described your boobs to me{/color} {image=heart03.png}"
@@ -7922,11 +7922,11 @@ msgstr "{color=#3ad8ff} Pouvez-vous supprimer vos mains?{/color}"
 
 # game/Cell01_SZ.rpy:1872
 msgid "Have you ever shown yourself naked to someone?"
-msgstr "Tu t'as déjà montré nu à quelqu'un?"
+msgstr "Tu t'es déjà montrée nu à quelqu'un?"
 
 # game/Cell01_SZ.rpy:1872
 msgid "Did you ever masturbate?"
-msgstr "As-tu déjà masturbé?"
+msgstr "T'es tu déjà masturbé?"
 
 # game/Cell01_SZ.rpy:1872
 msgid "Have you ever had sex? "
@@ -7958,7 +7958,7 @@ msgstr "Se rendre à quatre pattes"
 
 # game/Cell01_SZ.rpy:2047
 msgid "Blow me"
-msgstr "Blow me"
+msgstr "Suces moi"
 
 # game/Cell01_SZ.rpy:2047
 msgid "Take off all your clothes"
@@ -7966,7 +7966,7 @@ msgstr "Enlevez tous vos vêtements"
 
 # game/Cell01_SZ.rpy:2231
 msgid "Ready to make your wish? "
-msgstr "Vous êtes prêt à faire votre souhait? "
+msgstr "Prêt à faire votre vœu ? "
 
 # game/Cell01_SZ.rpy:2231
 msgid "How was it?"
@@ -7982,7 +7982,7 @@ msgstr "Babouche"
 
 # game/Cell01_SZ.rpy:2268
 msgid "Pussy"
-msgstr "Pussy"
+msgstr "Chatte"
 
 # game/Cell01_SZ.rpy:2351
 msgid "I'm going to fuck your pussy sooner than expected"
@@ -8250,7 +8250,7 @@ msgstr "{color=#797979} Je le répète ... Vos seins sont énormes{/color}"
 
 # game/Cell01_SZ.rpy:4580
 msgid "Beautiful hips"
-msgstr "Beaux hanches"
+msgstr "Belles hanches"
 
 # game/Cell01_SZ.rpy:4580
 msgid "{color=#797979}Beautiful hips{/color}"
