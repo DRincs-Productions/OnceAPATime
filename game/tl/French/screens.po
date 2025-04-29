@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:34\n"
+"PO-Revision-Date: 2025-04-29 20:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -46,7 +46,7 @@ msgstr "Préfs"
 
 # game/screens.rpy:304
 msgid "Version [config.version!t]\n"
-msgstr "Version [_am_]  config.version! t ]\n"
+msgstr "Version [config.version!t]\n"
 
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -436,11 +436,11 @@ msgstr "Attributs d'image"
 
 # game/screens.rpy:1714
 msgid "[name] [attributes] (hidden)"
-msgstr "[_am_] name] [_am_]  attributs ] (masqué)"
+msgstr "[name] [attributes] (masqué)"
 
 # game/screens.rpy:1718
 msgid "[name] [attributes]"
-msgstr "[_am_] name] [_am_]  attributs ]"
+msgstr "[name] [attributes]"
 
 # game/screens.rpy:1767
 msgid "Nothing to inspect."
@@ -488,7 +488,7 @@ msgstr "Textures: [_am_] tex_count] ([_am_] tex_size_mb:.1f] MB)"
 
 # game/screens.rpy:2259
 msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-msgstr "Cache d'image: [_am_]  cache_pct: .1f ]% ([_am_]  cache_size_mb: .1f ] Mo)"
+msgstr "Cache d'image: [cache_pct: .1f]% ([cache_size_mb: .1f] MB)"
 
 # game/screens.rpy:2269
 msgid "✔ "
