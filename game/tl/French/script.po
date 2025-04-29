@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:34\n"
+"PO-Revision-Date: 2025-04-29 20:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -18,7 +18,7 @@ msgstr "Journal des modifications"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr "Changelog [_am_]  config.version! t ]\n"
+msgstr "Changelog [config.version!t]\n"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
