@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:33\n"
+"PO-Revision-Date: 2025-04-29 20:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -58,11 +58,11 @@ msgstr "[_am_] _tb_] Ouais, pourquoi pas !"
 
 # game/Cell01_TB.rpy:326 #-#-# translate crowdin Tinker_Change_HairStyle_b0dc2f65:
 msgid "[_tb_]  Good night [name]! "
-msgstr "[_am_] _tb_] Bonne nuit [_am_] name] ! "
+msgstr "[_am_] _tb_] Bonne nuit [name] ! "
 
 # game/Cell01_TB.rpy:331 #-#-# translate crowdin Tinker_Change_HairStyle_c3498bc9:
 msgid "[_tb_]  See you later [name]! "
-msgstr "[_am_] _tb_] Voir plus tard [_am_] name] ! "
+msgstr "[_am_] _tb_] Voir plus tard [name] ! "
 
 # game/Cell01_TB.rpy:344 #-#-# translate crowdin Cell01_TB_Questions01_246fc3b2:
 msgid "[_tb_] Oh, well, that's a good question. There are tons of things to do!"
@@ -1023,7 +1023,7 @@ msgstr "[_am_] _tb_] Vous voulez quelque chose d'autre? "
 
 # game/Cell01_TB.rpy:965 #-#-# translate crowdin TBReactionDress05andHair03_dabe1ac7:
 msgid "[_tb_] Sup [name]!"
-msgstr "[_am_] _tb_] Sup [_am_] name] !"
+msgstr "[_am_] _tb_] Sup [name] !"
 
 # game/Cell01_TB.rpy:974 #-#-# translate crowdin TBReactionDress05andHair03_282e5859:
 msgid "[_tb_] What's up?"
@@ -1335,7 +1335,7 @@ msgstr "[_am_] _tb_] Oh ... vous pouvez être sûr que je vais m'amuser ... "
 
 # game/Cell01_TB.rpy:1162 #-#-# translate crowdin TBReactionLicorne_9b49a0ef:
 msgid "[_tb_] See you later [name]!"
-msgstr "[_am_] _tb_] Voir plus tard [_am_] name] !"
+msgstr "[_am_] _tb_] Voir plus tard [name] !"
 
 # game/Cell01_TB.rpy:1218 #-#-# translate crowdin TBReactionParkAsk_2292c91d:
 msgid "[_tb_] Oh... I feel a serious conversation coming on. "
