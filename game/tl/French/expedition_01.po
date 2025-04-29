@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:34\n"
+"PO-Revision-Date: 2025-04-29 20:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
-msgstr "Le Drone dispose de [_am_]  ITEM_DRONE_EMERCELL01_UTILISATIONS ] Cellule d'énergie d'urgence. ([_am_]  ITEM_DRONE_EMERCELL01 ] à gauche de votre inventaire.) "
+msgstr "Le Drone dispose de [ITEM_DRONE_EMERCELL01_UTILISATIONS] Cellule d'énergie d'urgence. ([ITEM_DRONE_EMERCELL01] à gauche de votre inventaire.) "
 
 # game/expedition_01.rpy:76 #-#-# translate crowdin expedition_01lvl01_ab76970e:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. "
-msgstr "Le Drone dispose de [_am_]  ITEM_DRONE_EMERCELL01_UTILISATIONS ] Cellule d'énergie d'urgence. "
+msgstr "Le Drone dispose de [ITEM_DRONE_EMERCELL01_UTILISATIONS] Cellule d'énergie d'urgence. "
 
 # game/expedition_01.rpy:77 #-#-# translate crowdin expedition_01lvl01_275f7d87:
 msgid "Emergency Energy Cell allows your drone to recover if it runs out of power by giving it 2PA."
