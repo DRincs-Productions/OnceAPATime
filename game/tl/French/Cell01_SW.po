@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-28 17:49\n"
+"PO-Revision-Date: 2025-04-29 19:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -266,7 +266,7 @@ msgstr "[_am_] _u_] Parfait ! À demain, tu te vois ! "
 
 # game/Cell01_SW.rpy:595 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_5e363a63:
 msgid "You don't have these objects ( You actually have ([ITEM_APPLE01]) apple basket )"
-msgstr "Vous n'avez pas ces objets (Vous avez en fait ([_am_] ITEM_APPLE01 ]) panier de pommes)"
+msgstr "Vous n'avez pas ces objets (Vous avez en fait ([ITEM_APPLE01 ]) panier de pommes)"
 
 # game/Cell01_SW.rpy:599 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_114a6b6c_1:
 msgid "Unavailable."
@@ -302,7 +302,7 @@ msgstr "[_am_] _u_] Vous voyez demain "
 
 # game/Cell01_SW.rpy:625 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_bc9ef50e:
 msgid "You don't have these objects ( You actually have ([ITEM_CUPIDAPPLE01]) Cupid apples basket )"
-msgstr "Vous n'avez pas ces objets (Vous avez en fait ([_am_] ITEM_CUPIDAPPLE01 ]) Panier de pommes cupide)"
+msgstr "Vous n'avez pas ces objets (Vous avez en fait ([ITEM_CUPIDAPPLE01 ]) Panier de pommes cupide)"
 
 # game/Cell01_SW.rpy:632 #-#-# translate crowdin CHARA_SW_MenuChoice_FAVORS_850cadc1_1:
 msgid "You've already given a gift today."
