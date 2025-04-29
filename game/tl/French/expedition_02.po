@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 19:34\n"
+"PO-Revision-Date: 2025-04-29 20:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
 msgid "[_u_] I don't need this drone at the moment. "
@@ -22,11 +22,11 @@ msgstr "---------"
 
 # §translate crowdin strings: #|#|# # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr "$Drone Energy Boost 3AP ([_am_] ITEM_DRONE_2APBOOST ] à gauche) "
+msgstr "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] à gauche) "
 
 # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr "$Drone Energy Boost 5AP ([_am_] ITEM_DRONE_5APBOOST ] à gauche) "
+msgstr "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] à gauche) "
 
 # game/expedition_02.rpy:71
 msgid "$No thanks !"
