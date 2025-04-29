@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 20:42\n"
+"PO-Revision-Date: 2025-04-29 20:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -2406,7 +2406,7 @@ msgstr "Je commence l'aventure ici."
 
 # game/Intro01.rpy:885
 msgid "Why don't you escape? "
-msgstr "Pourquoi tu ne t'enfuir pas? "
+msgstr "Pourquoi tu ne t'enfuis pas? "
 
 # game/Intro01.rpy:885
 msgid "{color=#797979}Why don't you escape?{/color}"
