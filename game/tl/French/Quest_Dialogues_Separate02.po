@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 20:42\n"
+"PO-Revision-Date: 2025-04-29 20:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -1542,11 +1542,11 @@ msgstr "[_am_] _tb_] Exactement ! À plus tard !"
 
 # game/Quest_Dialogues_Separate02.rpy:1068 #-#-# translate crowdin QuestChap2_Amelia01_01_a5bb5ce4:
 msgid "[_am_s_] Hey [name]! I was just looking for you!"
-msgstr "[_am_] _am_s_] Hey [name] ! J'étais juste à la recherche de toi !"
+msgstr "[_am_s_] Hey [name] ! J'étais juste à la recherche de toi !"
 
 # game/Quest_Dialogues_Separate02.rpy:1076 #-#-# translate crowdin QuestChap2_Amelia01_01_04606c67:
 msgid "[_am_s_] Glad to have you back with us! "
-msgstr "[_am_] _am_s_] Glad pour vous faire revenir avec nous ! "
+msgstr "[_am_s_] Glad pour vous faire revenir avec nous ! "
 
 # game/Quest_Dialogues_Separate02.rpy:1078 #-#-# translate crowdin QuestChap2_Amelia01_01_13c0611e:
 msgid "[_am_s_] It is really a pleasure to see that you are well!"
@@ -4085,7 +4085,7 @@ msgstr "[_am_] _jm_s_] Oh mon Dieu, je ne peux pas le croire ..."
 
 # game/Quest_Dialogues_Separate02.rpy:3119 #-#-# translate crowdin QuestChap2_LyStart_E_06_a0c88078:
 msgid "[_jm_s_] Really? That's the best Sherazade could come up with? "
-msgstr "[_am_] _jm_s_] Vraiement? C'est la meilleure Sherazade qui pourrait venir? "
+msgstr "[_jm_s_] Vraiement? C'est la meilleure Sherazade qui pourrait venir? "
 
 # game/Quest_Dialogues_Separate02.rpy:3120 #-#-# translate crowdin QuestChap2_LyStart_E_06_7869f3c2:
 msgid "[_jm_s_] You can tell her I won't be coming home!"
@@ -6717,11 +6717,11 @@ msgstr "[_am_] _u_] Voyons ce message ... "
 
 # game/Quest_Dialogues_Separate02.rpy:5091 #-#-# translate crowdin Ml_Ali_01_04_5ad5ba79:
 msgid "[_mss_] ''Dear [name], I've put this pair of wings in your path.''"
-msgstr "[_am_] _mss_] '' Cher [name], j'ai mis cette paire d'ailes dans votre chemin. ''"
+msgstr "[_mss_] '' Cher [name], j'ai mis cette paire d'ailes dans votre chemin. ''"
 
 # game/Quest_Dialogues_Separate02.rpy:5092 #-#-# translate crowdin Ml_Ali_01_04_ca4d7cd3:
 msgid "[_mss_] ''In all my years of roaming this planet I've only found one in good condition. You were clearly going to look for it for a long time without my help.''"
-msgstr "[_am_] _mss_] '' Dans toutes mes années d'itinérance cette planète, je n'en ai trouvé qu'un en bon état. Il était clair que vous allez le chercher longtemps sans mon aide."
+msgstr "[_mss_] ''Dans toutes mes années d'itinérance cette planète, je n'en ai trouvé qu'un en bon état. Il était clair que vous allez le chercher longtemps sans mon aide.\""
 
 # game/Quest_Dialogues_Separate02.rpy:5093 #-#-# translate crowdin Ml_Ali_01_04_bcf80f79:
 msgid "[_u_] Well, that's very kind. "
@@ -6741,7 +6741,7 @@ msgstr "[_am_] _mss_] '' Nous devons parler''"
 
 # game/Quest_Dialogues_Separate02.rpy:5097 #-#-# translate crowdin Ml_Ali_01_04_30898486:
 msgid "[_mss_] PS: don't tell Tinker"
-msgstr "[_am_] _mss_] PS: Ne pas dire à Tinker"
+msgstr "[_mss_] PS: Ne pas dire à Tinker"
 
 # game/Quest_Dialogues_Separate02.rpy:5098 #-#-# translate crowdin Ml_Ali_01_04_e7743dcf:
 msgid "[_u_] Great."
