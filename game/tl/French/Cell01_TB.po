@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-29 20:14\n"
+"PO-Revision-Date: 2025-06-04 22:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -179,7 +179,6 @@ msgstr "[_am_] _u_] Je garde cela à l'esprit."
 # game/Cell01_TB.rpy:400 #-#-# translate crowdin Cell01_TB_Questions01_0ae9bcd0:
 msgid ""
 msgstr ""
-""
 
 # game/Cell01_TB.rpy:409 #-#-# translate crowdin Cell01_TB_QuestionsNones_313ba71d:
 msgid "[_tb_] Well, it's a long story..."
