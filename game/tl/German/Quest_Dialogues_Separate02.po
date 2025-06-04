@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-07-19 15:53\n"
+"PO-Revision-Date: 2025-06-04 22:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -3155,17 +3155,14 @@ msgstr ""
 # game/Quest_Dialogues_Separate02.rpy:2360 #-#-# translate crowdin Sceneqiu01_menu1_0ae9bcd0:
 msgid ""
 msgstr ""
-""
 
 # game/Quest_Dialogues_Separate02.rpy:2362 #-#-# translate crowdin Sceneqiu01_menu1_0ae9bcd0_1:
 msgid ""
 msgstr ""
-""
 
 # game/Quest_Dialogues_Separate02.rpy:2364 #-#-# translate crowdin Sceneqiu01_menu1_0ae9bcd0_2:
 msgid ""
 msgstr ""
-""
 
 # game/Quest_Dialogues_Separate02.rpy:2369 #-#-# translate crowdin Sceneqiu01_menu1_d6c26f46:
 msgid "[_qiu_] AaAAaaaahAAAhaaa..."
