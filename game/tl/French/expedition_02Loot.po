@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-14 18:13\n"
+"PO-Revision-Date: 2025-06-04 22:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
-msgstr "[_u_] C'est une sorte de coffre verrouillé ... "
+msgstr "[_am_] _u_] C'est une sorte de coffre verrouillé ... "
 
 # game/expedition_02Loot.rpy:231 #-#-# translate crowdin Expedition_02_CHEST_1f4a41b8:
 msgid "[_u_] There's a keyboard that only has numbers and capital letters. Nothing else, no spacebar."
-msgstr "[_u_] Il y a un clavier qui n'a que des chiffres et des majuscules. Rien d'autre, pas de barre d'espacement."
+msgstr "[_am_] _u_] Il y a un clavier qui n'a que des chiffres et des majuscules. Rien d'autre, pas de barre d'espacement."
 
 # game/expedition_02Loot.rpy:232 #-#-# translate crowdin Expedition_02_CHEST_354fa714:
 msgid "[_u_] A note on it says: "
-msgstr "[_u_] Une note sur ce sujet dit: "
+msgstr "[_am_] _u_] Une note sur ce sujet dit: "
 
 # game/expedition_02Loot.rpy:238 #-#-# translate crowdin EXPD_CHEST01_595302fd:
 msgid "''- PI (3 DIGITS) ''"
@@ -162,161 +162,161 @@ msgstr "MAUVAIS."
 
 # game/expedition_02Loot.rpy:701 #-#-# translate crowdin Expedition_02_ENDLOOT_6eecbab7:
 msgid "[_u_] Nice! Go give it to Lycoris, little drone!"
-msgstr "[_u_] Nice ! Allez le donner à Lycoris, petit drone !"
+msgstr "[_am_] _u_] Nice ! Allez le donner à Lycoris, petit drone !"
 
 # game/expedition_02Loot.rpy:750 #-#-# translate crowdin Expedition_02_QuestsLvl2_d14161b0:
 msgid "[_u_] That's new."
-msgstr "[_u_] C'est nouveau."
+msgstr "[_am_] _u_] C'est nouveau."
 
 # game/expedition_02Loot.rpy:751 #-#-# translate crowdin Expedition_02_QuestsLvl2_a34f93d7:
 msgid "[_u_] Why did you show me this? "
-msgstr "[_u_] Pourquoi m'as-tu montré ça? "
+msgstr "[_am_] _u_] Pourquoi m'as-tu montré ça? "
 
 # game/expedition_02Loot.rpy:752 #-#-# translate crowdin Expedition_02_QuestsLvl2_e54a7f0b:
 msgid "[_u_] Hey, Tinker! What have I found?"
-msgstr "[_u_] Hé, Tinker ! Qu'est-ce que j'ai trouvé?"
+msgstr "[_am_] _u_] Hé, Tinker ! Qu'est-ce que j'ai trouvé?"
 
 # game/expedition_02Loot.rpy:754 #-#-# translate crowdin Expedition_02_QuestsLvl2_8efc9fd4:
 msgid "[_tb_] What do you say? "
-msgstr "[_tb_] Que dis-tu? "
+msgstr "[_am_] _tb_] Que dis-tu? "
 
 # game/expedition_02Loot.rpy:756 #-#-# translate crowdin Expedition_02_QuestsLvl2_390d2465:
 msgid "[_tb_] Oh! This must surely be Outpost 23 in the ''Magic Forest'' area."
-msgstr "[_tb_] Oh ! Cela doit sûrement être Outpost 23 dans la zone '' Forest Forest''."
+msgstr "[_am_] _tb_] Oh ! Cela doit sûrement être Outpost 23 dans la zone '' Forest Forest''."
 
 # game/expedition_02Loot.rpy:758 #-#-# translate crowdin Expedition_02_QuestsLvl2_36102cb1:
 msgid "[_tb_] It is an observation post and a warehouse."
-msgstr "[_tb_] C'est un poste d'observation et un entrepôt."
+msgstr "[_am_] _tb_] C'est un poste d'observation et un entrepôt."
 
 # game/expedition_02Loot.rpy:760 #-#-# translate crowdin Expedition_02_QuestsLvl2_d0e658f7:
 msgid "[_tb_] Actualy... we used it to put everything we didn't know where to put... "
-msgstr "[_tb_] Actualy ... nous l'avons utilisé pour mettre tout ce que nous ne savions pas où mettre ... "
+msgstr "[_am_] _tb_] Actualy ... nous l'avons utilisé pour mettre tout ce que nous ne savions pas où mettre ... "
 
 # game/expedition_02Loot.rpy:761 #-#-# translate crowdin Expedition_02_QuestsLvl2_f6942f87:
 msgid "[_u_] Great, a garbage room. "
-msgstr "[_u_] Super, une poubelle. "
+msgstr "[_am_] _u_] Super, une poubelle. "
 
 # game/expedition_02Loot.rpy:762 #-#-# translate crowdin Expedition_02_QuestsLvl2_00fe4e2f:
 msgid "[_u_] Do you think there might be tools in there? "
-msgstr "[_u_] Pensez-vous qu'il y ait des outils là-bas? "
+msgstr "[_am_] _u_] Pensez-vous qu'il y ait des outils là-bas? "
 
 # game/expedition_02Loot.rpy:764 #-#-# translate crowdin Expedition_02_QuestsLvl2_f012f2c2:
 msgid "[_tb_] Gosh, no Idea!"
-msgstr "[_tb_] Gosh, no Idea !"
+msgstr "[_am_] _tb_] Gosh, no Idea !"
 
 # game/expedition_02Loot.rpy:766 #-#-# translate crowdin Expedition_02_QuestsLvl2_da3b6de0:
 msgid "[_tb_] I'll put a teleportation point there if you want to take a look."
-msgstr "[_tb_] Je mets un point de téléportation là si tu veux jeter un oeil."
+msgstr "[_am_] _tb_] Je mets un point de téléportation là si tu veux jeter un oeil."
 
 # game/expedition_02Loot.rpy:783 #-#-# translate crowdin Expedition_02_QuestsLvl2_e0ab0c9c:
 msgid "[_u_] What is this thing doing here? "
-msgstr "[_u_] Qu'est-ce que cette chose fait ici? "
+msgstr "[_am_] _u_] Qu'est-ce que cette chose fait ici? "
 
 # game/expedition_02Loot.rpy:784 #-#-# translate crowdin Expedition_02_QuestsLvl2_d82e7a6a:
 msgid "[_u_] It doesn't look old... "
-msgstr "[_u_] Il n'a pas l'air vieux ... "
+msgstr "[_am_] _u_] Il n'a pas l'air vieux ... "
 
 # game/expedition_02Loot.rpy:785 #-#-# translate crowdin Expedition_02_QuestsLvl2_7faf4016:
 msgid "[_u_] In fact, it's brand new."
-msgstr "[_u_] En fait, c'est une toute nouvelle."
+msgstr "[_am_] _u_] En fait, c'est une toute nouvelle."
 
 # game/expedition_02Loot.rpy:786 #-#-# translate crowdin Expedition_02_QuestsLvl2_cc565bd7:
 msgid "[_u_] And it's a luxury suitcase..."
-msgstr "[_u_] Et c'est une valise de luxe ..."
+msgstr "[_am_] _u_] Et c'est une valise de luxe ..."
 
 # game/expedition_02Loot.rpy:787 #-#-# translate crowdin Expedition_02_QuestsLvl2_f73bb457:
 msgid "[_u_] Who could be rich enough to afford a suitcase like that? "
-msgstr "[_u_] Qui pourrait être assez riche pour se permettre une valise comme ça? "
+msgstr "[_am_] _u_] Qui pourrait être assez riche pour se permettre une valise comme ça? "
 
 # game/expedition_02Loot.rpy:788 #-#-# translate crowdin Expedition_02_QuestsLvl2_7b1c1392:
 msgid "[_u_] ..."
-msgstr "[_u_] ..."
+msgstr "[_am_] _u_] ..."
 
 # game/expedition_02Loot.rpy:804 #-#-# translate crowdin Expedition_02_QuestsLvl2_266e7731:
 msgid "[_u_] Hey, Amandine!"
-msgstr "[_u_] Hé, Amandine !"
+msgstr "[_am_] _u_] Hé, Amandine !"
 
 # game/expedition_02Loot.rpy:805 #-#-# translate crowdin Expedition_02_QuestsLvl2_ffe2eb22:
 msgid "[_u_] I found another one of your luggage!"
-msgstr "[_u_] J'ai trouvé un autre de vos bagages !"
+msgstr "[_am_] _u_] J'ai trouvé un autre de vos bagages !"
 
 # game/expedition_02Loot.rpy:814 #-#-# translate crowdin Expedition_02_QuestsLvl2_93443bbf:
 msgid "[_a_] Great!"
-msgstr "[_a_] Super !"
+msgstr "[_am_] _a_] Super !"
 
 # game/expedition_02Loot.rpy:816 #-#-# translate crowdin Expedition_02_QuestsLvl2_bcfa6146:
 msgid "[_a_] I think there's only one left. "
-msgstr "[_a_] Je pense qu'il n'y a qu'une gauche. "
+msgstr "[_am_] _a_] Je pense qu'il n'y a qu'une gauche. "
 
 # game/expedition_02Loot.rpy:817 #-#-# translate crowdin Expedition_02_QuestsLvl2_6d15fede:
 msgid "[_u_] Okay, I'll see if I can find it. "
-msgstr "[_u_] Ok, je vais voir si je peux le trouver. "
+msgstr "[_am_] _u_] Ok, je vais voir si je peux le trouver. "
 
 # game/expedition_02Loot.rpy:819 #-#-# translate crowdin Expedition_02_QuestsLvl2_f3bb4d31:
 msgid "[_a_] Merci [name]!"
-msgstr "[_a_] Merci [name] !"
+msgstr "[_am_] _a_] Merci [name] !"
 
 # game/expedition_02Loot.rpy:839 #-#-# translate crowdin Expedition_02_QuestsLvl2_88834378:
 msgid "[_u_] And here's the last one!"
-msgstr "[_u_] Et voici le dernier !"
+msgstr "[_am_] _u_] Et voici le dernier !"
 
 # game/expedition_02Loot.rpy:840 #-#-# translate crowdin Expedition_02_QuestsLvl2_1b29416e:
 msgid "[_u_] Let's go see Amandine."
-msgstr "[_u_] Allons voir Amandine."
+msgstr "[_am_] _u_] Allons voir Amandine."
 
 # game/expedition_02Loot.rpy:855 #-#-# translate crowdin Expedition_02_QuestsLvl2_a55158c7:
 msgid "[_u_] Wow... this is useless..."
-msgstr "[_u_] Wow ... c'est inutile ..."
+msgstr "[_am_] _u_] Wow ... c'est inutile ..."
 
 # game/expedition_02Loot.rpy:856 #-#-# translate crowdin Expedition_02_QuestsLvl2_915dd1ae:
 msgid "[_u_] Melissandre? Can you do anything with a pair of broken wings? "
-msgstr "[_u_] Melissandre? Peux-tu faire quoi que ce soit avec une paire de ailes cassées? "
+msgstr "[_am_] _u_] Melissandre? Peux-tu faire quoi que ce soit avec une paire de ailes cassées? "
 
 # game/expedition_02Loot.rpy:865 #-#-# translate crowdin Expedition_02_QuestsLvl2_6dcf64ee:
 msgid "[_ml_] No, it's useless. "
-msgstr "[_ml_] Non, c'est inutile. "
+msgstr "[_am_] _ml_] Non, c'est inutile. "
 
 # game/expedition_02Loot.rpy:871 #-#-# translate crowdin Expedition_02_QuestsLvl2_181d9be5:
 msgid "[_u_] Yup..."
-msgstr "[_u_] Yup ..."
+msgstr "[_am_] _u_] Yup ..."
 
 # game/expedition_02Loot.rpy:872 #-#-# translate crowdin Expedition_02_QuestsLvl2_c1222762:
 msgid "[_u_] Let's keep looking. "
-msgstr "[_u_] Ne regardons pas. "
+msgstr "[_am_] _u_] Ne regardons pas. "
 
 # game/expedition_02Loot.rpy:888 #-#-# translate crowdin Expedition_02_QuestsLvl3_2ac62fd7:
 msgid "[_u_] And here's the feather!"
-msgstr "[_u_] Et voici la plume !"
+msgstr "[_am_] _u_] Et voici la plume !"
 
 # game/expedition_02Loot.rpy:889 #-#-# translate crowdin Expedition_02_QuestsLvl3_1b29416e:
 msgid "[_u_] Let's go see Amandine."
-msgstr "[_u_] Allons voir Amandine."
+msgstr "[_am_] _u_] Allons voir Amandine."
 
 # game/expedition_02Loot.rpy:904 #-#-# translate crowdin Expedition_02_QuestsLvl3_a271d58e:
 msgid "[_u_] Perfect!"
-msgstr "[_u_] Parfait !"
+msgstr "[_am_] _u_] Parfait !"
 
 # game/expedition_02Loot.rpy:905 #-#-# translate crowdin Expedition_02_QuestsLvl3_5bb4b525:
 msgid "[_u_] I hope Lycoris manages to change this dress before Sherazade realizes it's gone. "
-msgstr "[_u_] J'espère que Lycoris réussit à changer cette robe avant que Sherazade ne se rende compte qu'elle est partie. "
+msgstr "[_am_] _u_] J'espère que Lycoris réussit à changer cette robe avant que Sherazade ne se rende compte qu'elle est partie. "
 
 # game/expedition_02Loot.rpy:920 #-#-# translate crowdin Expedition_02_QuestsLvl3_6aecdb4b:
 msgid "[_u_] That's better!"
-msgstr "[_u_] C'est mieux !"
+msgstr "[_am_] _u_] C'est mieux !"
 
 # game/expedition_02Loot.rpy:921 #-#-# translate crowdin Expedition_02_QuestsLvl3_aefc00b5:
 msgid "[_u_] Well, it wasn't that complicated. "
-msgstr "[_u_] Eh bien, ce n'était pas si compliqué. "
+msgstr "[_am_] _u_] Eh bien, ce n'était pas si compliqué. "
 
 # game/expedition_02Loot.rpy:928 #-#-# translate crowdin Expedition_02_QuestsLvl3_0f07ccc4:
 msgid "[_u_] ?"
-msgstr "[_u_] ?"
+msgstr "[_am_] _u_] ?"
 
 # game/expedition_02Loot.rpy:929 #-#-# translate crowdin Expedition_02_QuestsLvl3_0052d0cd:
 msgid "[_u_] There seems to be a message next to the wings... "
-msgstr "[_u_] Il semble y avoir un message à côté des ailes ... "
+msgstr "[_am_] _u_] Il semble y avoir un message à côté des ailes ... "
 
 # game/expedition_02Loot.rpy:930 #-#-# translate crowdin Expedition_02_QuestsLvl3_174883c1:
 msgid "[_u_] Let's get it all back. "
-msgstr "[_u_] Mettons-nous tout en arrière. "
+msgstr "[_am_] _u_] Mettons-nous tout en arrière. "
 
