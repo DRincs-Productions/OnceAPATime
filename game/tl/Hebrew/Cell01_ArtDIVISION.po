@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-30 19:05\n"
+"PO-Revision-Date: 2025-06-04 22:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -359,12 +359,10 @@ msgstr ""
 # game/Cell01_ArtDIVISION.rpy:553 #-#-# translate crowdin Quest2_A_Talk02_0ae9bcd0:
 msgid ""
 msgstr ""
-""
 
 # game/Cell01_ArtDIVISION.rpy:572 #-#-# translate crowdin Quest2_A_Talk03_0ae9bcd0:
 msgid ""
 msgstr ""
-""
 
 # game/Cell01_ArtDIVISION.rpy:587 #-#-# translate crowdin QuestChap2_Amandine02_02_f03364d0:
 msgid "[_u_] Wow... "
@@ -5313,7 +5311,6 @@ msgstr ""
 # game/Cell01_ArtDIVISION.rpy:546
 msgid ""
 msgstr ""
-""
 
 # game/Cell01_ArtDIVISION.rpy:731
 msgid "It looks fun to be so famous"
