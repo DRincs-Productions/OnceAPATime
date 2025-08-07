@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-06-04 22:50\n"
+"PO-Revision-Date: 2025-08-07 15:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -418,7 +418,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:663 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7aeaa621:
 msgid "[_u_] It's true that we have been waiting for a while for her next book..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_ArtDIVISION.rpy:664 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392:
 msgid "[_u_] ..."
@@ -426,7 +426,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:665 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_c14f831e:
 msgid "[_u_] Let's see what's next..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_ArtDIVISION.rpy:669 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_93adb657:
 msgid "[_u_] Yeah... "
