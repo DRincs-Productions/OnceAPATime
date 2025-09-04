@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-06-04 22:51\n"
+"PO-Revision-Date: 2025-09-04 17:52\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -678,11 +678,11 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:823 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_14145408:
 msgid "[_a_] But yeah... this thing is absolutely amazing!"
-msgstr ""
+msgstr "[_a_] Но да... эта штука просто потрясающая!"
 
 # game/Cell01_ArtDIVISION.rpy:825 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_0d12b5e5:
 msgid "[_a_] So... "
-msgstr ""
+msgstr "[_a_] Итак... "
 
 # game/Cell01_ArtDIVISION.rpy:827 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_4ac98251:
 msgid "[_a_] Tinker told me that you might be able to help me?"
