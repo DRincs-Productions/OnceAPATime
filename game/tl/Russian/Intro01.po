@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:15\n"
+"PO-Revision-Date: 2025-10-31 17:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -290,7 +290,7 @@ msgstr "[_u_] Сезам, откройся!"
 
 # game/Intro01.rpy:464 #-#-# translate crowdin Prison01_key_6b4cbdc9:
 msgid "[_ly_] Hello."
-msgstr ""
+msgstr "[_ly_] Привет."
 
 # game/Intro01.rpy:466 #-#-# translate crowdin Prison01_key_4bada43c:
 msgid "[_ly_] Je suis pas trop bonne?"
