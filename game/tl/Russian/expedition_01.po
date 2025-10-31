@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2025-10-31 17:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
-msgstr ""
+msgstr "У дрона есть [ITEM_DRONE_EMERCELL01_UTILISATIONS] Аварийный энергетический элемент. ( [ITEM_DRONE_EMERCELL01] остался в вашем инвентаре). "
 
 # game/expedition_01.rpy:76 #-#-# translate crowdin expedition_01lvl01_ab76970e:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. "
-msgstr ""
+msgstr "У дрона есть [ITEM_DRONE_EMERCELL01_UTILISATIONS] Аварийная энергетическая ячейка. "
 
 # game/expedition_01.rpy:77 #-#-# translate crowdin expedition_01lvl01_275f7d87:
 msgid "Emergency Energy Cell allows your drone to recover if it runs out of power by giving it 2PA."
-msgstr ""
+msgstr "Ген экстренной энергетики позволяет восстановить ваш дрон в случае нехватки энергии, давая ему 2PA."
 
 # game/expedition_01.rpy:78 #-#-# translate crowdin expedition_01lvl01_5daf38f0:
 msgid "Your drone can only take two of them with it for each expedition."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/expedition_01.rpy:94 #-#-# translate crowdin expedition_01lvl01_c04eea25:
 msgid "Ok!"
-msgstr ""
+msgstr "Хорошо!"
 
 # game/expedition_01.rpy:96 #-#-# translate crowdin expedition_01lvl01_0908d850:
 msgid "[_u_] The Drone is sent to the area"
