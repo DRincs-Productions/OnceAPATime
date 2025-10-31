@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-10 17:12\n"
+"PO-Revision-Date: 2025-10-31 18:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -746,7 +746,7 @@ msgstr " {color=#3c96f2}={/color} Тинкер // ''Арабская ночь'' 
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Wish Outfit'' {color=#3c96f2}={/color} "
-msgstr " {color=#3c96f2}={/color} Кинкера // ''Наряд Желаний'' {color=#3c96f2}={/color} "
+msgstr " {color=#3c96f2}={/color} Тинкер // ''Наряд Желаний'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Vintage Workwear'' {color=#3c96f2}={/color} "
