@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-06-04 22:50\n"
+"PO-Revision-Date: 2026-03-18 22:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -198,7 +198,7 @@ msgstr "[_tb_] De todos modos, bienvenido a nuestro planeta Miss De Beauregard!"
 
 # game/Quest_Dialogues_Separate02.rpy:177 #-#-# translate crowdin Intro_Rooms_Amandine01_eefdab16:
 msgid "[_tb_] I hope your trip was not too long!"
-msgstr ""
+msgstr "¡Espero que tu viaje no haya sido tan largo!"
 
 # game/Quest_Dialogues_Separate02.rpy:179 #-#-# translate crowdin Intro_Rooms_Amandine01_0fe08d43:
 msgid "[_u_] ???"
@@ -206,35 +206,35 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:180 #-#-# translate crowdin Intro_Rooms_Amandine01_068501e3:
 msgid "[_u_] Um... Tinker?"
-msgstr ""
+msgstr "Este... Tinker?"
 
 # game/Quest_Dialogues_Separate02.rpy:183 #-#-# translate crowdin Intro_Rooms_Amandine01_74bd73ad:
 msgid "[_tb_] Yes?"
-msgstr ""
+msgstr "Si?"
 
 # game/Quest_Dialogues_Separate02.rpy:184 #-#-# translate crowdin Intro_Rooms_Amandine01_0441ea09:
 msgid "[_u_] Don't you think you're missing something here? "
-msgstr ""
+msgstr "No crees que te olvidas de algo aquí ?"
 
 # game/Quest_Dialogues_Separate02.rpy:187 #-#-# translate crowdin Intro_Rooms_Amandine01_9ff47697:
 msgid "[_tb_] Oh yes!"
-msgstr ""
+msgstr "Oh sí!"
 
 # game/Quest_Dialogues_Separate02.rpy:189 #-#-# translate crowdin Intro_Rooms_Amandine01_b45d9901:
 msgid "[_tb_] Miss, let me show you to your quarters."
-msgstr ""
+msgstr "Señorita, permítame mostrarle sus aposentos"
 
 # game/Quest_Dialogues_Separate02.rpy:191 #-#-# translate crowdin Intro_Rooms_Amandine01_08d20974:
 msgid "[_tb_] I'll give you a tour of our headquarters afterwards. "
-msgstr ""
+msgstr "Luego haremos un recorrido de nuestra sede"
 
 # game/Quest_Dialogues_Separate02.rpy:193 #-#-# translate crowdin Intro_Rooms_Amandine01_88d46526:
 msgid "[_a_] Merci, that's really nice of you."
-msgstr ""
+msgstr "(Gracias), es muy amable de tu parte"
 
 # game/Quest_Dialogues_Separate02.rpy:195 #-#-# translate crowdin Intro_Rooms_Amandine01_87dafe60:
 msgid "[_tb_] Please, go ahead, it's this way."
-msgstr ""
+msgstr "Porfavor, ve recto por este camino"
 
 # game/Quest_Dialogues_Separate02.rpy:199 #-#-# translate crowdin Intro_Rooms_Amandine01_42c7d649:
 msgid "[_u_] She has quarters? Seriously? "
